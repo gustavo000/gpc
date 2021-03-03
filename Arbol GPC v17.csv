@@ -1,0 +1,2973 @@
+Name;Level;ID_GPC;ID_PIM
+Arte/artesanía/costura;Level 1;70000000;70000000
+Artículos de arte/artesanía/costura;Level 2;70010000;70010000
+Artículos de pintura con aerógrafo;Level 3;70010200;70010200
+Aerógrafos (eléctricos);Level 4;10001686;10001686
+Equipo de aerógrafos – Accesorios/recambios;Level 4;10001688;10001688
+Otros artículos para aerógrafos;Level 4;10001690;10001690
+Paquetes variados de artículos para aerógrafos;Level 4;10001689;10001689
+Artículos de dibujo/pintura para artistas;Level 3;70010100;70010100
+Accesorios para artistas;Level 4;10001682;10001682
+Aplicadores/brochas de artistas;Level 4;10001674;10001674
+Tableros preparados/lonas para artistas;Level 4;10001679;10001679
+Tableros de dibujo de artistas;Level 4;10005372;10005372
+Caballetes para artistas;Level 4;10001681;10001681
+Agentes para superficies de pinturas para artistas;Level 4;10001678;10001678
+Otros artículos de dibujo/pintura para artistas;Level 4;10001685;10001685
+Paquetes variados de artículos de dibujo/pintura para artistas;Level 4;10001684;10001684
+Tintes/pinturas para artistas;Level 4;10001676;10001676
+Paletas para artistas;Level 4;10001680;10001680
+Ceras/carboncillos/pasteles para artistas;Level 4;10001677;10001677
+Artículos para arte con arena;Level 4;10001683;10001683
+Paquetes variados de artesanía/artes;Level 3;70011300;70011300
+Artículos para cestería;Level 3;70010600;70010600
+Accesorios para cestería;Level 4;10001723;10001723
+Materiales para cestería;Level 4;10001721;10001721
+Otros artículos de cestería;Level 4;10001725;10001725
+Paquetes variados de artículos de cestería;Level 4;10001724;10001724
+Herramientas para cestería (no eléctricas);Level 4;10001722;10001722
+Artículos para fabricar jabón/velas;Level 3;70010900;70010900
+Materiales para trabajos con jabones/velas;Level 4;10001736;10001736
+Moldes para trabajos con jabones/velas;Level 4;10001737;10001737
+Otros artículos para trabajos con jabones/velas;Level 4;10001741;10001741
+Paquetes variados de artículos para trabajos con jabones/velas;Level 4;10001740;10001740
+Herrmientas para trabajos con jabones/velas (no eléctricas);Level 4;10001738;10001738
+Herrmientas para trabajos con jabones/velas (eléctricas);Level 4;10001739;10001739
+Artículos para marquetería/esmaltado/vidrio;Level 3;70010800;70010800
+Herramientas para trabajos de cristalería (eléctricas);Level 4;10001732;10001732
+Materiales de marquetería/esmaltado/cristalería;Level 4;10001731;10001731
+Otros artículos de marquetería/esmaltado/cristalería;Level 4;10001735;10001735
+Paquetes variados de artículos de marquetería/esmaltado/cristalería;Level 4;10001734;10001734
+Artículos para joyería;Level 3;70010500;70010500
+Accesorios para fabricar joyas;Level 4;10001718;10001718
+Materiales para fabricar joyas;Level 4;10001717;10001717
+Otros artículos para fabricar joyas;Level 4;10001720;10001720
+Paquetes variados de artículos para fabricar joyas;Level 4;10001719;10001719
+Artículos para fabricar juguetes/labores de costura;Level 3;70010400;70010400
+Materiales de manualidades de espuma;Level 4;10005713;10005713
+Encajes/cintas/cordones/galones;Level 4;10001700;10001700
+Accesorios para costura;Level 4;10001714;10001714
+Telas/tejidos para costura;Level 4;10001699;10001699
+Sistemas de cierre para costura;Level 4;10001710;10001710
+Herramientas mecánicas/manuales para costura;Level 4;10001702;10001702
+Equipo para marcar costuras;Level 4;10001705;10001705
+Almacenamiento de costura;Level 4;10001712;10001712
+Plantillas para costura;Level 4;10001713;10001713
+Hilos para costura;Level 4;10001701;10001701
+Otros artículos para hacer jueguetes/costura;Level 4;10001716;10001716
+Paquetes variados de artículos para hacer jueguetes/costura;Level 4;10001715;10001715
+Maquinaria para tejer/coser (no eléctrica);Level 4;10001706;10001706
+Maquinaria para tejer/coser (eléctrica);Level 4;10001707;10001707
+Acceorios para hacer jueguetes;Level 4;10001711;10001711
+Artículos para fabricar tarjetas/papel;Level 3;70010700;70010700
+Herrmientas para realizar artículos de papel (no eléctricas);Level 4;10001726;10001726
+Otros artículos de papel/cartulina;Level 4;10001730;10001730
+Paquetes variados de artículos para realizar artículos de cartulina/papel;Level 4;10001729;10001729
+Accesorios para realizar artículos de cartulina/papel;Level 4;10001727;10001727
+Artículos para impresión;Level 3;70011100;70011100
+Otros artículos para trabajos de impresión;Level 4;10001753;10001753
+Paquetes variados de artículos para trabajos de impresión;Level 4;10001752;10001752
+Herramientas para trabajos de impresión;Level 4;10001748;10001748
+Prensas para imprimir (no eléctricas);Level 4;10001750;10001750
+Prensas para imprimir (eléctricas);Level 4;10001749;10001749
+Artículos para alfarería/escultores;Level 3;70010300;70010300
+Hornos (eléctricos);Level 4;10001694;10001694
+Ruedas para alfarería (no eléctricas);Level 4;10001696;10001696
+Ruedas para alfarería (eléctricas);Level 4;10001695;10001695
+Herramientas para escultores (no eléctricas);Level 4;10001692;10001692
+Herramientas para escultores (eléctricas);Level 4;10001693;10001693
+Materiales de alferería/escultores;Level 4;10001691;10001691
+Otros artículos de alferería/escultores;Level 4;10001698;10001698
+Paquetes variados de artículos de alferería/escultores;Level 4;10001697;10001697
+Artículos para tejer/hilar;Level 3;70011200;70011200
+Trabajos de telares/hilados – Accesorios/recambios;Level 4;10001757;10001757
+Otros artículos para trabajos de telares/hilados;Level 4;10001758;10001758
+Paquetes variados de artículos para trabajos de telares/hilados;Level 4;10001759;10001759
+Hilos/fibras para telares/hilados;Level 4;10001756;10001756
+Máquinas para hilar/telares (no eléctricas);Level 4;10001755;10001755
+Máquinas para hilar/telares (eléctricas);Level 4;10001754;10001754
+Artículos para grabado/pirograbado en madera;Level 3;70011000;70011000
+Trabajos de tallado/grabado de madera – Accesorios/recambios;Level 4;10001744;10001744
+Otros artículos de trabajos de tallado/grabado de madera;Level 4;10001746;10001746
+Herramientas de tallado/grabado de madera (eléctricas);Level 4;10001743;10001743
+Herramientas de tallado/grabado de madera (eléctricas);Level 4;10001742;10001742
+Audiovisual/fotografía;Level 1;68000000;68000000
+Equipos audiovisuales;Level 2;68010000;68010000
+Accesorios audiovisuales;Level 3;68010700;68010700
+Conversores analógicos/digitales;Level 4;10005726;10005726
+Auriculares;Level 4;10001467;10001467
+Accesorios audivisuales – Recambios;Level 4;10001483;10001483
+Otros accesorios audiovisuales;Level 4;10001484;10001484
+Paquetes variados de accesorios audiovisuales;Level 4;10001482;10001482
+Bolsas/cajas/estuches/carteras audiovisuales;Level 4;10001478;10001478
+Productos de limpieza para equipos audiovisuales;Level 4;10001480;10001480
+Sistemas de etiquetación de sistemas audiovisuales;Level 4;10005744;10005744
+Escuadras/soportes para sistemas audiovisuales;Level 4;10001477;10001477
+Convertidor de cintas;Level 4;10001475;10001475
+Megáfonos;Level 4;10005204;10005204
+Micrófonos;Level 4;10001476;10001476
+Estaciones de conexión para MP3;Level 4;10005747;10005747
+Repetidores de señal;Level 4;10001468;10001468
+Efectos de luces activados por sonido;Level 4;10005809;10005809
+Cajas del interruptor;Level 4;10001472;10001472
+Paquetes de Internet y televisión;Level 4;10001479;10001479
+Mandos a distancia universales;Level 4;10001470;10001470
+Silenciadores/amortiguadores de vibraciones;Level 4;10005746;10005746
+Amplificadores de distribución visual;Level 4;10005735;10005735
+Enlaces inalámbricos de televisión;Level 4;10001469;10001469
+Paquetes variados de equipos audiovisuales;Level 3;68010800;68010800
+Paquetes variados de equipos audiovisuales;Level 4;10001485;10001485
+Equipo de audio doméstico;Level 3;68010400;68010400
+Amplificadores/preamplificadores domésticos de audio;Level 4;10001429;10001429
+Pletinas de cintas de audio domésticas;Level 4;10001432;10001432
+Pletinas de CD de audio domésticas;Level 4;10001433;10001433
+Equipo doméstico de efectos de audio;Level 4;10001443;10001443
+Equipo doméstico de audio – Accesorios/recambios;Level 4;10001447;10001447
+Otros equipos domésticos de audio;Level 4;10001448;10001448
+Paquetes variados de equipos domésticos de audio;Level 4;10001446;10001446
+Gramola doméstica;Level 4;10001440;10001440
+Equipo de karaoke doméstico;Level 4;10001441;10001441
+Pletinas de MD de audio domésticas;Level 4;10001434;10001434
+Radios/sintonizadores/receptores de audio domésticos;Level 4;10001437;10001437
+Equipo de altavoces domésticos;Level 4;10001436;10001436
+Altavoces domésticos – Individuales;Level 4;10001435;10001435
+Mezcladores domésticos audiovisuales;Level 4;10001442;10001442
+Equipo estéreo doméstico;Level 4;10001430;10001430
+Equipo de cine doméstico;Level 4;10001431;10001431
+Plataforma giratoria – CD;Level 4;10001444;10001444
+Plataforma giratoria – Vinilo;Level 4;10001439;10001439
+Artículos portátiles de vídeo/audio;Level 3;68010300;68010300
+Radiodespertadores;Level 4;10001424;10001424
+Grabadoras;Level 4;10001425;10001425
+Reproductores portátiles de cintas de audio;Level 4;10001419;10001419
+Artículos portátiles de vídeo/audio – Accesorios/recambios;Level 4;10001427;10001427
+Otros artículos portátiles de vídeo/audio;Level 4;10001428;10001428
+Paquetes variados de artículos portátiles de vídeo/audio;Level 4;10001426;10001426
+Reproductores protátiles de CD;Level 4;10001416;10001416
+Reproductores portátiles de vídeo digital;Level 4;10001421;10001421
+Reproductores portátiles de DVD;Level 4;10001420;10001420
+Transmisores FM (Modulación de frecuencia) portátiles;Level 4;10005765;10005765
+Reproductores portátiles de MD;Level 4;10001417;10001417
+Reproductores portátiles de MP3;Level 4;10001418;10001418
+Sistemas de música portátiles PA (dirección pública);Level 4;10005807;10005807
+Radios portátiles con grabadoras;Level 4;10001423;10001423
+Radios portátiles;Level 4;10001422;10001422
+Altavoces portátiles;Level 4;10005710;10005710
+Televisores;Level 3;68010100;68010100
+Combinaciones de televisores;Level 4;10001401;10001401
+Televisores;Level 4;10001400;10001400
+Televisores – De mano;Level 4;10001402;10001402
+Televisores – Accesorios/recambios;Level 4;10001404;10001404
+Otros televisores;Level 4;10001405;10001405
+Paquetes variados de televisores;Level 4;10001403;10001403
+Recepción/instalación de vídeo;Level 3;68010900;68010900
+Antenas;Level 4;10001411;10001411
+Receptores visuales/de audio;Level 4;10005841;10005841
+Conversores en bloque de baja figura de ruido (LNB);Level 4;10005736;10005736
+Accesorios para la recepción del sistema de satélite;Level 4;10005760;10005760
+Sistemas de antena terrestres/parabólicas;Level 4;10005829;10005829
+Aparatos con convertidor y descodificador integrados;Level 4;10001409;10001409
+Accesorios para sistemas de recepción/instalación de vídeo;Level 4;10005738;10005738
+Paquetes variados de sistemas de recepción/instalación de vídeo;Level 4;10005739;10005739
+Reproducción/grabación de vídeo;Level 3;68010200;68010200
+Audiogramas;Level 4;10005808;10005808
+Videocámaras;Level 4;10001406;10001406
+Combinación de grabador/reproductor;Level 4;10001408;10001408
+Grabadoras/reproductores de DVD;Level 4;10001407;10001407
+Grabadores de tarjetas de memoria;Level 4;10005748;10005748
+Grabadoras/reproductores de vídeo;Level 4;10001412;10001412
+Videograbadora con disco duro;Level 4;10001410;10001410
+Grabación/reproducción de vídeo – Accesorios/recambios;Level 4;10001414;10001414
+Paquetes variados de grabación/reproducción de vídeo;Level 4;10001413;10001413
+Medios de comunicación audiovisual;Level 2;68040000;68040000
+Productos multimedia o productos digitales pregrabados;Level 3;68040100;68040100
+Audio (no música) – Digital;Level 4;10006240;10006240
+Cintas de audio – Pregrabadas;Level 4;10001464;10001464
+CD/MD – Pregrabados;Level 4;10001459;10001459
+Discos duales – Pregrabados;Level 4;10003718;10003718
+DVD – Pregrabados;Level 4;10001460;10001460
+Gráficos – Digital;Level 4;10006245;10006245
+Películas – Digital;Level 4;10006241;10006241
+Música – Digital;Level 4;10006239;10006239
+Otros productos multimedia pregrabados;Level 4;10001466;10001466
+Paquetes variados de productos multimedia pregrabados;Level 4;10001465;10001465
+Tonos teléfonicos – Digital;Level 4;10006243;10006243
+Espectáculo de televisión – Digital;Level 4;10006244;10006244
+Video (no películas) – Digital;Level 4;10006242;10006242
+Cintas de vídeo – Pregrabadas;Level 4;10001463;10001463
+Vinilo – Pregrabados;Level 4;10001462;10001462
+Productos multimedia grabables;Level 3;68040200;68040200
+Cintas de audio – Grabables;Level 4;10001449;10001449
+CD/MD – Grabables;Level 4;10001450;10001450
+DVD – Grabables;Level 4;10001451;10001451
+Discos flexibles;Level 4;10001456;10001456
+Tarjetas de memoria;Level 4;10001452;10001452
+Otros productos multimedia grabables;Level 4;10001458;10001458
+Paquetes variados de productos multimedia grabables;Level 4;10001457;10001457
+Memorias USB;Level 4;10006398;10006398
+Cintas de vídeo – Grabables;Level 4;10001455;10001455
+Paquetes variados de audiovisual/fotografía;Level 2;68050000;68050000
+Paquetes variados de audiovisual/fotografía;Level 3;68050100;68050100
+Paquetes variados de audiovisual/fotografía;Level 4;10003777;10003777
+Productos electrónicos para el coche;Level 2;68030000;68030000
+Audio para coches;Level 3;68030200;68030200
+Equipos de audio para coches – Accesorios/recambios;Level 4;10001533;10001533
+Antenas de audio para coches;Level 4;10001531;10001531
+Amplificadores para coches;Level 4;10001530;10001530
+Cargadores/reproductores de cintas de audio para coches;Level 4;10005205;10005205
+Cargadores/reproductores de CD para coches;Level 4;10001527;10001527
+Unidades de cabezal de audio para coches;Level 4;10001525;10001525
+Cargadores/reproductores de MD para coches;Level 4;10001528;10001528
+Otros equipos de audio para coches;Level 4;10001534;10001534
+Altavoces para coches;Level 4;10001529;10001529
+Subwoofers de coche;Level 4;10005828;10005828
+Receptores/sintonizadores de audio para coches;Level 4;10001526;10001526
+Paquetes variados de audio para coches;Level 4;10001532;10001532
+Navegación/vídeo para coches;Level 3;68030100;68030100
+Soportes y bases para GPS automotrices;Level 4;10006403;10006403
+Reproductores de DVD para coches;Level 4;10001519;10001519
+Antenas GPS para coche;Level 4;10005749;10005749
+Equipos de navegación para coches;Level 4;10001517;10001517
+Detectores de radares para coches;Level 4;10005728;10005728
+Reproductores de cintas de audio para coches;Level 4;10001520;10001520
+Monitores de vídeo para coches;Level 4;10001518;10001518
+Equipo de recepción de vídeo para coches;Level 4;10001521;10001521
+Navegación/vídeo para coches – Accesorios/recambios;Level 4;10001523;10001523
+Otros artículos de navegación/vídeo para coches;Level 4;10001524;10001524
+Paquetes variados de navegación/vídeo para coches;Level 4;10001522;10001522
+Paquetes variados de productos electrónicos para el coche;Level 3;68030300;68030300
+Paquetes variados de productos electrónicos para el coche;Level 4;10003685;10003685
+Fotografía/óptica;Level 2;68020000;68020000
+Óptica;Level 3;68020200;68020200
+Binoculares;Level 4;10001499;10001499
+Gafas de aumento;Level 4;10003776;10003776
+Microscopios;Level 4;10001502;10001502
+Monoculares/telescopios;Level 4;10001501;10001501
+Productos ópticos – Accesorios/recambios;Level 4;10001505;10001505
+Otros productos ópticos;Level 4;10001506;10001506
+Paquetes variados de productos ópticos;Level 4;10001504;10001504
+Fotografía;Level 3;68020100;68020100
+Cámaras analógicas;Level 4;10001486;10001486
+Accesorios de flash para cámaras;Level 4;10005750;10005750
+Flases para cámaras;Level 4;10001489;10001489
+Cámaras digitales;Level 4;10001487;10001487
+Marcos fotográficos digitales;Level 4;10005700;10005700
+Lentes intercambiables;Level 4;10001491;10001491
+Almacenamiento de fotos de móviles;Level 4;10005842;10005842
+Álbumes fotográficos – Accesorios/recambios;Level 4;10005207;10005207
+Álbumes/cubos fotográficos;Level 4;10001495;10001495
+Filtros para cámara fotográfica;Level 4;10005755;10005755
+Película fotográfica;Level 4;10001490;10001490
+Proyectores de diapositivas;Level 4;10001492;10001492
+Sistema de almacenamiento de diapositivas;Level 4;10005752;10005752
+Diapositivas;Level 4;10001493;10001493
+Diapositivas – Recambios/accesorios;Level 4;10005751;10005751
+Flash electrónico de estudio fotográfico;Level 4;10005753;10005753
+Fotografía – Accesorios/ recambios;Level 4;10001494;10001494
+Otros artículos de fotografía;Level 4;10001498;10001498
+Paquetes variados de fotografía;Level 4;10001496;10001496
+Equipo para cuartos de revelado/impresión fotográfica;Level 3;68020300;68020300
+Productos químicos para el revelado fotográfico;Level 4;10001507;10001507
+Ampliadoras de fotografías;Level 4;10001508;10001508
+Papel fotográfico;Level 4;10001510;10001510
+Luces rojas para cuartos de revelado;Level 4;10001512;10001512
+Rollos/bandejas/tanques para cuartos de revelado;Level 4;10001513;10001513
+Equipo de secado fotográfico;Level 4;10001511;10001511
+Equipos para cuartos de revelado/impresión fotográfica – Accesorios/recambios;Level 4;10001515;10001515
+Otros equipos para cuartos de revelado/impresión fotográfica;Level 4;10001516;10001516
+Paquetes variados de equipos para cuartos de revelado/impresión fotográfica;Level 4;10001514;10001514
+Paquetes variados de productos ópticos/fotográficos;Level 3;68020400;68020400
+Paquetes variados de productos ópticos/fotográficos;Level 4;10003686;10003686
+Automotriz;Level 1;77000000;77000000
+Accesorios y mantenimiento de automóviles;Level 2;77010000;77010000
+Anticongelante para automóviles;Level 3;77015100;77015100
+Anticongelante/líquido refrigerante (Automóviles);Level 4;10005234;10005234
+Productos antirrobo para automóviles;Level 3;77013500;77013500
+Productos antirrobo – Otros;Level 4;10003009;10003009
+Alarmas para coche/alarmas antielevación;Level 4;10003004;10003004
+Inmobilizadores (Automóviles);Level 4;10005241;10005241
+Dispositivos de bloqueo;Level 4;10003755;10003755
+Dispositivos de seguimiento;Level 4;10003008;10003008
+Productos químicos para el exterior de automóviles;Level 3;77010400;77010400
+Químicos de aspecto- Otros (Automóviles);Level 4;10002776;10002776
+Paquetes variados de químicos de aspecto (Automóviles);Level 4;10002777;10002777
+Pintura automotriz;Level 4;10006378;10006378
+Cuidado de chasis de coches – Limpiadores/ceras/protectores/quitamanchas;Level 4;10002767;10002767
+Kit de limpieza para el interior del coche;Level 4;10006375;10006375
+Cuidado de neumáticos de coches – Limpiadores/espumas/abrillantadores;Level 4;10002764;10002764
+Cuidado de volante de coches – Limpiadores/abrillantadores;Level 4;10002773;10002773
+Preparación de parabrisas de coches (Automóviles);Level 4;10002757;10002757
+Accesorios de apariencia/fragancia de automóviles;Level 3;77012900;77012900
+Ambientadores de aire – No eléctricos (Automóviles);Level 4;10003753;10003753
+Ambientadores de aire – No eléctricos (Automóviles);Level 4;10003752;10003752
+Accesorios de apariencia/fragancia – Otros;Level 4;10002949;10002949
+Paquetes variados de accesorios de aspecto/fragancia (Automóviles);Level 4;10002950;10002950
+Aspecto/fragancia de automóviles – Accesorios/piezas de repuesto;Level 4;10005127;10005127
+Aplicadores/cepillos de automóviles;Level 4;10005249;10005249
+Pulidoras/gamuzas (Automóviles);Level 4;10002944;10002944
+Rasqueta de hielo (Automóviles);Level 4;10003757;10003757
+Sistemas de lavado – Eléctricos (Automóviles);Level 4;10002940;10002940
+Baterías para automóviles;Level 3;77015000;77015000
+Baterías (Automóviles);Level 4;10005232;10005232
+Accesorios de baterías (Automóviles);Level 4;10005233;10005233
+Cables de emergencia;Level 4;10006383;10006383
+Motor de arranque;Level 4;10006382;10006382
+Reparación de la carrocería del automóvil;Level 3;77010200;77010200
+Paquetes variados de reparación de chasis de automóviles;Level 4;10003834;10003834
+Tapón/parche de cuerpo;Level 4;10002713;10002713
+Reparación del chasis (Automóviles);Level 4;10003761;10003761
+Pintura de líneas (Automóviles);Level 4;10002728;10002728
+Reductores/Retardadores (Automóviles);Level 4;10002723;10002723
+Piezas de recambio de moldes/molduras (Automóviles);Level 4;10002726;10002726
+Preparados para reparaciones plásticas/relleno de arañazos (Automóviles);Level 4;10002720;10002720
+Tira de protección atmosférica (Automóviles);Level 4;10002727;10002727
+Frenos de automóvil;Level 3;77015300;77015300
+Disco de freno;Level 4;10006385;10006385
+Pinza de disco de freno;Level 4;10006386;10006386
+Tambor de freno/Piezas del tambor de freno;Level 4;10006389;10006389
+Pastillas/Zapatas de freno;Level 4;10006384;10006384
+Kit de frenos de tambor;Level 4;10006387;10006387
+Otras piezas para sistemas de frenos;Level 4;10006388;10006388
+Gestión de carga de automóviles;Level 3;77010300;77010300
+Administración de carga – Piezas/Accesorios de repuesto;Level 4;10005130;10005130
+Administración de la carga – Otros (Automóviles);Level 4;10002750;10002750
+Rampas/accesorios de rampas para la gestión de la carga (automotriz);Level 4;10005819;10005819
+Equipamiento de sujeción de la carga (automotriz);Level 4;10002733;10002733
+Portaequipajes/portadores de equipos (Automóviles);Level 4;10002734;10002734
+Paquetes de extendedores/parachoques (Automóviles);Level 4;10002743;10002743
+Bolsas/cajas de almacenamiento exterior (Automóviles);Level 4;10005128;10005128
+Cajas/bandejas/cestos de almacenamiento interior (Automóviles);Level 4;10002748;10002748
+Calzos para ruedas (automotriz);Level 4;10005818;10005818
+Iluminación decorativa para automóviles;Level 3;77014100;77014100
+Iluminación de ambiente (Automóviles);Level 4;10003056;10003056
+Iluminación estroboscópica (Automóviles);Level 4;10003055;10003055
+Iluminación debajo del vehículo;Level 4;10003054;10003054
+Componentes eléctricos para automóviles;Level 3;77014300;77014300
+Componentes eléctricos de automóviles – Piezas/Accesorios de repuesto;Level 4;10005131;10005131
+Instrumentos de automotrices y sistemas de medición;Level 4;10006846;10006846
+Interruptores de automóviles;Level 4;10005132;10005132
+Mecheros/adaptadores (Automóviles);Level 4;10003081;10003081
+Electricidad – Otros (Automóviles);Level 4;10003084;10003084
+Tubo flexible/trenzado de cable (Automóviles);Level 4;10003080;10003080
+Fusibles (Automóviles);Level 4;10003067;10003067
+Claxon/sirenas (Automóviles);Level 4;10003758;10003758
+Clavijas/trenzas (Automóviles);Level 4;10003074;10003074
+Accesorios del exterior de automóviles – Cubiertas/protección;Level 3;77012500;77012500
+Protector de puertas (Automóviles);Level 4;10002901;10002901
+Protector de lentes (Automóviles);Level 4;10002902;10002902
+Marcho/protector de matrícula;Level 4;10002903;10002903
+Matrículas – Decorativos;Level 4;10002904;10002904
+Películas protectoras de pintura (Automóviles);Level 4;10002906;10002906
+Fundas de rueda de repuesto;Level 4;10002905;10002905
+Guardabarros/guardasalpicaduras;Level 4;10002899;10002899
+Cubiertas para vehículos;Level 4;10002900;10002900
+Accesorios del exterior de automóviles – Rejillas/parachoques;Level 3;77012300;77012300
+Protectores de cepillo/parrilla;Level 4;10002888;10002888
+Parachoques;Level 4;10002887;10002887
+Parillas decorativas/personalizadas;Level 4;10002890;10002890
+Relleno de parrilla;Level 4;10002891;10002891
+Barras de empuje/A (Automóviles);Level 4;10002889;10002889
+Placas de derrape;Level 4;10002892;10002892
+Accesorios del exterior de automóviles – Estribos/escalones laterales;Level 3;77012200;77012200
+Escalones extrudidos/ fundidos (Automóviles);Level 4;10002886;10002886
+Barras de Nerf/escalón (Automóviles);Level 4;10002885;10002885
+Estribos (Automóviles);Level 4;10002884;10002884
+Accesorios del exterior de automóviles – Lunas/deflectores;Level 3;77012400;77012400
+Protector de capota/bichos (Automóviles);Level 4;10002893;10002893
+Carenado de cabina;Level 4;10002898;10002898
+Viseras de parabrisas delantero;Level 4;10002894;10002894
+Deflector/viseras de ventana trasera/viseras de techo (Automóviles);Level 4;10002896;10002896
+Deflector/viseras de ventana lateral;Level 4;10002895;10002895
+Deflectores de techo solar;Level 4;10002897;10002897
+Accesorios para el exterior de automóviles;Level 3;77012600;77012600
+Capó personalizado;Level 4;10002916;10002916
+Emblemas/gráficos – Decorativos (Automóviles);Level 4;10002920;10002920
+Accesorios de apariencia exterior – Otros (Automóviles);Level 4;10002922;10002922
+Guardabarros/guardabarros reflectantes;Level 4;10002914;10002914
+Molduras de luz/lentes (Automóviles);Level 4;10002919;10002919
+Lumbreras (Automóviles);Level 4;10002913;10002913
+tomas de aire/respiraderos (Automóviles);Level 4;10002911;10002911
+Molduras/cubiertas de ventana lateral (Automóviles);Level 4;10002915;10002915
+Techos solares/techos corredizo/techos extraíbles (Automóviles);Level 4;10002910;10002910
+Alerones/spoilers (Automóviles);Level 4;10002912;10002912
+Filtros para automóviles;Level 3;77013800;77013800
+Filtro de aire/polvo;Level 4;10006328;10006328
+Filtro de extracción;Level 4;10006329;10006329
+Accesorios de filtros (Automóviles);Level 4;10003026;10003026
+Filtros – Aire (Automóviles);Level 4;10003022;10003022
+Filtros – Líquidos (Automóviles);Level 4;10003762;10003762
+Filtros – Otros (Automóviles);Level 4;10003029;10003029
+Paquetes variados de filtros (Automóviles);Level 4;10003030;10003030
+Kits de filtro de rendimiento/accesorios (Automóviles);Level 4;10003028;10003028
+Filtros de transmisión (Automóviles);Level 4;10003024;10003024
+Artículos para el cambio de líquidos de automóviles;Level 3;77014700;77014700
+Artículos de cambio de líquido – Otros (Automóviles);Level 4;10003114;10003114
+Paquetes variados de artículos de cambio de líquido (Automóviles);Level 4;10003115;10003115
+Esterillas de aceite (Automóviles);Level 4;10003113;10003113
+Accesorios de administración de líquidos para automóviles;Level 3;77014500;77014500
+Tapón de purga (Automóviles);Level 4;10003095;10003095
+Llaves de filtro (Automóviles);Level 4;10003092;10003092
+Kits/accesorios de cambio de líquidos;Level 4;10003097;10003097
+Accesorios de administración de líquidos – Otros (Automóviles);Level 4;10003105;10003105
+Administración de líquidos/paquetes variados de accesorios (Automóviles);Level 4;10003106;10003106
+Mezcladores de líquidos (Automóviles);Level 4;10003099;10003099
+Accesorios del interior de automóviles – confort;Level 3;77011600;77011600
+Ceniceros (Automóviles);Level 4;10002847;10002847
+Relojes (Automóviles);Level 4;10002848;10002848
+Percheros (Automóviles);Level 4;10002849;10002849
+Brújulas (Automóviles);Level 4;10002850;10002850
+Soporte para vasos (Automóviles);Level 4;10002851;10002851
+Ventiladores (Automóviles);Level 4;10002857;10002857
+Soporte para llaves (Automóviles);Level 4;10002852;10002852
+Luces de mapa (Automóviles);Level 4;10002854;10002854
+Unidades de refrigeración/calefacción (Automóviles);Level 4;10002858;10002858
+Bandejas de snack/bebida (Automóviles);Level 4;10002853;10002853
+Termómetros (Automóviles);Level 4;10002855;10002855
+Accesorios del interior de automóviles – decoración;Level 3;77012100;77012100
+Tiradores/manivelas decorativos;Level 4;10002879;10002879
+Funda de cabezales/Kits (Automóviles);Level 4;10002881;10002881
+Indicadores interiores (Automóviles);Level 4;10002873;10002873
+Cubiertas/juegos de pedales (Automóviles);Level 4;10002877;10002877
+Kits/manguitos de la palanca de cambios (Automóviles);Level 4;10002876;10002876
+Tirador/pomo de cambiador (Automóviles);Level 4;10002875;10002875
+Accesorios del interior de automóviles – salpicadero interior;Level 3;77012000;77012000
+Alfombras/fundas de salpicadero;Level 4;10002871;10002871
+Kits de moldura de salpicadero;Level 4;10002870;10002870
+Paneles/guías de instrumentos;Level 4;10002872;10002872
+Accesorios del interior de automóviles – revestimiento de suelo interior;Level 3;77011900;77011900
+Escalones de puerta/ Plataforma de pie (Automóviles);Level 4;10002866;10002866
+Alfombrillas para suelo (Automóviles);Level 4;10002867;10002867
+Bolsa/bandeja para carga interior (Automóviles);Level 4;10002868;10002868
+Revestimiento interior de suelo – Otros (Automóviles);Level 4;10002869;10002869
+Moqueta de sustitución (Automóviles);Level 4;10002865;10002865
+Accesorios del interior de automóviles – organización;Level 3;77011500;77011500
+Consolas (Automóviles);Level 4;10002844;10002844
+Bolsas/cestos de basura (Automóviles);Level 4;10002845;10002845
+Soporte de disco de impuestos (Automóviles);Level 4;10005122;10005122
+Accesorios del interior de automóviles – asientos;Level 3;77011400;77011400
+Sillas/asientos elevadores para el coche;Level 4;10000792;10000792
+Cojines para cabeza/cuello (Automóviles);Level 4;10002842;10002842
+Almohadillas para cinturones de seguridad;Level 4;10002841;10002841
+Cinturones/extendedores de seguridad;Level 4;10002840;10002840
+Fundas de asientos (Automóviles);Level 4;10002838;10002838
+Cojines de asientos (Automóviles);Level 4;10002839;10002839
+Asientos (Automóviles);Level 4;10002837;10002837
+Accesorios del interior de automóviles – dirección;Level 3;77011800;77011800
+Fundas de volante;Level 4;10002863;10002863
+Volantes;Level 4;10002862;10002862
+Accesorios del interior de automóviles – protección solar;Level 3;77011700;77011700
+Tintas para ventana;Level 4;10002860;10002860
+Visores para puerta/ventana;Level 4;10002861;10002861
+Viseras para parabrisas;Level 4;10002859;10002859
+Acoplamientos de luz para automóviles;Level 3;77014000;77014000
+Acoplamientos – Faros delanteros;Level 4;10003049;10003049
+Acoplamientos – Luces traseras;Level 4;10003050;10003050
+Acoplamientos de luz – Otros (Automóviles);Level 4;10003052;10003052
+Luces/bombillas para automóviles;Level 3;77013900;77013900
+Luces de respaldo (Automóviles);Level 4;10003037;10003037
+Despeje/marcador/luces de estribo (Automóviles);Level 4;10003041;10003041
+Luces direccionales;Level 4;10003038;10003038
+Luces de emergencia (Automóviles);Level 4;10002830;10002830
+Luces antiniebla (Automóviles);Level 4;10003036;10003036
+Faros (Automóviles);Level 4;10003031;10003031
+Reflectores (Automóviles);Level 4;10003046;10003046
+Bombillas de repuesto;Level 4;10003034;10003034
+Lentes de repuesto (Automóviles);Level 4;10003045;10003045
+Luces de sirena;Level 4;10003042;10003042
+Focos (Automóviles);Level 4;10003759;10003759
+Luces de freno/intermitentes/luces traseras;Level 4;10003044;10003044
+Reparación/mantenimiento de automóviles;Level 3;77011200;77011200
+Refrigerantes para aparatos de aire acondicionado;Level 4;10005761;10005761
+Buscadores de autorreparación/gatos;Level 4;10005720;10005720
+Kits de reparación de línea/depósito de combustible;Level 4;10002820;10002820
+Kits de reparación de lunas;Level 4;10002824;10002824
+Mantenimiento/reparación – Otros;Level 4;10002825;10002825
+Reparación de silenciador/tubo de escape;Level 4;10002817;10002817
+Kits de reparación de radiador;Level 4;10002821;10002821
+Kits de reparación de del espero retrovisor;Level 4;10002822;10002822
+Rampas/elevadores para mantenimiento de vehículos (automotriz);Level 4;10002746;10002746
+Kits de reparación de sistema antivaho de ventana;Level 4;10002823;10002823
+Productos químicos para el rendimiento de automóviles;Level 3;77010500;77010500
+Limpiadores de freno;Level 4;10002778;10002778
+Pulverizador para carburador/cebador;Level 4;10002779;10002779
+Limpiador de carburador/piezas;Level 4;10002780;10002780
+Limpiador de piezas eléctricas (Automóviles);Level 4;10003775;10003775
+Desengrasantes de motores/Control de contaminación;Level 4;10002781;10002781
+Seguridad en automóviles;Level 3;77011300;77011300
+Extintores Automotores;Level 4;10006904;10006904
+Alarma/sensores de respaldo;Level 4;10002829;10002829
+Asistencia de combustible de emergencia;Level 4;10002826;10002826
+Kits de emergencia en carretera;Level 4;10002834;10002834
+Espejos (Automóviles);Level 4;10003774;10003774
+Protecciones para aparcamiento;Level 4;10006376;10006376
+Puentes protectores para mangueras (automotriz);Level 4;10005821;10005821
+Seguridad – Otros (Automóviles);Level 4;10002835;10002835
+Piezas/accesorios de repuesto de seguridad (Automóviles);Level 4;10003760;10003760
+Paquetes variados de seguridad (Automóviles);Level 4;10002836;10002836
+Banderas de advertencia/Astas de bandera (automotriz);Level 4;10005820;10005820
+Señales/triángulos de advertencia (Automóviles);Level 4;10002833;10002833
+Bujías para automóviles;Level 3;77013700;77013700
+Inyectores de combustible;Level 4;10006379;10006379
+Paquetes de varios precalentadores;Level 4;10006381;10006381
+Precalentadores;Level 4;10006380;10006380
+Bujías;Level 4;10003763;10003763
+Bujías – Otros;Level 4;10003018;10003018
+Paquetes variados de bujías;Level 4;10003019;10003019
+Enganche/remolque de automóviles;Level 3;77013100;77013100
+Adaptadores – Enganches (Automóviles);Level 4;10002962;10002962
+Barras de tensión/montajes de bolas de remolque (Automóviles);Level 4;10002973;10002973
+Cubiertas de enganches (Automóviles);Level 4;10002968;10002968
+Accesorios de enganche/acoplamientos (Automóviles);Level 4;10002960;10002960
+Escalones de enganche (Automóviles);Level 4;10002969;10002969
+Enganches (Automóviles);Level 4;10002959;10002959
+Varillas/pasadores – Enganches (Automóviles);Level 4;10002963;10002963
+Tubos/abrazaderas de recepción (Automóviles);Level 4;10002961;10002961
+Cadenas/cables de seguridad – Remolque (Automóviles);Level 4;10002971;10002971
+Barras de remolque (Automóviles);Level 4;10002966;10002966
+Ganchos de remolque (Automóviles);Level 4;10002965;10002965
+Cabos/tiras de remolque (Automóviles);Level 4;10002964;10002964
+Componentes de remolque – Cargas pesadas;Level 4;10002974;10002974
+Accesorios de fijación de remolque;Level 4;10002967;10002967
+Espejos de remolque (Automóviles);Level 4;10002970;10002970
+Remolque/enganche – Otros;Level 4;10002976;10002976
+Paquetes variados de remolque/enganche;Level 4;10002977;10002977
+Bolas de enganche/remolques (Automóviles);Level 4;10002972;10002972
+Enganche/remolque de automóviles – Eléctrico;Level 3;77013200;77013200
+Controles de freno;Level 4;10002979;10002979
+Conectores – Remolque;Level 4;10002978;10002978
+Módulos de potencia;Level 4;10002980;10002980
+Luces de remolque;Level 4;10002984;10002984
+Enganche/remolque – Eléctrico Otros;Level 4;10002985;10002985
+Remolque/enganche – Paquetes variados eléctricos;Level 4;10002986;10002986
+Adaptadores/convertidores de cableado;Level 4;10002981;10002981
+Kits/bridas para cableado;Level 4;10002982;10002982
+Remolques para automóviles/accesorios para remolques;Level 3;77013300;77013300
+Acopladores – Remolques (Automóviles);Level 4;10002988;10002988
+Dispositivos de nivelación (Automóviles);Level 4;10002992;10002992
+Freno para remolques;Level 4;10002989;10002989
+Accesorios para remolques;Level 4;10002994;10002994
+Gatos/soportes de remolques;Level 4;10002987;10002987
+Luces/reflectores para remolques;Level 4;10002991;10002991
+Accesorios para remolques/caravanas – Otros;Level 4;10002996;10002996
+Paquetes variados de accesorios para remolques/caravanas;Level 4;10002995;10002995
+Remolques;Level 4;10002993;10002993
+Protectores de cojinete de rueda;Level 4;10002990;10002990
+Fluido de transmisión de automóviles;Level 3;77010900;77010900
+Líquido de transmisión;Level 4;10002799;10002799
+Líquido de transmisión – Otros;Level 4;10002800;10002800
+Paquetes variados de líquido de transmisión;Level 4;10002801;10002801
+Neumáticos/ruedas de automóviles;Level 3;77012700;77012700
+Neumáticos;Level 4;10002924;10002924
+Ruedas;Level 4;10002926;10002926
+Accesorios para neumáticos/ruedas de automóviles;Level 3;77012800;77012800
+Compresores de aire (Automóviles);Level 4;10002929;10002929
+Embellecedores;Level 4;10002935;10002935
+Simuladores de discos de freno;Level 4;10002934;10002934
+Kits de reparación de pinchazos;Level 4;10002930;10002930
+Cables de salto (jumper);Level 4;10006838;10006838
+Sostenedor del neumático;Level 4;10006839;10006839
+Infladores de ruedas – Químicos (Automóviles);Level 4;10002932;10002932
+Medidor de presión de neumáticos;Level 4;10006775;10006775
+Bombas de neumáticos (Automóviles);Level 4;10002928;10002928
+Cubiertas de ruedas;Level 4;10002933;10002933
+Accesorios para ruedas;Level 4;10002931;10002931
+Llanta;Level 4;10006377;10006377
+Enganches para automóviles/Accesorios de remolque;Level 3;77013400;77013400
+Partes/componentes del torno;Level 4;10002999;10002999
+Accesorios para tornos/torno- Otros (Automóviles);Level 4;10003000;10003000
+Torno/Paquetes variados de accesorios para tornos;Level 4;10003001;10003001
+Torno (Automóviles);Level 4;10002998;10002998
+Líquido limpiador de lunas para automóviles;Level 3;77014900;77014900
+Líquido limpiador (Automóviles);Level 4;10003764;10003764
+Limpiaparabrisas/piezas para limpiaparabrisas para automóviles;Level 3;77013600;77013600
+Brazos de limpiaparabrisas (Automóviles);Level 4;10003142;10003142
+Repuestos de raqueta de limpiaparabrisas;Level 4;10003012;10003012
+Raqueta de limpiaparabrisas;Level 4;10003011;10003011
+Tubos de limpiaparabrisas (Automóviles);Level 4;10003143;10003143
+Componentes de limpiaparabrisas – Otros;Level 4;10003150;10003150
+Paquetes varados de componentes de limpiaparabrisas;Level 4;10003151;10003151
+Cubierta del limpiaparabrisas;Level 4;10003839;10003839
+Motores de limpiaparabrisas;Level 4;10003144;10003144
+Motores de limpiaparabrisas (Núcleos);Level 4;10003145;10003145
+Boquillas de limpiaparabrisas;Level 4;10003146;10003146
+Bombas de limpiaparabrisas;Level 4;10003147;10003147
+Tubos/manguitos de limpiaparabrisas;Level 4;10003149;10003149
+Limpiaparabrisas/piezas para limpiaparabrisas – Otros;Level 4;10003013;10003013
+Limpiaparabrisas/paquetes variados de partes de limpiaparabrisas;Level 4;10003014;10003014
+Coches y motocicletas;Level 2;77030000;77030000
+Coches;Level 3;77030100;77030100
+Coches/Furgonetas/Todocaminos/Camionetas;Level 4;10006374;10006374
+Motocicletas;Level 3;77030200;77030200
+Vehículos todo terreno (ATV's);Level 4;10006772;10006772
+Motocicletas/Quads;Level 4;10006373;10006373
+Vehículos utilitarios  (UTV) / Vehículos todoterreno recreativos (ROV);Level 4;10006773;10006773
+Belleza/cuidado personal/higiene;Level 1;53000000;53000000
+Paquetes variados de belleza/cuidado personal/higiene;Level 2;53220000;53220000
+Paquetes variados de belleza/cuidado personal/higiene;Level 3;53220100;53220100
+Paquetes variados de belleza/cuidado personal/higiene;Level 4;10000666;10000666
+Productos corporales;Level 2;53200000;53200000
+Productos para tonificar/masajes corporales;Level 3;53201000;53201000
+Otros productos para tonificar/masajear el cuerpo;Level 4;10000760;10000760
+Productos para masajes/calentamiento personal (eléctricos);Level 4;10000759;10000759
+Cosméticos/fragancias;Level 2;53160000;53160000
+Aromaterapia;Level 3;53161500;53161500
+Cojines para aromaterapia;Level 4;10000772;10000772
+Otros productos de aromaterapia;Level 4;10000779;10000779
+Paquetes variados de aromaterapia;Level 4;10000774;10000774
+Aceites vehiculares/de base;Level 4;10000773;10000773
+Aceites esenciales;Level 4;10000771;10000771
+Difusores de aceites (no eléctricos);Level 4;10000769;10000769
+Difusores de aceites (eléctricos);Level 4;10000770;10000770
+Productos cosméticos;Level 3;53161000;53161000
+Paquetes variados de fragancias/cosméticos;Level 3;53161400;53161400
+Fragancias;Level 3;53161300;53161300
+Productos para el cuidado/cosméticos de uñas;Level 3;53161200;53161200
+Productos para el cabello;Level 2;53140000;53140000
+Productos para el cuidado del cabello;Level 3;53141100;53141100
+Cabello – Artículos de ayuda (eléctricos);Level 4;10000828;10000828
+Rulos para el cabello;Level 4;10000829;10000829
+Paquetes variados de productos para el cabello;Level 3;53141200;53141200
+Productos para disimular/depilar el vello;Level 3;53141000;53141000
+Depilación (eléctrica);Level 4;10000830;10000830
+Productos para disimular/depilar el vello – Recambios;Level 4;10000832;10000832
+Otros productos para disimular/depilar el vello;Level 4;10000835;10000835
+Paquetes variados de productos para disimular/depilar el vello;Level 4;10000680;10000680
+Depilación/afeitado – Accesorios;Level 4;10000349;10000349
+Espejos – Cuidado personal;Level 4;10000679;10000679
+Afeitado – Cuchillas (eléctricas);Level 4;10000831;10000831
+Productos de higiene personal;Level 2;53180000;53180000
+Incontinencia en adultos;Level 3;53181300;53181300
+Incontinencia en adultos – Compresas;Level 4;10000481;10000481
+Pañales para bebé / accesorios;Level 3;53181700;53181700
+Pañales (no desechables);Level 4;10000728;10000728
+Pañales de bebé / otros accesorios;Level 4;10006821;10006821
+Higiene personal general;Level 3;53181100;53181100
+Pañuelos faciales/pañuelos (desechables);Level 4;10000485;10000485
+Otros productos de higiene personal general;Level 4;10000786;10000786
+Paquetes variados de higiene personal general;Level 4;10000715;10000715
+Papel higiénico;Level 4;10000375;10000375
+Higiene bucal;Level 3;53181500;53181500
+Limpieza dental;Level 4;10000383;10000383
+Cuidado bucal – Accesorios;Level 4;10000363;10000363
+Cuidado bucal – Artículos de ayuda (no eléctricos);Level 4;10000384;10000384
+Cuidado bucal – Artículos de ayuda (eléctricos);Level 4;10000781;10000781
+Centro de cuidado bucal – Cepillo/limpiador/almacenamiento (motorizado);Level 4;10005839;10005839
+Higiene bucal – Recambios;Level 4;10000782;10000782
+Otros productos de higiene bucal;Level 4;10000783;10000783
+Paquetes variados de higiene bucal;Level 4;10000716;10000716
+Productos para la piel;Level 2;53130000;53130000
+Aseo corporal;Level 3;53131300;53131300
+Paquetes variados de aseo corporal;Level 4;10000722;10000722
+Accesorios de aseo/limpieza – Personal;Level 4;10000334;10000334
+Limpieza/aseo/jabón – Personal;Level 4;10000330;10000330
+Cuidado de la piel;Level 3;53131100;53131100
+Limpiadores/desmaquilladores (no eléctricos);Level 4;10000332;10000332
+Limpiadores/desmaquilladores (eléctricos);Level 4;10000808;10000808
+Vaporizadores para refrescar el cuerpo/la cara;Level 4;10000719;10000719
+Exfoliantes/mascarillas;Level 4;10000342;10000342
+Cuidado de la piel/productos hidratantes;Level 4;10000356;10000356
+Paquetes variados de productos para la piel;Level 3;53131400;53131400
+Productos de bronceado;Level 3;53131200;53131200
+Productos para el bronceado – Recambios;Level 4;10000811;10000811
+Otros productos para el bronceado;Level 4;10000814;10000814
+Paquetes variados de productos de bronceado;Level 4;10000723;10000723
+Productos de protección solar;Level 4;10000373;10000373
+Productos de construcción;Level 1;83000000;83000000
+Productos de construcción;Level 2;83010000;83010000
+Productos abrasivos;Level 3;83011800;83011800
+Almohadillas abrasivas/lana de acero;Level 4;10003157;10003157
+Abrasivos – Otros;Level 4;10003163;10003163
+Accesorios/piezas de repuesto de abrasivos;Level 4;10005124;10005124
+Paquetes variados de abrasivos;Level 4;10003164;10003164
+Trapos/pliegos de papel de lija;Level 4;10003159;10003159
+Capas de mortero de cemento para suelos;Level 4;10003766;10003766
+Abrasivos minerales;Level 4;10003162;10003162
+Compuesto de pulido;Level 4;10003765;10003765
+Papel de lija;Level 4;10003156;10003156
+Cepillos de púas;Level 4;10005715;10005715
+Cubiertas / paneles de acceso;Level 3;83012500;83012500
+Cubiertas / paneles de acceso;Level 4;10006900;10006900
+Asfalto/hormigón/albañilería;Level 3;83010600;83010600
+Conglomerado;Level 4;10002521;10002521
+Creación de parches de asfalto/hormigón;Level 4;10003898;10003898
+Asfalto/hormigón/albañilería – Otros;Level 4;10003904;10003904
+Piezas/accesorios de repuesto para asfalto/hormigón/albañilería;Level 4;10005632;10005632
+Paquetes variados de asfalto/hormigón/albañilería;Level 4;10003903;10003903
+Ladrillo/bloque;Level 4;10002525;10002525
+Cemento;Level 4;10002526;10002526
+Agentes de arrastre de aire del hormigón;Level 4;10003901;10003901
+Agentes de adhesión del hormigón;Level 4;10003899;10003899
+Agente de coloración/tinte del hormigón;Level 4;10003900;10003900
+Mezclas de hormigón;Level 4;10002522;10002522
+Cal (hágalo usted mismo);Level 4;10002529;10002529
+Mezclas de morteros;Level 4;10003902;10003902
+Mezclas de yeso;Level 4;10002528;10002528
+Yeso de París (Agente);Level 4;10003896;10003896
+Arena (hágalo usted mismo);Level 4;10003897;10003897
+Piedra – Piedras de construcción;Level 4;10003894;10003894
+Piedra – Pavimentos de piedra;Level 4;10002518;10002518
+Estuco;Level 4;10002527;10002527
+Productos de construcción – otros;Level 3;83012400;83012400
+Productos de Construcción – Otros;Level 4;10006895;10006895
+Piezas/accesorios para cortinas;Level 3;83012000;83012000
+Abrazadera para cortinas;Level 4;10005688;10005688
+Enganches/aros de cortinas;Level 4;10003198;10003198
+Piezas/accesorios para cortinas – Otros;Level 4;10003201;10003201
+Paquetes variados de piezas/accesorios para cortinas;Level 4;10003202;10003202
+Mástiles/barras de cortina;Level 4;10003196;10003196
+Soportes de barra de cortina;Level 4;10003199;10003199
+Accesorios de barras/guías de cortinas;Level 4;10003767;10003767
+Rieles de cortinas;Level 4;10003197;10003197
+Apilado/rieles;Level 3;83011500;83011500
+Sistemas de balaustrada/rieles – No de madera;Level 4;10003961;10003961
+Sistemas de balaustrada/rieles – Madera;Level 4;10003962;10003962
+Sistemas de drenaje de apilado;Level 4;10002672;10002672
+Piezas de rieles de apilado;Level 4;10002668;10002668
+Sistema de rieles de apilado – Compuesto;Level 4;10002671;10002671
+Apilado – Compuesto;Level 4;10002669;10002669
+Accesorios de apilado;Level 4;10002670;10002670
+Apilado/rieles – Otros;Level 4;10002673;10002673
+Paquetes variados de apilado/rieles;Level 4;10002674;10002674
+Sistemas de rieles de escalera – No de madera;Level 4;10003960;10003960
+Sistemas de rieles de escalera – Madera;Level 4;10003959;10003959
+Ferretería para puertas;Level 3;83011200;83011200
+Carillones/timbres/zumbadores;Level 4;10005560;10005560
+Cierres para puertas;Level 4;10002574;10002574
+Pomos/tiradores/palancas para puertas;Level 4;10002573;10002573
+Accesorios para puertas – Otros;Level 4;10003918;10003918
+Paquetes variados de accesorios para puertas;Level 4;10003919;10003919
+Llamadores de puertas;Level 4;10002581;10002581
+Chapas para puertas;Level 4;10002572;10002572
+Umbrales de puertas;Level 4;10003906;10003906
+Burlete de protección atmosférica;Level 4;10002575;10002575
+Bisagras – Puerta;Level 4;10003191;10003191
+Identificación para viviendas – Números/letras;Level 4;10002579;10002579
+Llaves;Level 4;10003914;10003914
+Buzones;Level 4;10002578;10002578
+Escaleras para entresuelos/áticos;Level 4;10002515;10002515
+Accesorios de repuesto para contrapuertas/protectores;Level 4;10003916;10003916
+Puertas;Level 3;83011100;83011100
+Portezuelas para gatos/perros;Level 4;10002577;10002577
+Accesorios para puertas;Level 4;10005471;10005471
+Puertas – Mampara (Sótanos);Level 4;10003921;10003921
+Puertas – Exterior;Level 4;10002570;10002570
+Puertas – Garaje;Level 4;10002568;10002568
+Puertas – Interior;Level 4;10002567;10002567
+Puertas – Patio;Level 4;10002569;10002569
+Puertas – Combinación de contrapuerta/protector;Level 4;10003920;10003920
+Puertas – Otros;Level 4;10003923;10003923
+Paquetes variados de puertas;Level 4;10003924;10003924
+Repuestos y accesorios de mandos de puertas de garaje;Level 4;10006404;10006404
+Sistemas de apertura de puerta de acceso/garaje;Level 4;10005673;10005673
+Ferretería de fijaciones/cierres;Level 3;83011900;83011900
+Fijadores/tacos (Fijaciones/sujeciones);Level 4;10003179;10003179
+Cojinetes/rodamientos;Level 4;10003170;10003170
+Galletas (bricolaje);Level 4;10007002;10007002
+Pernos/barras de rosca;Level 4;10003185;10003185
+Soportes/brazos;Level 4;10003186;10003186
+Fijaciones/sujeciones;Level 4;10003187;10003187
+Pasadores;Level 4;10007001;10007001
+Accesorios de ferretería de fijaciones/sujeciones;Level 4;10005670;10005670
+Otros elementos de ferretería de fijaciones/sujeciones;Level 4;10003194;10003194
+Paquetes variados de ferretería de fijaciones/sujeciones;Level 4;10003195;10003195
+Enganches (Acoplamientos/fijadores);Level 4;10003171;10003171
+Rieles de montaje;Level 4;10006794;10006794
+Clavos/Varillas (Acoplamientos/fijadores);Level 4;10003182;10003182
+Tuercas (Fijaciones/sujeciones);Level 4;10003184;10003184
+Juntas/arandelas;Level 4;10003166;10003166
+Remaches (Fijaciones/sujeciones);Level 4;10003190;10003190
+Cuerdas/cadenas/cables (Fijaciones/sujeciones);Level 4;10003167;10003167
+Tornillos;Level 4;10003181;10003181
+Resortes;Level 4;10003168;10003168
+Grapas (Fijaciones/sujeciones);Level 4;10003183;10003183
+Tubos;Level 4;10003173;10003173
+Tensores (Acoplamientos/fijadores);Level 4;10003165;10003165
+Arandelas (Fijadores/Cierres);Level 4;10003180;10003180
+Revestimiento de suelo;Level 3;83010200;83010200
+Rejilla de entrada / bastidor;Level 4;10006901;10006901
+Revestimiento para suelo – Moqueta;Level 4;10002446;10002446
+Revestimiento para suelo – Losas de cerámica/porcelana;Level 4;10002443;10002443
+Revestimiento para suelo – Corcho/bambú;Level 4;10002449;10002449
+Revestimiento de suelo – Madera tratada;Level 4;10005370;10005370
+Revestimiento para suelo – Laminado;Level 4;10002451;10002451
+Revestimiento para suelo – Madera sólida;Level 4;10002447;10002447
+Revestimiento para suelo – Piedra/mármol;Level 4;10002450;10002450
+Revestimiento para suelo – Arpillera;Level 4;10006841;10006841
+Revestimiento para suelo – Vinilo/goma/linóleo;Level 4;10002448;10002448
+Accesorios de revestimiento para suelo;Level 4;10002444;10002444
+Revestimiento para suelo – Otros;Level 4;10002452;10002452
+Paquetes variados de revestimiento para suelo;Level 4;10002453;10002453
+Rieles/Separadores;Level 4;10002532;10002532
+Cristal;Level 3;83011300;83011300
+Añadidos de cristal decorativos;Level 4;10003926;10003926
+Cristal;Level 4;10002584;10002584
+Bloques de cristal (Sistemas de cuadrículas);Level 4;10003925;10003925
+Canalización/drenaje;Level 3;83011400;83011400
+Canal (canalones / drenaje);Level 4;10006902;10006902
+Piezas/acoplamientos de canalón de desagüe;Level 4;10003956;10003956
+Cubiertas de drenaje (Canalización/drenaje);Level 4;10005668;10005668
+Rejillas de drenaje (canalización / drenaje);Level 4;10007013;10007013
+Salidas de goteo (Canalizaciones/drenaje);Level 4;10003955;10003955
+Piezas/accesorios de canalización;Level 4;10002665;10002665
+Canalización/drenaje – Otros;Level 4;10002666;10002666
+Paquetes variados de canalización/drenaje;Level 4;10002664;10002664
+Piezas/accesorios de drenaje de césped;Level 4;10002663;10002663
+Aislamiento;Level 3;83010300;83010300
+Aislamiento – Guata/rollos/láminas;Level 4;10002454;10002454
+Aislamiento – Espuma de relleno suelto/pulverizado;Level 4;10002456;10002456
+Aislamiento – Revestimiento/envoltura de tuberías;Level 4;10005733;10005733
+Aislamiento – Protectores de barreras/losas radiantes de calor;Level 4;10005342;10005342
+Aislamiento – Tablero rígida (Exterior);Level 4;10005343;10005343
+Aislamiento – placa de espuma rígida (Interior);Level 4;10002455;10002455
+Aislamiento – Otros;Level 4;10002460;10002460
+Soportes/fijaciones de aislamiento;Level 4;10005345;10005345
+Paquetes variados de aislamiento;Level 4;10002461;10002461
+Madera/panel de madera/yeso;Level 3;83010800;83010800
+Vigas (Estructural);Level 4;10003927;10003927
+Madera tratada (Dimensión/estructural);Level 4;10002537;10002537
+Tablero de yeso/cemento;Level 4;10002540;10002540
+Tablero de madera maciza (Dimensión/estructural);Level 4;10002535;10002535
+Listones;Level 4;10005721;10005721
+Madera/panel de madera/yeso – Otros;Level 4;10003932;10003932
+Paquetes variados de madera/panel de madera/yeso;Level 4;10003933;10003933
+Contrachapado/madera de virutas orientadas (OSB);Level 4;10002538;10002538
+Postes/pilotes/barras;Level 4;10005424;10005424
+Tablero de madera de fibra;Level 4;10005355;10005355
+Tablero de madera de fibra (Dimensión/estructural);Level 4;10002536;10002536
+Moldes/aserrado/partes de escaleras;Level 3;83011000;83011000
+Plancha en la banda final para unir;Level 4;10006793;10006793
+Jambas (Molduras/carpintería);Level 4;10005428;10005428
+Carpintería – Ornamentos;Level 4;10003939;10003939
+Molduras – No de madera;Level 4;10003934;10003934
+Molduras – Madera;Level 4;10003935;10003935
+Piezas de molduras/carpintería para escaleras – Otros;Level 4;10005431;10005431
+Paquetes variados de piezas de molduras/carpintería para escaleras;Level 4;10005432;10005432
+Postes de arranque;Level 4;10002512;10002512
+Piezas/acoplamientos de repuesto para escaleras;Level 4;10005425;10005425
+Escaleras – Prefabricadas;Level 4;10002507;10002507
+Estructuras  de Techo exterior / cobertizo;Level 3;83012600;83012600
+Cochera;Level 4;10006998;10006998
+Garaje;Level 4;10007000;10007000
+Techo de patio / cobertizo;Level 4;10006999;10006999
+Pintura;Level 3;83010400;83010400
+Pistolas rociadoras de aire/pulverizadoras;Level 4;10005805;10005805
+Equipo de pintura (falsos acabados) decorativa;Level 4;10005730;10005730
+Sábanas antipolvo/antimanchas;Level 4;10002490;10002490
+Brocha/Rodillo/Aplicador domésticos;Level 4;10005708;10005708
+Pinturas/imprimaciones para viviendas;Level 4;10003874;10003874
+Aditivos/realzador de pintura;Level 4;10005655;10005655
+Colador pintura/tinte;Level 4;10005706;10005706
+Quitapintura/quitabarniz/limpiadores;Level 4;10002501;10002501
+Cinta/película protectora de pintor;Level 4;10005724;10005724
+Pintura – Otros;Level 4;10002505;10002505
+Paquetes variados de pintura;Level 4;10002504;10002504
+Conservantes;Level 4;10005657;10005657
+Pinturas de fines especiales;Level 4;10002462;10002462
+Pinturas para molduras;Level 4;10005687;10005687
+Acabado/tratamientos/revestimientos de madera;Level 4;10002466;10002466
+Techado;Level 3;83011700;83011700
+Techado en rollo;Level 4;10002684;10002684
+Revestimientos para techo;Level 4;10002688;10002688
+Rollos de molduras para techos/ventilación;Level 4;10002689;10002689
+Techado – Paja;Level 4;10003974;10003974
+Accesorios de techado;Level 4;10003977;10003977
+Membranas para techo;Level 4;10002687;10002687
+Techo – Otros;Level 4;10002692;10002692
+Paneles/losas para techo;Level 4;10002686;10002686
+Losas/pizarras para el techo/Techo;Level 4;10002683;10002683
+Paquetes variados para techos;Level 4;10002693;10002693
+Selladores/rellenadores/adhesivos;Level 3;83012100;83012100
+Masilla;Level 4;10003208;10003208
+Rellenadores;Level 4;10003205;10003205
+Pegamento/adhesivo;Level 4;10003207;10003207
+Lechada;Level 4;10003203;10003203
+Selladores;Level 4;10003204;10003204
+Selladores/rellenadores/adhesivos – Otros;Level 4;10003210;10003210
+Paquetes variados de selladores/rellenadores/adhesivos;Level 4;10003211;10003211
+Cinta (hágalo usted mismo);Level 4;10003206;10003206
+Revestimiento/moldura exterior;Level 3;83012300;83012300
+Moldura exterior – Ménsula/frontón;Level 4;10003966;10003966
+Moldura exterior – Revestimiento;Level 4;10002677;10002677
+Moldura exterior – Revestimiento;Level 4;10005705;10005705
+Decoración exterior – Faldear/apuntalar;Level 4;10005731;10005731
+Moldura exterior – Enchapado;Level 4;10003969;10003969
+Componentes/Acoplamientos estructurales;Level 3;83010700;83010700
+Columnas (Estructurales);Level 4;10002530;10002530
+Cuchillos de suelo;Level 4;10002533;10002533
+Vigas – I;Level 4;10002534;10002534
+Equipo de montaje/instalación para casa móvil;Level 4;10005732;10005732
+Apuntalado de techos;Level 4;10005659;10005659
+Componentes/acoplamientos estructurales – Otros;Level 4;10003942;10003942
+Piezas/accesorios de componentes/acoplamientos estructurales;Level 4;10003943;10003943
+Revestimientos de pared/techo;Level 3;83010100;83010100
+Cubiertas para techos – Losas;Level 4;10003980;10003980
+Sistemas de cuadrículas para techos;Level 4;10003981;10003981
+Piedras para albardilla;Level 4;10006791;10006791
+Protectores para esquinas;Level 4;10005722;10005722
+Revestimientos para paredes – Rollos;Level 4;10002429;10002429
+Revestimientos para paredes – Pliegos/paneles/losas;Level 4;10002433;10002433
+Revestimientos para paredes – azulejos;Level 4;10002431;10002431
+Accesorios de revestimiento para paredes/techos;Level 4;10002432;10002432
+Revestimientos de pared/techo – Otros;Level 4;10002441;10002441
+Paquetes variados de revestimientos para paredes/techos;Level 4;10002442;10002442
+Partes/accesorios para ventanas;Level 3;83010900;83010900
+Toldos – No eléctricos;Level 4;10005291;10005291
+Toldos – Eléctricos;Level 4;10002551;10002551
+Contrapeso para ventanas;Level 4;10002557;10002557
+Películas para ventanas;Level 4;10002547;10002547
+Marcos de ventana;Level 4;10002543;10002543
+Pomos de ventana;Level 4;10002552;10002552
+Cerrojos/pestillos para ventanas;Level 4;10002548;10002548
+Operadores de ventana;Level 4;10005298;10005298
+Piezas/accesorios para ventanas – Otros;Level 4;10005292;10005292
+Paquetes variados de piezas/accesorios para ventanas;Level 4;10003944;10003944
+Mosquiteras para ventanas;Level 4;10002550;10002550
+Motorización Cierre de Ventana;Level 4;10007039;10007039
+Persianas;Level 4;10003968;10003968
+Caja de ventana;Level 4;10002554;10002554
+Ventanas – Marco de repuesto – No de madera;Level 4;10005293;10005293
+Ventanas – Marco de repuesto – madera;Level 4;10005294;10005294
+Alféizar de ventana;Level 4;10006792;10006792
+Ventanas;Level 3;83012200;83012200
+Claraboyas – Revestimiento de madera;Level 4;10005289;10005289
+Claraboyas – Sin madera;Level 4;10002544;10002544
+Claraboyas – Tubulares;Level 4;10005288;10005288
+Ventanas – Saliente/arco – Revestimiento de madera;Level 4;10005297;10005297
+Ventanas – Saliente/arco – No de madera;Level 4;10005296;10005296
+Ventanas – Saliente/arco – Madera;Level 4;10005295;10005295
+Ventanas – Unidades combinadas – Revestimiento de madera;Level 4;10005287;10005287
+Ventanas – Unidades combinadas – Revestimiento no de madera;Level 4;10005286;10005286
+Ventanas – Unidades de combinación – Madera;Level 4;10002542;10002542
+Ventanas – Otros;Level 4;10005290;10005290
+Ventanas – Unidades sencillas – Revestimiento de madera;Level 4;10005284;10005284
+Ventanas – Unidades sencillas – Revestimiento no de madera;Level 4;10005285;10005285
+Ventanas – Unidades sencillas – Madera;Level 4;10003946;10003946
+Ventanas – Contraventanas;Level 4;10002553;10002553
+Acampada (cámping);Level 1;74000000;74000000
+Acampada (cámping);Level 2;74010000;74010000
+Equipo de comida/bebida/cocina para acampada;Level 3;74010400;74010400
+Equipamientos para beber/comer/cocinar en acampadas – Accesorios/recambios;Level 4;10002093;10002093
+Otros equipamientos para beber/comer/cocinar en acampadas;Level 4;10002094;10002094
+Paquetes variados de equipamientos para beber/comer/cocinar en acampadas;Level 4;10002095;10002095
+Utensilios para cocinar en acampadas;Level 4;10002092;10002092
+Bolsas de frío/neveras para acampada (no eléctricas);Level 4;10002091;10002091
+Estufas/parrillas/hornos de acampada;Level 4;10002087;10002087
+Vajilla para acampada;Level 4;10003773;10003773
+Equipos de agua para acampada;Level 4;10002088;10002088
+Tratamientos de purificación de agua para acampada;Level 4;10005198;10005198
+Mobiliario/muebles para acampada;Level 3;74010300;74010300
+Sacos/alfombrillas para dormir de acampada;Level 4;10002079;10002079
+Otro mobiliario/muebles de acampada;Level 4;10002085;10002085
+Paquetes variados de mobiliario/muebles de acampada;Level 4;10002086;10002086
+Asientos para acampada;Level 4;10002081;10002081
+Sistemas de almacenamiento para acampada;Level 4;10002083;10002083
+Mesas de acampada;Level 4;10002084;10002084
+Sacos de dormir;Level 4;10002080;10002080
+Equipo de iluminación/calefacción para acampada;Level 3;74010200;74010200
+Otros equipos de calefacción/iluminación de acampada;Level 4;10002077;10002077
+Paquetes variados de equipos de calefacción/iluminación de acampada;Level 4;10002078;10002078
+Lámparas para acampadas;Level 4;10002076;10002076
+Calentadores de agua para acampadas;Level 4;10004099;10004099
+Calefactores para tiendas;Level 4;10002075;10002075
+Paquetes variados de artículos para acampada;Level 3;74010600;74010600
+Paquetes variados de artículos para acampada;Level 4;10002101;10002101
+Equipo sanitario/de limpieza para acampada;Level 3;74010500;74010500
+Duchas de acampada;Level 4;10002097;10002097
+Tazas de váter para acampada (no eléctricas);Level 4;10002096;10002096
+Tazas de váter para acampada (eléctricas);Level 4;10004100;10004100
+Equipamiento sanitario/de aseo para acampada – Accesorios/recambios;Level 4;10002098;10002098
+Otros equipamientos sanitario/de aseo para acampada;Level 4;10002099;10002099
+Paquetes variados de equipamiento sanitario/de aseo para acampada;Level 4;10002100;10002100
+Tiendas de campaña / estructuras para protegerse del clima;Level 3;74010100;74010100
+Accesorios para tiendas;Level 4;10002072;10002072
+Equipos de reparación/tratamiento para tiendas;Level 4;10002071;10002071
+Tiendas;Level 4;10002069;10002069
+Otras estructuras para intemperie/tiendas;Level 4;10002073;10002073
+Paquetes variados de estructuras para intemperie/tiendas;Level 4;10002074;10002074
+Estructuras para intemperie/extensiones para tiendas;Level 4;10002070;10002070
+Productos de limpieza/higiene;Level 1;47000000;47000000
+Productos de limpieza;Level 2;47100000;47100000
+Limpiadores;Level 3;47101600;47101600
+Productos de higiene para el bebé;Level 4;10000505;10000505
+Blanqueador;Level 4;10000531;10000531
+Otros limpiadores;Level 4;10000746;10000746
+Surtidos de limpiadores;Level 4;10000698;10000698
+Accesorios de limpieza;Level 4;10000398;10000398
+Artículos de limpieza;Level 4;10000397;10000397
+Descalcificadores;Level 4;10000442;10000442
+Cuidado/protección de vajilla;Level 4;10000445;10000445
+Limpieza/cuidado de vajilla – lavado automatizado;Level 4;10000406;10000406
+Limpieza/cuidado de vajilla – lavado a mano;Level 4;10000636;10000636
+Desinfectantes;Level 4;10000441;10000441
+Tratamientos de drenaje/destapador de tuberías;Level 4;10000423;10000423
+Tratamientos de los alimentos;Level 4;10006233;10006233
+Productos para eliminar el moho;Level 4;10000440;10000440
+Toallas de papel;Level 4;10000447;10000447
+Desinfectantes;Level 4;10006234;10006234
+Quitamanchas;Level 4;10000443;10000443
+Limpiadores de superficies;Level 4;10000405;10000405
+Productos de limpieza para el baño;Level 4;10000426;10000426
+Suavizantes de agua;Level 4;10000446;10000446
+Surtidos de limpiadores;Level 3;47102000;47102000
+Surtidos de limpieza;Level 4;10000702;10000702
+Ambientadores/desodorantes;Level 3;47101500;47101500
+Ambientadores/desodorantes (no eléctricos);Level 4;10000402;10000402
+Ambientadores/desodorantes (eléctricos);Level 4;10000696;10000696
+Ambientadores – Tejido;Level 4;10000740;10000740
+Otros ambientadores/desodorantes;Level 4;10000745;10000745
+Paquetes variados de ambientadores/desodorantes;Level 4;10000697;10000697
+Lavandería;Level 3;47101700;47101700
+Potenciadores de detergentes/blanqueadores para ropa;Level 4;10000743;10000743
+Productos afianzadores del tejido/almidón;Level 4;10000742;10000742
+Protectores para el tejido/tela;Level 4;10000741;10000741
+Suavizantes para ropa;Level 4;10000744;10000744
+Lavandería cuidado de color;Level 4;10000427;10000427
+Detergentes para lavandería;Level 4;10000424;10000424
+Lavandería limpieza en seco;Level 4;10000444;10000444
+Otros productos de lavandería;Level 4;10000747;10000747
+Paquetes variados de productos de lavandería;Level 4;10000699;10000699
+Cuidado de superficies;Level 3;47101900;47101900
+Kit quita-rasguño/reparadores;Level 4;10000556;10000556
+Otros cuidados de superficies;Level 4;10000749;10000749
+Paquetes variados de cuidados de superficies;Level 4;10000701;10000701
+Cuidado de superficies/protección;Level 4;10000434;10000434
+Surtidos de productos de limpieza/higiene;Level 2;47190000;47190000
+Surtidos de productos de limpieza/higiene;Level 3;47190100;47190100
+Surtidos de productos de limpieza/higiene;Level 4;10000694;10000694
+Suministros de higiene/limpieza;Level 2;47200000;47200000
+Dispensadores de suministro de productos;Level 3;47200100;47200100
+Dispensadores para productos de limpieza/higiene;Level 4;10006215;10006215
+Control de alérgenos/plagas/insectos;Level 2;47120000;47120000
+Control de alérgenos/plagas/insectos;Level 3;47121500;47121500
+Control de plagas/insectos – Barreras/trampas;Level 4;10000411;10000411
+Otros productos de control de alérgenos/plagas/insectos;Level 4;10000754;10000754
+Paquetes variados de control de alérgenos/plagas/insectos;Level 4;10000664;10000664
+Insecticidas/pesticidas/raticidas;Level 4;10000435;10000435
+Repelentes no personales;Level 4;10000436;10000436
+Productos para la gestión de residuos;Level 2;47210000;47210000
+Productos de almacenamiento de residuos;Level 3;47210100;47210100
+Botes para basura/desperdicio;Level 4;10002125;10002125
+Bolsas de basura;Level 4;10001761;10001761
+Productos de almacenamiento de residuos- Otro;Level 4;10006817;10006817
+Productos de almacenamiento de residuos- Partes de reemplazo;Level 4;10006816;10006816
+Paquetes con variedad de productos para almacenamiento de residuos;Level 4;10006815;10006815
+Prendas de vestir;Level 1;67000000;67000000
+Prendas de vestir;Level 2;67010000;67010000
+Accesorios para la ropa;Level 3;67010100;67010100
+Cinturones/tirantes/fajas;Level 4;10001326;10001326
+Paquetes variados de accesorios de ropa;Level 4;10001354;10001354
+Complementos de ropa/accesorios florales/broches/hebillas;Level 4;10001331;10001331
+Pañuelos;Level 4;10001327;10001327
+Artículos de ropa para las manos;Level 4;10001328;10001328
+Artículos de ropa para la cabeza;Level 4;10001329;10001329
+Artículos de ropa para el cuello;Level 4;10001330;10001330
+Prendas para la parte inferior del cuerpo/pantalones;Level 3;67010300;67010300
+Paquetes variados de prendas para la parte inferior del cuerpo;Level 4;10001356;10001356
+Pantalones largos/cortos;Level 4;10001335;10001335
+Ropa protectora;Level 3;67010900;67010900
+Alimentación del bebé – Baberos;Level 4;10000732;10000732
+Prendas de protección – Para todo el cuerpo;Level 4;10001394;10001394
+Prendas de protección para las manos;Level 4;10001395;10001395
+Prendas de protección para la parte inferior del cuerpo;Level 4;10001397;10001397
+Prendas de protección para la parte superior del cuerpo;Level 4;10001398;10001398
+Accesorios para las prendas de protección;Level 4;10003704;10003704
+Paquetes variados de prendas de protección;Level 4;10003705;10003705
+Prendas deportivas;Level 3;67010600;67010600
+Prendas deportivas – Broches/hebillas;Level 4;10004115;10004115
+Prendas deportivas – Cinturones;Level 4;10004114;10004114
+Prendas deportivas – Para todo el cuerpo;Level 4;10001342;10001342
+Prendas deportivas – Para las manos;Level 4;10003707;10003707
+Prendas deportivas – Para la cabeza;Level 4;10003708;10003708
+Prendas deportivas – Para la parte inferior del cuerpo;Level 4;10001343;10001343
+Prendas deportivas – Para el cuello;Level 4;10004113;10004113
+Prendas deportivas – Otras;Level 4;10006840;10006840
+Prendas deportivas – Para la parte superior del cuerpo;Level 4;10001344;10001344
+Mallas deportivas;Level 4;10003709;10003709
+Paquetes variados de prendas deportivas;Level 4;10001359;10001359
+Ropa interior para todo el cuerpo;Level 4;10001346;10001346
+Medias/bragas/calzoncillos;Level 4;10001347;10001347
+Calcetines;Level 4;10001348;10001348
+Paquetes variados de ropa interior;Level 4;10001360;10001360
+Prendas para la parte superior del cuerpo/tops;Level 3;67010800;67010800
+Chaquetas/chaqueta deportiva/cárdigan/chalecos;Level 4;10001350;10001350
+Camisas/blusas/polos/camisetas;Level 4;10001352;10001352
+Sudaderas/jerseys;Level 4;10001351;10001351
+Paquetes variados de prendas para la parte superior del cuerpo;Level 4;10001361;10001361
+Comunicaciones;Level 1;66000000;66000000
+Comunicaciones;Level 2;66010000;66010000
+Accesorios de comunicación;Level 3;66010100;66010100
+Dispositivos de identificación de llamada;Level 4;10001174;10001174
+Otros accesorios de comunicación;Level 4;10001379;10001379
+Paquetes variados de accesorios de comunicación;Level 4;10001380;10001380
+Recambios/accesorios para auriculares con micrófono incorporado;Level 4;10005745;10005745
+Equipos de manos libres para comunicaciones/auriculares;Level 4;10001181;10001181
+Repetidores de telecomunicaciones inalámbricas mejoradas digitalmente (DECT);Level 4;10005740;10005740
+Cajas para teléfonos móviles;Level 4;10001178;10001178
+Salpicadero para teléfonos móviles;Level 4;10001182;10001182
+Protección contra la radiación de teléfonos móviles;Level 4;10001183;10001183
+Soportes de teléfono;Level 4;10001177;10001177
+Limpiadores de teléfono;Level 4;10005680;10005680
+Dispositivos de comunicación fijos;Level 3;66010200;66010200
+Contestadores automáticos;Level 4;10001184;10001184
+Sistemas de conferencias;Level 4;10001185;10001185
+Accesorios de dispositivos de comunicación fija;Level 4;10005681;10005681
+Otros dispositivos para comunicaciones fijas;Level 4;10001383;10001383
+Paquetes variados de dispositivos para comunicaciones fijas;Level 4;10001384;10001384
+Tarjetas de llamadas/justificantes de prepago para comunicaciones fijas;Level 4;10001188;10001188
+Intercomunicadores;Level 4;10001189;10001189
+Conmutadores telefónicos;Level 4;10001190;10001190
+Teléfonos;Level 4;10001191;10001191
+Servicios/dispositivos de comunicación móviles;Level 3;66010300;66010300
+Equipos de radio para comunicación;Level 4;10001192;10001192
+Equipo GPS – Comunicaciones móviles;Level 4;10001193;10001193
+Servicios/dispositivos de comunicaciones móviles – Recambios;Level 4;10003779;10003779
+Otros servicios/dispositivos de comunicaciones móviles;Level 4;10001385;10001385
+Paquetes variados de servicios/dispositivos de comunicaciones móviles;Level 4;10001386;10001386
+Tarjetas de llamada/justificantes de prepago para teléfonos móviles;Level 4;10001195;10001195
+Tarjetas SIM de móvil/Adaptadores de tarjeta SIM;Level 4;10001196;10001196
+Accesorios para teléfonos móviles / teléfonos inteligentes;Level 4;10007020;10007020
+Teléfonos móviles/Smartphones;Level 4;10001198;10001198
+Emisores/localizadores personales digitales;Level 4;10005711;10005711
+Comunicaciones bilaterales por radio;Level 4;10001200;10001200
+Señalización;Level 3;66010500;66010500
+Señal – Recambio/Accesorio;Level 4;10006227;10006227
+Soportes para señales;Level 4;10006226;10006226
+Señales combinación;Level 4;10006225;10006225
+Señales preimpresas;Level 4;10006223;10006223
+Señales sin imprimir;Level 4;10006224;10006224
+Computación;Level 1;65000000;65000000
+Computadoras/videojuegos;Level 2;65010000;65010000
+Unidades de computadora;Level 3;65010300;65010300
+Unidades de computadora – Accesorios/piezas de repuesto;Level 4;10001129;10001129
+Otras unidades del computadora;Level 4;10001130;10001130
+Paquetes variados de unidades del computadora;Level 4;10001131;10001131
+Unidades de discos duros;Level 4;10001133;10001133
+Equipo de redes para computadora;Level 3;65010800;65010800
+Equipo de redes para computadoras – Accesorios/piezas de repuesto;Level 4;10001172;10001172
+Otros equipos de redes para computadoras;Level 4;10001170;10001170
+Paquetes variados de equipos de redes para computadoras;Level 4;10001171;10001171
+Dispositivos de entrada (Interruptores, concentradores, enrutadores y cortafuegos);Level 4;10001163;10001163
+Módems;Level 4;10001164;10001164
+Puntos de acceso a la red;Level 4;10001165;10001165
+Enrutadores de red;Level 4;10001168;10001168
+Conmutadores de red;Level 4;10001169;10001169
+Centros de red/USB;Level 4;10001166;10001166
+Repetidores;Level 4;10001173;10001173
+Internet USB;Level 4;10005831;10005831
+Accesorios para videojuegos/computadoras;Level 3;65010100;65010100
+Lectores de tarjetas;Level 4;10001115;10001115
+Accesorios para carcasas/cajas protectoras de computadora;Level 4;10001116;10001116
+Puertos de acoplamientos/bases de computadoras;Level 4;10001109;10001109
+Suministros de energía para computadoras;Level 4;10001124;10001124
+Soportes/bases para computadoras;Level 4;10005438;10005438
+Herramientas/juegos de herramientas para computadoras;Level 4;10001112;10001112
+Otros accesorios para videojuegos/computadoras;Level 4;10001362;10001362
+Paquetes variados de accesorios para videojuegos/computadoras;Level 4;10001363;10001363
+Estuche/porta computadoras/video juego;Level 4;10001107;10001107
+Productos para la limpieza de videojuegos/computadoras;Level 4;10001108;10001108
+Auriculares para computadoras/videojuegos;Level 4;10005741;10005741
+Productos para la seguridad de videojuegos/computadoras;Level 4;10001111;10001111
+Filtros/cubiertas (equipos electrónicos);Level 4;10001110;10001110
+Alfombrilla/reposamuñecas – Informática;Level 4;10001113;10001113
+Asistente de datos personales/bolígrafo organizador;Level 4;10001114;10001114
+Grabadora personal de video;Level 4;10006744;10006744
+Editor de vídeo;Level 4;10005843;10005843
+Dispositivos de entrada/control de videojuegos/computadoras;Level 3;65010600;65010600
+Tabletas de gráficos para computadoras;Level 4;10001149;10001149
+Teclados para computadoras;Level 4;10001150;10001150
+Dispositivos de punteros para computadoras;Level 4;10001151;10001151
+Dispositivos de control para videojuegos/computadoras;Level 4;10001148;10001148
+Dispositivos de entrada/control de videojuegos/computadoras – Accesorios/piezas de repuesto;Level 4;10001152;10001152
+Otros dispositivos de entrada/control de videojuegos/computadoras;Level 4;10001364;10001364
+Paquetes variados de dispositivos de entrada/control de videojuegos/computadoras;Level 4;10001365;10001365
+Plumas digitales;Level 4;10005686;10005686
+Periféricos para videojuegos/computadoras;Level 3;65010700;65010700
+Altavoces para computadoras/mini altavoces;Level 4;10001154;10001154
+Monitores para videojuegos/computadoras;Level 4;10001153;10001153
+Periféricos para videojuegos/computadoras – Accesorios/piezas de repuesto;Level 4;10001155;10001155
+Otros periféricos para videojuegos/computadoras;Level 4;10001366;10001366
+Paquetes variados de periféricos para videojuegos/computadoras;Level 4;10001367;10001367
+Interruptor de teclado, ratón, voz (KVM);Level 4;10006745;10006745
+Consumibles para impresoras;Level 4;10001156;10001156
+Impresoras y dispositivos de impresión;Level 4;10001158;10001158
+Sistemas de proyección;Level 4;10001159;10001159
+Escáners;Level 4;10001160;10001160
+Cámaras Web;Level 4;10001161;10001161
+Software para videojuegos/computadoras;Level 3;65010400;65010400
+Programas de juegos para videojuegos/computadoras;Level 4;10001137;10001137
+Otros programas para videojuegos/computadoras;Level 4;10001139;10001139
+Paquetes variados de programas para videojuegos/computadoras;Level 4;10001140;10001140
+Computadoras;Level 3;65010500;65010500
+Computadoras – Accesorios/ piezas de repuesto;Level 4;10001141;10001141
+Otros computadoras;Level 4;10001142;10001142
+Organizadores electrónicos;Level 4;10001143;10001143
+Computadoras personales/Tablets/eBooks;Level 4;10006276;10006276
+Computadoras personales – Todo en uno;Level 4;10006405;10006405
+Computadoras personales – De escritorio/Terminal de Internet;Level 4;10001144;10001144
+Computadoras personales – Portátiles;Level 4;10001145;10001145
+Asistentes digitales personales;Level 4;10001146;10001146
+Relojes inteligentes (smart watches);Level 4;10006743;10006743
+Consolas de videojuego;Level 3;65011000;65011000
+Accesorios para consolas;Level 4;10005763;10005763
+Consolas de videojuegos – No portátiles;Level 4;10003817;10003817
+Consolas de videojuegos – Portátiles;Level 4;10003818;10003818
+Consolas de videojuegos – piezas de repuesto;Level 4;10003819;10003819
+Segmento cruzado;Level 1;58000000;58000000
+Segmento cruzado;Level 2;58010000;58010000
+Segmento cruzado;Level 3;58010100;58010100
+Paquetes variados de segmento cruzado;Level 4;10000624;10000624
+Suministros eléctricos;Level 1;78000000;78000000
+Cableado/tendido eléctrico;Level 2;78040000;78040000
+Control/administración del cableado/tendido;Level 3;78040100;78040100
+Pasadores/arandelas/amarres para cables;Level 4;10005651;10005651
+Marcadores de cable;Level 4;10005648;10005648
+Accesorios de marcado de cables;Level 4;10005674;10005674
+Rieles de cable/retráctiles;Level 4;10005649;10005649
+Cable/hilo conductor/conducto/canaletas;Level 4;10005647;10005647
+Protección/envoltorios de cables/hilos;Level 4;10005650;10005650
+Acoplamientos de conductos;Level 4;10005660;10005660
+Cables eléctricos;Level 3;78040300;78040300
+Cables para sistemas audiovisuales;Level 4;10005757;10005757
+Cables para computadora;Level 4;10005754;10005754
+Cables para la instalación del sistema de satélite;Level 4;10005759;10005759
+Cables para sistemas de telecomunicaciones;Level 4;10005758;10005758
+Cableado eléctrico;Level 3;78040400;78040400
+Cables eléctricos;Level 4;10005541;10005541
+Conexión/distribución eléctrica;Level 2;78020000;78020000
+Baterías/Cargadores;Level 3;78021100;78021100
+Baterías;Level 4;10000546;10000546
+Paquetes variados de baterías/cargadores;Level 4;10000704;10000704
+Cajas para pilas;Level 4;10005764;10005764
+Cargadores;Level 4;10000548;10000548
+Conexión eléctrica;Level 3;78020500;78020500
+Conectores (Eléctricos);Level 4;10005573;10005573
+Paquetes variados de conexiones eléctricas;Level 4;10005572;10005572
+Enchufes;Level 4;10000551;10000551
+Clavijas/receptáculos/tomacorrientes;Level 4;10005567;10005567
+Distribución eléctrica;Level 3;78020600;78020600
+Adaptores (eléctricos);Level 4;10005496;10005496
+Barra/Barra de distribución;Level 4;10005575;10005575
+Condensadores;Level 4;10005622;10005622
+Cortocircuitos;Level 4;10005576;10005576
+Transformadores/convertidores/onduladores/reguladores;Level 4;10000547;10000547
+Placas/cajas de distribución;Level 4;10005583;10005583
+Accesorios/acoplamientos de distribución eléctrica;Level 4;10005577;10005577
+Fusibles;Level 4;10000549;10000549
+Temporizadores/controladores eléctricos/Controladores;Level 4;10005682;10005682
+Relés/contactos;Level 4;10005570;10005570
+Divisores;Level 4;10005568;10005568
+Supresores/protectores para picos de tensión;Level 4;10005585;10005585
+Interruptores;Level 4;10005586;10005586
+Regleteros de terminal/tiras;Level 4;10005588;10005588
+Iluminación eléctrica;Level 2;78030000;78030000
+Lámparas/bombillas/iluminación eléctricas/Iluminación;Level 3;78030300;78030300
+Iluminación de fibra óptica;Level 4;10005640;10005640
+Lámparas – de pie;Level 4;10005641;10005641
+Bombillas/Fluorescentes/Diodos emisores de luz;Level 4;10000552;10000552
+Iluminación – Fija;Level 4;10005639;10005639
+Lámparas de cuerda/cadena;Level 4;10005644;10005644
+Accesorios de iluminación eléctrica;Level 3;78030200;78030200
+Soportes/acoplamientos para lámparas;Level 4;10005637;10005637
+Pantallas de lámparas;Level 4;10005635;10005635
+Bases/soportes de lámparas;Level 4;10005636;10005636
+Cambiadores de bombillas;Level 4;10005638;10005638
+Componentes de control de iluminación eléctrica;Level 3;78030100;78030100
+Balastos/arrancadores;Level 4;10005481;10005481
+Atenuadores;Level 4;10005634;10005634
+Clavijas de bombillas (sockets);Level 4;10005633;10005633
+Iluminación eléctrica – Otros;Level 3;78030500;78030500
+Iluminación eléctrica – Otros;Level 4;10006896;10006896
+Iluminación eléctrica portátil;Level 3;78030400;78030400
+Linternas eléctricas – Portátiles;Level 4;10005643;10005643
+Linternas/flashes eléctricos;Level 4;10005642;10005642
+Luz de extensión – Portátiles;Level 4;10005669;10005669
+Componentes eléctricos generales;Level 2;78060000;78060000
+Componentes eléctricos generales;Level 3;78060100;78060100
+Trenza de empalme/toma a tierra;Level 4;10005546;10005546
+Cable/hilo retráctil;Level 4;10005571;10005571
+Verificadores electrónicos;Level 4;10005742;10005742
+Cables/extensiones fuentes de alimentación;Level 4;10005559;10005559
+Multímetros;Level 4;10005599;10005599
+Tableros de pared (Eléctricos);Level 4;10005505;10005505
+Alimentos/bebidas/tabaco;Level 1;50000000;50000000
+Bebidas;Level 2;50200000;50200000
+Bebidas no alcohólicas – Listas para beber;Level 3;50202300;50202300
+Agua embotellada;Level 4;10000232;10000232
+Alimentos preparados/en conserva;Level 2;50190000;50190000
+Combinación de comidas preparadas/listas para consumir;Level 3;50193800;50193800
+Alimentos elaborados para combinación – no listos para consumir (Perecederos);Level 4;10006749;10006749
+Alimentos elaborados para combinación – Listos para consumir (Perecederos);Level 4;10006751;10006751
+Calzado;Level 1;63000000;63000000
+Calzado;Level 2;63010000;63010000
+Calzado deportivo;Level 3;63010100;63010100
+Calzado deportivo – General;Level 4;10001070;10001070
+Calzado deportivo – Especializado;Level 4;10001071;10001071
+Accesorios de calzado;Level 3;63010200;63010200
+Calzado – Accesorios/ recambios;Level 4;10000433;10000433
+Paquetes variados de accesorios para el calzado;Level 4;10000700;10000700
+Relleno del calzado;Level 4;10001074;10001074
+Tintes/colorantes para el calzado;Level 4;10000432;10000432
+Calzado de uso general;Level 3;63010300;63010300
+Botas – General;Level 4;10001076;10001076
+Zapatos – General;Level 4;10001077;10001077
+Calzado para casa;Level 3;63010400;63010400
+Calzado de casa – Completamente cerrado;Level 4;10001078;10001078
+Calzado de casa – Parcialmente cerrado;Level 4;10001079;10001079
+Calzado protector/de seguridad;Level 3;63010500;63010500
+Chanclos de protección/de seguridad;Level 4;10001081;10001081
+Zapatos de protección/de seguridad;Level 4;10001082;10001082
+Calzado de protección/de seguridad;Level 4;10001080;10001080
+Combustibles/Gases;Level 1;87000000;87000000
+Almacenamiento/transporte de combustible;Level 2;87020000;87020000
+Bombas de combustible;Level 3;87020100;87020100
+Bombas de combustible (No eléctricas);Level 4;10005256;10005256
+Bombas de combustible (Eléctricas);Level 4;10005257;10005257
+Almacenamiento de combustible;Level 3;87020200;87020200
+Botellas/botes de combustible gaseoso (Vacíos);Level 4;10005258;10005258
+Botellas/contenedores de combustible líquido (Vacíos);Level 4;10005306;10005306
+Combustibles/aditivos para combustibles;Level 2;87010000;87010000
+Aditivos para combustibles;Level 3;87010200;87010200
+Aditivos para combustibles;Level 4;10005255;10005255
+Combustibles/Ayudas ignición;Level 3;87010100;87010100
+Cerillas/Utensilios para encender;Level 4;10000543;10000543
+Herramientas / accesorios de iluminación con fuego;Level 4;10006842;10006842
+Paquetes variados de Combustible/Ayuda ignición;Level 4;10000703;10000703
+Combustibles gaseosos;Level 4;10005264;10005264
+Combustibles en gel;Level 4;10005265;10005265
+Combustibles líquidos;Level 4;10005263;10005263
+Combustibles sólidos;Level 4;10005266;10005266
+Asistencia sanitaria;Level 1;51000000;51000000
+Ayudas/tratamientos de salud;Level 2;51100000;51100000
+Primeros auxilios;Level 3;51101700;51101700
+Primeros auxilios – Accesorios;Level 4;10000449;10000449
+Primeros auxilios – Gasas/vendas/escayolas;Level 4;10000448;10000448
+Primeros auxilios – Cabestrillos/soportes;Level 4;10000450;10000450
+Paquetes variados de primeros auxilios;Level 4;10000684;10000684
+Tratamientos/cuidado de las piernas/pies;Level 3;51101800;51101800
+Calzado ortopédico/corrector;Level 4;10000488;10000488
+Ayudas personales;Level 3;51101500;51101500
+Ayudas para discapacitados;Level 4;10000458;10000458
+Diagnósticos de uso doméstico;Level 2;51130000;51130000
+Monitores de diagnóstico;Level 3;51131500;51131500
+Controles de diagnósticos de uso doméstico;Level 4;10000455;10000455
+Pruebas de diagnóstico;Level 3;51131600;51131600
+Pruebas de diagnósticos de uso doméstico;Level 4;10000453;10000453
+Electrodomésticos;Level 1;72000000;72000000
+Grandes electrodomésticos;Level 2;72010000;72010000
+Electrodomésticos de limpieza para la cocina;Level 3;72010600;72010600
+Lavavajillas;Level 4;10001964;10001964
+Otros aparatos para lavar artículos de cocina;Level 4;10001965;10001965
+Aparatos para lavar artículos de cocina – Accesorios/recambios;Level 4;10001966;10001966
+Electrodomésticos de cocina grandes;Level 3;72010300;72010300
+Campana de cocina;Level 4;10005322;10005322
+Hornillas/placas de cocina;Level 4;10001951;10001951
+Otros aparatos industriales de cocina;Level 4;10001953;10001953
+Aparatos industriales de cocina – Accesorios/recambios;Level 4;10001954;10001954
+Microondas;Level 4;10001952;10001952
+Hornos;Level 4;10001950;10001950
+Ollas económicas/cocinas (placas de cocina combinadas/hornillas/hornos);Level 4;10003690;10003690
+Hornos de vapor;Level 4;10003691;10003691
+Electrodomésticos de lavado grandes;Level 3;72010500;72010500
+Lavadoras;Level 4;10001959;10001959
+Combinación lavadora/secadora;Level 4;10001961;10001961
+Otras lavadoras industriales;Level 4;10001962;10001962
+Lavadoras industriales – Accesorios/recambios;Level 4;10001963;10001963
+Secadoras centrífugas/secadoras;Level 4;10003692;10003692
+Máquinas expendedoras de agua grandes;Level 3;72010700;72010700
+Máquinas expendedoras de agua – No empotradas;Level 4;10003712;10003712
+Aparatos de congelación/refrigeración;Level 3;72010200;72010200
+Neveras para bebidas;Level 4;10003710;10003710
+Aparatos de frío/calor;Level 4;10001940;10001940
+Congeladores;Level 4;10003698;10003698
+Máquinas de hacer hielo;Level 4;10001938;10001938
+Otros aparatos de refrigeración/congelación;Level 4;10001941;10001941
+Aparatos de refrigeración/congelación – Accesorios/recambios;Level 4;10001942;10001942
+Refrigeradores/congeladores;Level 4;10003695;10003695
+Refrigeradores;Level 4;10003694;10003694
+Refrigerador para vinos;Level 4;10001939;10001939
+Aparatos de calentamiento;Level 3;72010400;72010400
+Carritos camareras (eléctricas);Level 4;10001956;10001956
+Otros aparatos calentadores;Level 4;10001957;10001957
+Aparatos calentadores – Accesorios/recambios;Level 4;10001958;10001958
+Cajones calentadores;Level 4;10001955;10001955
+Aparatos de compactación/eliminación de residuos;Level 3;72010100;72010100
+Trituradora de desechos orgánicos;Level 4;10001929;10001929
+Compactadoras de basura;Level 4;10001928;10001928
+Otros aparatos para compactar/triturar basura;Level 4;10001930;10001930
+Aparatos para compactar/triturar basura – Accesorios/recambios;Level 4;10001931;10001931
+Pequeños electrodomésticos;Level 2;72020000;72020000
+Electrodomésticos de limpieza;Level 3;72020400;72020400
+Otros aparatos de limpieza;Level 4;10002032;10002032
+Aparatos de limpieza – Accesorios/recambios;Level 4;10002033;10002033
+Armario para desinfección;Level 4;10006220;10006220
+Productos limpiadores/abrillantadores de suelo;Level 4;10002030;10002030
+Abrillantadores/limpiadores de calzado;Level 4;10003711;10003711
+Limpiadores con vapor;Level 4;10002031;10002031
+Barredoras (no motorizadas);Level 4;10005811;10005811
+Cepillos (eléctricos);Level 4;10002029;10002029
+Bolsas para aspiradoras;Level 4;10005762;10005762
+Aspiradoras;Level 4;10002028;10002028
+Electrodomésticos de preparación de bebidas/alimentos;Level 3;72020200;72020200
+Artículos de ayuda para la alimentación del bebé (eléctricos);Level 4;10000820;10000820
+Máquina para hacer mantequilla (eléctricas);Level 4;10002015;10002015
+Abrelatas (eléctricos);Level 4;10002000;10002000
+Máquinas de algodón;Level 4;10002019;10002019
+Máquinas para hacer refrescos carbonatados;Level 4;10002016;10002016
+Fuentes de chocolate (Eléctrico);Level 4;10005690;10005690
+Tostadoras de granos de café;Level 4;10006852;10006852
+Molinillos de café (eléctricos);Level 4;10002006;10002006
+Pistola de galleta (Eléctricas);Level 4;10005358;10005358
+Deshidratadores (eléctricos);Level 4;10002018;10002018
+Paquetes variados de alimentación/bebidas;Level 4;10002022;10002022
+Otros aparatos para preparar bebidas/comidas;Level 4;10002020;10002020
+Aparatos para preparar bebidas/comidas – Accesorios/recambios;Level 4;10002021;10002021
+Máquinas para bebidas granizadas/Granizadora de hielo (Eléctrico);Level 4;10005689;10005689
+Ralladores (eléctricos);Level 4;10002005;10002005
+Máquinas de bebidas calientes;Level 4;10002011;10002011
+Máquinas para hacer helados (eléctricas);Level 4;10002013;10002013
+Picadores de hielo/Cubiteras de hielo (Eléctricos);Level 4;10005357;10005357
+Exprimidores (eléctricos);Level 4;10002007;10002007
+Tetera (eléctrica);Level 4;10002012;10002012
+Accesorios de cocina para batir;Level 4;10006739;10006739
+Accesorios de cocina para picar;Level 4;10006737;10006737
+Combinación de accesorios de cocina para mezclar/batir/picar;Level 4;10006735;10006735
+Accesorios de cocina para mezclar;Level 4;10006738;10006738
+Báscula de cocina (Eléctrico);Level 4;10005695;10005695
+Accesorios de cocina para rebanar;Level 4;10006736;10006736
+Afiladores de cuchillos (eléctricos);Level 4;10002002;10002002
+Cuchillos (eléctricos);Level 4;10001998;10001998
+Trituradoras/picadoras de carne (eléctricas);Level 4;10002004;10002004
+Fuentes de bebidas para fiestas (enchufada);Level 4;10005868;10005868
+Máquina para preparar leche de arroz/soja;Level 4;10006218;10006218
+Aparatos para cerrar al vacío (eléctricos);Level 4;10002003;10002003
+Sacacorchos/Abridores de botellas (Eléctrico);Level 4;10005691;10005691
+Yogurtera;Level 4;10002014;10002014
+Electrodomésticos de lavado;Level 3;72020300;72020300
+Planchas (eléctricas);Level 4;10002023;10002023
+Prensas para ropa;Level 4;10002025;10002025
+Tablas para planchar (eléctricas);Level 4;10002024;10002024
+Estación de planchado con vapor;Level 4;10005830;10005830
+Otros aparatos para el cuidado de la ropa limpia;Level 4;10002026;10002026
+Aparatos para el cuidado de la ropa limpia – Accesorios/ recambios;Level 4;10002027;10002027
+Dispositivos portátiles de control de aire;Level 3;72020600;72020600
+Aparatos de aire acondicionado – Portátiles;Level 4;10005317;10005317
+Aparatos de control de aire – Multifunción – Portátiles;Level 4;10005335;10005335
+Refrigeradores de aire – Portátiles;Level 4;10005334;10005334
+Deshumidificador de aire – portátil (no eléctrico);Level 4;10006798;10006798
+Deshumidificadores de aire – Portátiles;Level 4;10005332;10005332
+Calentadores de aire – Portátiles;Level 4;10003992;10003992
+Humidificadores de aire – Portátiles;Level 4;10005331;10005331
+Ionizadores de aire – Portátiles;Level 4;10005333;10005333
+Purificadores de aire – Portátiles;Level 4;10005336;10005336
+Ventiladores – Portátiles;Level 4;10005337;10005337
+Recambios para aparatos de control de aire/Accesorios;Level 4;10005697;10005697
+Electrodomésticos de cocina/calefacción pequeños;Level 3;72020100;72020100
+Aparatos para hacer pan;Level 4;10001983;10001983
+Máquina para hacer pastel / pay;Level 4;10006740;10006740
+Paquetes variados de aparatos para cocinar;Level 4;10001991;10001991
+Temporizadores de cocina (Eléctricos);Level 4;10005365;10005365
+Freidoras;Level 4;10001981;10001981
+Ollas para huevos;Level 4;10001980;10001980
+Parrillas (eléctricas);Level 4;10001969;10001969
+Fondues (eléctricas);Level 4;10001986;10001986
+Máquina de hacer perritos calientes;Level 4;10005704;10005704
+Piedras calientes (eléctricas);Level 4;10001990;10001990
+Aparatos para preparar platos mexicanos (eléctricos);Level 4;10001988;10001988
+Ollas para múltiples usos;Level 4;10001978;10001978
+Paelleras;Level 4;10001989;10001989
+Aparatos para hacer donuts/crepes;Level 4;10001971;10001971
+Ollas para pastas;Level 4;10001979;10001979
+Aparatos para cocinar pizzas;Level 4;10001985;10001985
+Aparatos para hacer palomitas de maíz;Level 4;10001984;10001984
+Ollas a presión;Level 4;10001976;10001976
+Aparatos para raclettes (eléctricos);Level 4;10001972;10001972
+Ollas para arroz/ollas a vapor;Level 4;10001977;10001977
+Parrillas/asadores (eléctricos);Level 4;10001974;10001974
+Aparatos para hacer gofres/sándwiches;Level 4;10001970;10001970
+Ollas lentas/cazuelas calientes;Level 4;10001975;10001975
+Otros pequeños aparatos de cocina;Level 4;10002034;10002034
+Pequeños aparatos de cocina – Accesorios/recambios;Level 4;10002035;10002035
+Tajines (eléctricos);Level 4;10001987;10001987
+Hornillos;Level 4;10001968;10001968
+Tostadoras;Level 4;10001967;10001967
+Bandejas térmicas (Eléctricas);Level 4;10005359;10005359
+Woks (eléctricos);Level 4;10001982;10001982
+Electrodomésticos Pequeños – Otros;Level 3;72020700;72020700
+Electrodomésticos Pequeños – Otros;Level 4;10006894;10006894
+Máquinas expendedoras de agua pequeñas;Level 3;72020500;72020500
+Máquinas expendedoras de agua – De sobremesa;Level 4;10003713;10003713
+Smart Home / Equipo de automatización del hogar;Level 3;72020800;72020800
+Smart Home / Equipos de automatización para el hogar - Panel de control;Level 4;10007021;10007021
+Smart Home / Equipos de automatización para el hogar - Césped / Jardín / Aparatos de ocio;Level 4;10007024;10007024
+Smart Home / Equipos de automatización para el hogar - Aparatos de iluminación;Level 4;10007025;10007025
+Smart Home / Equipos de automatización para el hogar - Dispositivos de seguridad;Level 4;10007022;10007022
+Smart Home / Equipos de automatización para el hogar - Dispositivos de regulación de temperatura;Level 4;10007023;10007023
+Plantas de horticultura;Level 1;93000000;93000000
+Ramos;Level 2;93100000;93100000
+Ramos;Level 3;93100100;93100100
+Otros ramos;Level 4;10006771;10006771
+Plantas vivas – Otras;Level 3;93044000;93044000
+Grasses – Otras plantas vivas;Level 4;10006677;10006677
+Paquetes variados de plantas;Level 2;93060000;93060000
+Paquetes variados de plantas;Level 3;93060100;93060100
+Paquetes variados de plantas;Level 4;10003305;10003305
+Semillas/esporas;Level 2;93070000;93070000
+Semillas/esporas;Level 3;93070100;93070100
+Semillas/esporas;Level 4;10003291;10003291
+Arbustos/árboles;Level 2;93080000;93080000
+Arbustos/árboles;Level 3;93080100;93080100
+Arbustos/árboles;Level 4;10003714;10003714
+Plantas vivas (Todas);Level 2;93990000;93990000
+Plantas vivas;Level 3;93990100;93990100
+Plantas vivas;Level 4;93990101;93990101
+Equipamiento de hogar/mobiliario de oficina/de uso doméstico;Level 1;75000000;75000000
+Muebles de bebé;Level 2;75050000;75050000
+Mobiliario sanitario para bebé;Level 3;75050100;75050100
+Productos seguros para el baño del bebé;Level 4;10000498;10000498
+Cunas/sillas/bañeras para bebés;Level 4;10000827;10000827
+Cambiadores de tela para bebés;Level 4;10000822;10000822
+Mesas-cambiador para bebés;Level 4;10000501;10000501
+Asientos para aprender/orinales para bebés;Level 4;10000821;10000821
+Mobiliario sanitario para bebé – otro;Level 4;10006797;10006797
+Mobiliario sanitario para bebé – partes de reemplazo;Level 4;10006796;10006796
+Paquetes con variedad de bobiliario sanitario para bebé;Level 4;10006795;10006795
+Camas/colchones domésticos para bebé;Level 3;75050200;75050200
+Colchón para cuna;Level 4;10000790;10000790
+Cunas/cunas-camas;Level 4;10000789;10000789
+Camas/colchones domésticos para bebé – otro;Level 4;10006808;10006808
+Camas/colchones domésticos para bebé – partes de reemplazo;Level 4;10006807;10006807
+Paquete variado de camas/colchones domésticos para bebé;Level 4;10006806;10006806
+Asientos domésticos para bebé;Level 3;75050300;75050300
+Hamacas/balancines (no eléctricos);Level 4;10000800;10000800
+Hamacas/balancines (eléctricos);Level 4;10000801;10000801
+Silla alta de bebé;Level 4;10000787;10000787
+Asientos domésticos para bebé – otro;Level 4;10006811;10006811
+Asientos domésticos para bebé – partes de reemplazo;Level 4;10006810;10006810
+Paquete con variedad de asientos domésticos para bebé;Level 4;10006809;10006809
+Telas/complementos textiles para el hogar;Level 2;75020000;75020000
+Ropa de cama;Level 3;75020200;75020200
+Cenefas/sábanas;Level 4;10002227;10002227
+Otros tipos de ropa de cama;Level 4;10002230;10002230
+Paquetes variados de ropa de cama;Level 4;10002229;10002229
+Mantas (eléctricas);Level 4;10005197;10005197
+Mantas/cubrecamas (no eléctricos);Level 4;10002224;10002224
+Funda nórdica;Level 4;10002223;10002223
+Edredones nórdico/colchas/cubrecolchones;Level 4;10002222;10002222
+Protectores de edredones/almohadas/colchones;Level 4;10002228;10002228
+Fundas de almohada;Level 4;10002226;10002226
+Almohadas;Level 4;10002225;10002225
+Paquetes variados de telas/complementos textiles;Level 3;75020300;75020300
+Paquetes variados de telas/complementos textiles;Level 4;10003813;10003813
+Hogar/telas para oficina/complementos textiles;Level 3;75020100;75020100
+Cortinas;Level 4;10002214;10002214
+Cojines;Level 4;10002217;10002217
+Toallas de telas/tejidos;Level 4;10002219;10002219
+Telas/fundas para muebles – Desmontables;Level 4;10002216;10002216
+Alfombras/esterillas para mobiliario de suelo – Desmontables;Level 4;10002218;10002218
+Paquetes variados de mobiliario/complementos textiles para oficinas/uso doméstico;Level 4;10002220;10002220
+Otros tipos de mobiliario/complementos textiles para oficinas/uso doméstico;Level 4;10002221;10002221
+Persianas de telas/tejidos para ventanas;Level 4;10002215;10002215
+Mobiliario de oficina/uso doméstico;Level 2;75010000;75010000
+Expositores;Level 3;75010700;75010700
+Expositor;Level 4;10006330;10006330
+Camas/colchones de uso doméstico;Level 3;75010400;75010400
+Camas regulables de uso doméstico (no eléctricas);Level 4;10002209;10002209
+Camas regulables de uso doméstico (eléctricas);Level 4;10002208;10002208
+Armazón de camas domésticas;Level 4;10002207;10002207
+Camas de uso doméstico – Componentes/recambios;Level 4;10005096;10005096
+Otros colchones/camas de uso doméstico;Level 4;10002212;10002212
+Paquetes variados de colchones/camas de uso doméstico;Level 4;10002213;10002213
+Camas de agua/inflabes de uso doméstico;Level 4;10002211;10002211
+Colchones domésticos;Level 4;10002210;10002210
+Accesorios de mobiliario de hogares/oficinas;Level 3;75010600;75010600
+Ruedas giratorias/almohadillas/deslizaderas para muebles;Level 4;10005437;10005437
+Forro/papel de contacto con autoagarre;Level 4;10005254;10005254
+Paquetes variados de muebles de oficina/de uso doméstico;Level 3;75010500;75010500
+Paquetes variados de mobiliario para oficinas/uso doméstico;Level 4;10003814;10003814
+Asientos para oficina/de uso doméstico;Level 3;75010200;75010200
+Sacos rellenos de granos/pufs/otomanas;Level 4;10002197;10002197
+Sillas para oficinas/uso doméstico – Componentes/recambios;Level 4;10005097;10005097
+Taburetes/sillas de oficina/uso doméstico (no eléctricos);Level 4;10002193;10002193
+Taburetes/sillas de oficina/uso doméstico (eléctricos);Level 4;10002192;10002192
+Soportes para pies para oficinas/uso doméstico;Level 4;10002199;10002199
+Otros asientos para oficinas/uso doméstico;Level 4;10002201;10002201
+Paquetes variados de asientos para oficinas/uso doméstico;Level 4;10002200;10002200
+Sofás-cama para oficinas/uso doméstico;Level 4;10002196;10002196
+Sofás para oficinas/uso doméstico (no eléctricos);Level 4;10002195;10002195
+Sofás para oficinas/uso doméstico (eléctricos);Level 4;10002194;10002194
+Asientos inflables;Level 4;10002198;10002198
+Hogar/almacenamiento de oficina/muebles de exposición/pantallas;Level 3;75010100;75010100
+Cajones;Level 4;10002117;10002117
+Ficheros;Level 4;10002185;10002185
+Clasificadores/organizadores domésticos;Level 4;10002189;10002189
+Barras de bar domésticas/de oficina;Level 4;10005810;10005810
+Cestos/cajas para oficinas/uso doméstico;Level 4;10002187;10002187
+Expositores/armarios de oficina/uso doméstico;Level 4;10005199;10005199
+Mamparas/separadores de oficina/uso doméstico;Level 4;10002190;10002190
+Unidades de estanterías de oficina/uso doméstico;Level 4;10002184;10002184
+Mobiliario de exposición/almacenamiento para oficinas/uso doméstico – Componentes/recambios;Level 4;10005098;10005098
+Otros tipos de mobiliario de exposición/almacenamiento para oficinas/uso doméstico;Level 4;10003790;10003790
+Paquetes variados de maparas/mobiliario de exposición/almacenamiento para oficinas/uso doméstico;Level 4;10002191;10002191
+Guardaropas de oficina/uso doméstico/taquillas;Level 4;10002118;10002118
+Almacenamiento en raíles/carpetas;Level 4;10002188;10002188
+Unidades de entretenimiento universal;Level 4;10002186;10002186
+Plataformas giratorias universales;Level 4;10005743;10005743
+Encimera (superficie de trabajo horizontal);Level 4;10006731;10006731
+Escritorios/mesas para oficina/de uso doméstico;Level 3;75010300;75010300
+Mesas de trabajo/escritorios de oficinas/uso doméstico;Level 4;10002203;10002203
+Mesas de oficina/uso doméstico;Level 4;10002202;10002202
+Escritorios/mesas para oficinas/uso doméstico – Componentes/recambios;Level 4;10005095;10005095
+Otras mesas de trabajo/escritorios de oficinas/uso doméstico;Level 4;10002205;10002205
+Paquetes variado de mesas de trabajo/escritorios de oficinas/uso doméstico;Level 4;10002206;10002206
+Decoración para el hogar;Level 2;75030000;75030000
+Relojes;Level 3;75030400;75030400
+Relojes de alarma;Level 4;10007006;10007006
+Relojes;Level 4;10002252;10002252
+Relojes – Recambios;Level 4;10004101;10004101
+Banderas/estandartes decorativos;Level 3;75030700;75030700
+Banderas/estandartes decorativos;Level 4;10005816;10005816
+Banderas decorativas – Accesorios;Level 3;75030800;75030800
+Banderas decorativas – Accesorios;Level 4;10006893;10006893
+Paquetes variados de decoración para el hogar;Level 3;75030600;75030600
+Paquetes variados de decoración para el hogar;Level 4;10003816;10003816
+Decoración;Level 3;75030100;75030100
+Arbol de navidad artificial;Level 4;10007011;10007011
+Árboles/plantas/flores artificiales;Level 4;10002232;10002232
+Soportes para velas/accesorios;Level 4;10002249;10002249
+Velas;Level 4;10000555;10000555
+Adhesivos para ventanas/pegatinas/imanes decorativos;Level 4;10002234;10002234
+Accesorios ornamentales;Level 4;10005692;10005692
+Decoración;Level 4;10002231;10002231
+Paquetes variados de adornos;Level 4;10002238;10002238
+Adornos para cada estación (no eléctricos);Level 4;10002236;10002236
+Adornos para cada estación (eléctricos);Level 4;10002237;10002237
+Móviles con tubos/atrapasueños/dorados;Level 4;10002235;10002235
+Jarrones;Level 4;10002233;10002233
+Cuadros/espejos/marcos;Level 3;75030200;75030200
+Espejos;Level 4;10002245;10002245
+Pinturas;Level 4;10002240;10002240
+Fotografías;Level 4;10002243;10002243
+Marcos para fotos;Level 4;10002246;10002246
+Otros marcos/espejos/fotos;Level 4;10002248;10002248
+Paquetes variados de marcos/espejos/fotos;Level 4;10002247;10002247
+Pósters/estampados;Level 4;10002241;10002241
+Artículos domésticos de cocina;Level 1;73000000;73000000
+Artículos de cocina;Level 2;73040000;73040000
+Utensilios de cocina/para hornear;Level 3;73040400;73040400
+Utensilios para grill/hornos/hornillas (no desechables);Level 4;10002150;10002150
+Utensilios de cocina (desechables);Level 4;10000554;10000554
+Accesorios/Recambios de utensilios de cocina/para hornear;Level 4;10005675;10005675
+Otros utensilios de cocina/para hornear;Level 4;10002152;10002152
+Set de Fondue (Sin Potencia);Level 4;10007239;10007239
+Set de Fondue (Sin Alimentación) - Accesorios / Repuestos;Level 4;10007240;10007240
+Fuentes para hornos/sartenes;Level 4;10002144;10002144
+Paquetes de Variedades de Ollas / Sartenes / Woks / Cocottes;Level 4;10007241;10007241
+Surtidos de utensilios de cocina/para hornear;Level 4;10002151;10002151
+Recipientes para alimentos desechables;Level 3;73041000;73041000
+Recipientes para alimentos desechables;Level 4;10006331;10006331
+Recipientes para alimentos desechables, otros;Level 4;10006333;10006333
+Paquetes con variedades de recipientes para alimentos desechables;Level 4;10006332;10006332
+Utensilios para medir los alimentos;Level 3;73040300;73040300
+Temporizadores de cocina (no eléctricos);Level 4;10002136;10002136
+Otros utensilios para medir los alimentos;Level 4;10002142;10002142
+Surtidos de utensilios para medir los alimentos;Level 4;10002141;10002141
+Termómetros para alimentos;Level 4;10002140;10002140
+Equipos para medir el volumen de alimentos;Level 4;10002139;10002139
+Básculas de cocina (no eléctricas);Level 4;10002143;10002143
+Utensilios para la preparación de los alimentos;Level 3;73040600;73040600
+Artículos de ayuda para la alimentación del bebé (no eléctricos);Level 4;10000493;10000493
+Pistolas de galletas/mangas de decoración de alimentos (No eléctricos);Level 4;10005434;10005434
+Pelapatatas/utensilios para sacar el centro;Level 4;10002169;10002169
+Azucareros/Harineros;Level 4;10005694;10005694
+Embudo alimentario;Level 4;10005429;10005429
+Recipientes para preparación de comida;Level 4;10005701;10005701
+Brochas de preparación de comida/Perillas;Level 4;10005426;10005426
+Otros utensilios para la preparación de los alimentos;Level 4;10002178;10002178
+Surtidos de utensilios para la preparación de los alimentos;Level 4;10002177;10002177
+Guantes;Level 4;10005894;10005894
+Afiladores de cuchillos de cocina (no eléctricos);Level 4;10005201;10005201
+Cuchillos/cuchillas de cocina;Level 4;10002168;10002168
+Tijeras de cocina;Level 4;10000542;10000542
+Cuchillas/ralladores/rebanadoras de cocina;Level 4;10002172;10002172
+Picadoras/tajadera/pasapurés/utensilios para hacer pasta (no eléctricos);Level 4;10002148;10002148
+Herramientas de cocina multifuncionales;Level 4;10002176;10002176
+Abridores de cocina;Level 4;10002175;10002175
+Filtros de papel;Level 4;10000559;10000559
+Rodillos de madera;Level 4;10002173;10002173
+Cedazos/escurridores/coladores;Level 4;10002146;10002146
+Brochetas/pinchos;Level 4;10002174;10002174
+Tablas para cortar;Level 4;10002147;10002147
+Espatulas/cucharas/cucharones;Level 4;10002170;10002170
+Tenazas/pinzas/mazos/pasapurés/batidoras;Level 4;10002171;10002171
+Accesorios para la presentación de alimentos/bebidas;Level 3;73040900;73040900
+Accesorios/adornos para bebidas (no aptos para el consumo);Level 4;10002128;10002128
+Adornos para tartas y pastas/accesorios (no comestibles);Level 4;10002149;10002149
+Moldes alimentarios;Level 4;10005430;10005430
+Surtidos de artículos de cocina;Level 3;73040800;73040800
+Surtidos de artículos de cocina;Level 4;10002183;10002183
+Almacenamiento para la cocina;Level 3;73040100;73040100
+Bolsas desechables para alimentos;Level 4;10000692;10000692
+Envoltorios desechables para alimentos;Level 4;10000693;10000693
+Recipientes para almacenar alimentos/bebidas;Level 4;10002122;10002122
+Almacenamiento para la cocina – Recambios/Accesorios;Level 4;10005209;10005209
+Otros para almacenamiento de cocina;Level 4;10002124;10002124
+Estantes/Bases/Soportes/Dispensadores de cocina para almacenamiento;Level 4;10002121;10002121
+Surtidos para almacenamiento de cocina;Level 4;10002123;10002123
+Cordón/Lazos;Level 4;10000541;10000541
+Equipo de agua/bebida;Level 3;73040200;73040200
+Dosificadores/tapones para botes;Level 4;10002130;10002130
+Aisladores de botellas/latas;Level 4;10005470;10005470
+Desnatadora para cappuccinos (No eléctrica);Level 4;10005435;10005435
+Molinillos/exprimidores/picadoras de hielo (no eléctricos);Level 4;10002133;10002133
+Equipos para análisis caseros de agua;Level 4;10005208;10005208
+Tetera (no eléctrica);Level 4;10002129;10002129
+Filtros de agua/Cartuchos de filtro de agua;Level 4;10002127;10002127
+Otros equipos de agua/bebida;Level 4;10002135;10002135
+Surtidos de equipos de agua/bebida;Level 4;10002134;10002134
+Vajilla;Level 2;73050000;73050000
+Vajilla de bebe;Level 3;73050100;73050100
+Alimentación del bebé – Botellas;Level 4;10000491;10000491
+Alimentación del bebé – Recambios;Level 4;10000823;10000823
+Alimentación del bebé – Vajilla;Level 4;10000490;10000490
+Alimentación del bebé – Tetinas;Level 4;10000724;10000724
+Accesorios para la alimentación del bebé;Level 4;10000492;10000492
+Cuchillería para bebé (no desechable);Level 4;10006801;10006801
+Otros productos de alimentación del bebé;Level 4;10000825;10000825
+Paquetes con variedad de vajilla para bebé;Level 4;10006802;10006802
+Artículos de bar (no desechables);Level 3;73050500;73050500
+Pack Variedad De Bares y Vinos;Level 4;10007255;10007255
+Accesorios de cóctel (no desechables);Level 4;10007253;10007253
+Cubitera para hielo/vino;Level 4;10002162;10002162
+Otros accesorios de bar y vino;Level 4;10007254;10007254
+Accesorios de vino;Level 4;10007252;10007252
+Vajilla (No Desechable);Level 3;73050200;73050200
+Cuencos (no desechables);Level 4;10002154;10002154
+Paquete Variedad De Vajillas;Level 4;10007242;10007242
+Hueveras;Level 4;10005427;10005427
+Platos (no desechables);Level 4;10002153;10002153
+Vasos (No Desechable);Level 3;73050300;73050300
+Vasos Bar / Coctel;Level 4;10007245;10007245
+Vasos para Cerveza;Level 4;10007249;10007249
+Vasos Otros;Level 4;10007247;10007247
+Paquete de Variedad para Bebidas;Level 4;10007248;10007248
+Tazas/jarras (no desechables);Level 4;10002155;10002155
+Decantadores/jarras para servir;Level 4;10002158;10002158
+Set de Vasos;Level 4;10007246;10007246
+Copas para vino / agua / champaña;Level 4;10007243;10007243
+Accesorios de té / café / chocolate;Level 4;10007250;10007250
+Paquete de variedad de té / café / chocolate;Level 4;10007251;10007251
+Teteras/cafeteras;Level 4;10002131;10002131
+Vasos;Level 4;10007244;10007244
+Cubiertos (No Desechables);Level 3;73051000;73051000
+Cubiertos de Pescado / Marisco / Caracol (No Desechable);Level 4;10007274;10007274
+Paquetes de Variedades de Cubiertos (No Desechables);Level 4;10007270;10007270
+Otros cubiertos (no desechables);Level 4;10007269;10007269
+Cubiertos para servir (no desechables);Level 4;10007273;10007273
+Platos de entradas / postre / queso (no desechables);Level 4;10007275;10007275
+Cubiertos de mesa (no desechables);Level 4;10007272;10007272
+Cubiertos de té / café (no desechables);Level 4;10007268;10007268
+Cuchillos plegables de viaje;Level 4;10007271;10007271
+Utencilios para servir (no desechables);Level 3;73050600;73050600
+Buffet;Level 4;10007256;10007256
+Bandejas profundas para servir;Level 4;10007259;10007259
+Bandejas planas para servir;Level 4;10007258;10007258
+Carritos camareras para alimentos (no eléctricos);Level 4;10002160;10002160
+Calentadores de bebidas/alimentos (no eléctricos);Level 4;10002161;10002161
+Utencilios para servir Otros;Level 4;10007260;10007260
+Paquete de Variedad Utencilios para servir;Level 4;10007257;10007257
+Bandejas para servir;Level 4;10002159;10002159
+Vajilla (Desechable);Level 3;73050700;73050700
+Vajilla desechable;Level 4;10000635;10000635
+Recipientes para Bebidas (Desechable);Level 4;10007261;10007261
+Cubiertos (Desechables);Level 4;10007262;10007262
+Esteras / servilletas de mesa (desechables);Level 4;10007264;10007264
+Accesorios de vajilla (desechables);Level 4;10007263;10007263
+Accesorios de vajilla;Level 3;73050900;73050900
+Expositores/estantes para alimentos;Level 4;10002165;10002165
+Servilletero;Level 4;10005210;10005210
+Saleros/Pimenteros;Level 4;10005693;10005693
+Molinos para pimienta/sal/especias (no eléctricos);Level 4;10002163;10002163
+Vajilla Accesorios Otros;Level 4;10007266;10007266
+Paquetes de Variedad de accesorios de vajilla;Level 4;10007267;10007267
+Paquetes de Variedades de Vajilla;Level 3;73050800;73050800
+Artículos de jardinería/césped;Level 1;81000000;81000000
+Artículos de jardinería/césped;Level 2;81010000;81010000
+Repelentes/ahuyentadores de animales de jardín/césped;Level 3;81011700;81011700
+Repelentes/ahuyentadores de animales (Césped/jardín) – no eléctricos;Level 4;10005362;10005362
+Repelentes/ahuyentadores de animales (Césped/jardín) – eléctricos;Level 4;10006853;10006853
+Césped/productos químicos para jardín/tratamientos;Level 3;81010200;81010200
+Fungicidas;Level 4;10004109;10004109
+Otros tipos de tratamientos/productos químicos para el jardín;Level 4;10003240;10003240
+Paquetes variados de tratamientos para el jardín/césped;Level 4;10003239;10003239
+Insecticidas / Pesticidas del Césped / Jardín;Level 4;10006732;10006732
+Abrillantador/limpiador de plantas/hojas;Level 4;10005360;10005360
+Reguladores de Crecimiento de Plantas;Level 4;10006733;10006733
+Nutrientes/fertilizantes para suelo/plantas;Level 4;10003234;10003234
+Tratamientos/productos químicos para estructuras con agua/tanques/piscinas;Level 4;10003221;10003221
+Protección de Semillas / Mordientes;Level 4;10006734;10006734
+Herbicidas;Level 4;10003227;10003227
+Aparatos de calefacción/cocina para jardín/césped;Level 3;81010800;81010800
+Parrilla o asador;Level 4;10003328;10003328
+Calefactores/ventiladores de invernaderos;Level 4;10005369;10005369
+Parrillas (césped/jardín);Level 4;10003330;10003330
+Otros aparatos de calefacción/cocina para jardín/césped;Level 4;10003335;10003335
+Accesorios/recambios de aparatos de calefacción/cocina para jardín/césped;Level 4;10003336;10003336
+Paquetes variados de aparatos de calefacción/cocina para jardín/césped;Level 4;10003334;10003334
+Calefactores de exterior (no eléctricos);Level 4;10003324;10003324
+Calefactores de exterior (eléctricos);Level 4;10003323;10003323
+Asadores;Level 4;10006742;10006742
+Calentadores/cajones (jardín/césped);Level 4;10003332;10003332
+Equipo para jardín/césped;Level 3;81011200;81011200
+Alimentadores/aplicadores (no eléctricos);Level 4;10003867;10003867
+Alimentadores/aplicadores (eléctricos);Level 4;10003869;10003869
+Hachas;Level 4;10003383;10003383
+Cortabordes/recortadoras de cadena/cortadores de cepillo (eléctricos);Level 4;10003355;10003355
+Plantadoras de bulbos;Level 4;10003398;10003398
+Sierras de cadena (eléctricas);Level 4;10003359;10003359
+Máquinas desenrolladoras/desmenuzadoras/astilladoras (eléctricas);Level 4;10003351;10003351
+Máquinas de labrar/cultivadores (no eléctricos);Level 4;10003397;10003397
+Rotoazadas/máquinas de labrar/cultivadores (eléctricos);Level 4;10003373;10003373
+Barras excavadoras;Level 4;10003846;10003846
+Barrenas (no eléctricas);Level 4;10003842;10003842
+Barrenas (eléctricas);Level 4;10003365;10003365
+Cortabordes (no eléctricos);Level 4;10003389;10003389
+Horcas (jardín/césped);Level 4;10003391;10003391
+Carretillas de jardinería (no eléctricas);Level 4;10003404;10003404
+Carretillas de jardinería (eléctricas);Level 4;10003376;10003376
+Otras herramientas eléctricas para jardín;Level 4;10003408;10003408
+Paquetes variados de herramientas eléctricas para jardín;Level 4;10003407;10003407
+Tijeras de jardinería (no eléctricas);Level 4;10003379;10003379
+Tractores para jardín;Level 4;10004102;10004102
+Sopladores/aspiradores para jardín;Level 4;10003338;10003338
+Escarificadores;Level 4;10003386;10003386
+Cortabordes (eléctricos);Level 4;10003870;10003870
+Azadas;Level 4;10003388;10003388
+Aireadores para césped (no eléctricos);Level 4;10003393;10003393
+Soportes/bases de bolsas para césped;Level 4;10003868;10003868
+Bolsas para césped;Level 4;10003403;10003403
+Cortacéspedes (no eléctricos);Level 4;10003387;10003387
+Cortacéspedes (eléctricos);Level 4;10003353;10003353
+Rodillos para césped (no eléctricos);Level 4;10003394;10003394
+Rodillos para césped (eléctricos);Level 4;10003841;10003841
+Aireadores/escarificadores para césped (eléctricos);Level 4;10003347;10003347
+Esparcidores/recogehojas (no eléctricos);Level 4;10003377;10003377
+Accesorios de equipos para jardín/césped;Level 4;10003352;10003352
+Otros equipos para jardín/césped;Level 4;10003872;10003872
+Paquetes variados de equipos para jardín/césped;Level 4;10003873;10003873
+Otras herramientas manuales para jardín/césped;Level 4;10003865;10003865
+Accesorios/recambios de herramientas manuales para jardín/césped;Level 4;10003864;10003864
+Paquetes variados de herramientas manuales para jardín/césped;Level 4;10003866;10003866
+Accesorios/recambios de herramientas eléctricas para jardín/césped;Level 4;10003402;10003402
+Paletas para cesped/jardín;Level 4;10003392;10003392
+Máquinas rompedoras de troncos (eléctricas);Level 4;10003367;10003367
+Tijeras podadoras;Level 4;10003380;10003380
+Mazos;Level 4;10003385;10003385
+Picos;Level 4;10003863;10003863
+Barrenas para abrir agujeros para postes (no eléctricas);Level 4;10003844;10003844
+Barrenas para abrir agujeros para postes (eléctricas);Level 4;10003861;10003861
+Máquinas de lavado a presión (eléctricas);Level 4;10003375;10003375
+Podadoras (eléctricas);Level 4;10003843;10003843
+Tijeras de podar/podadoras;Level 4;10003381;10003381
+Rastrillos;Level 4;10003399;10003399
+Cultivos de semillas;Level 4;10003405;10003405
+Palas;Level 4;10003390;10003390
+Hoces/guadañas/mangos de guadaña;Level 4;10003384;10003384
+Tamizadores (jardín/césped);Level 4;10003396;10003396
+Quitanieves (eléctricos);Level 4;10003341;10003341
+Extractores/amoladoras de tocones (eléctricos);Level 4;10003368;10003368
+Apisonadoras (no eléctricas);Level 4;10003395;10003395
+Apisonadoras (eléctricas);Level 4;10003370;10003370
+Cuñas;Level 4;10003862;10003862
+Quemadores de maleza (eléctricos);Level 4;10003401;10003401
+Vallas para jardín/césped;Level 3;81010500;81010500
+Vallas eléctricas/vallas con radiofrecuencia;Level 4;10003283;10003283
+Mallas/redes para vallas;Level 4;10003281;10003281
+Tableros/paneles para vallas;Level 4;10003277;10003277
+Railes/postes para vallas;Level 4;10003278;10003278
+Abrazaderas/soportes para vallas;Level 4;10003279;10003279
+Tejado;Level 4;10007012;10007012
+Límites para jardín;Level 4;10003280;10003280
+Verjas (no eléctricas);Level 4;10003286;10003286
+Verjas (eléctricas);Level 4;10003287;10003287
+Accesorios de vallado – Césped/jardín;Level 4;10005678;10005678
+Otras vallas para jardín/césped;Level 4;10003289;10003289
+Paquetes variados de vallas para jardín/césped;Level 4;10003288;10003288
+Vallas con alambres normales/de espino;Level 4;10003285;10003285
+Enrejado;Level 4;10003284;10003284
+Accesorios Césped / Flores de jardín/Plantas Accesorios;Level 3;81011800;81011800
+Accesorios de florees/plantas (Césped/jardín);Level 4;10005366;10005366
+Soportes para plantas/estacas;Level 4;10005220;10005220
+Plantas – Variedad plantadora;Level 4;10003854;10003854
+Césped/muebles de jardín/mobiliario;Level 3;81010300;81010300
+Cubiertas/lonas (jardín/césped);Level 4;10003321;10003321
+Bancos de jardín;Level 4;10003248;10003248
+Sillas de jardín;Level 4;10003242;10003242
+Unidades de exposición de jardín;Level 4;10003316;10003316
+Reposapies de jardín;Level 4;10003246;10003246
+Asientos/taburetes para arrodillarse en el jardín;Level 4;10003406;10003406
+Tumbonas de jardín;Level 4;10003243;10003243
+Elementos de decoración/placas para jardín;Level 4;10005719;10005719
+Estanterías/encimeras de jardín;Level 4;10005367;10005367
+Cajas de almacenamiento para jardin;Level 4;10007014;10007014
+Columpios de jardín;Level 4;10003249;10003249
+Mesas de jardín;Level 4;10003245;10003245
+Hamacas;Level 4;10003250;10003250
+Otros equipos para jardín/césped;Level 4;10003253;10003253
+Mobiliario para jardín/césped – Accesorios/recambios;Level 4;10003251;10003251
+Paquetes variados de mobiliario para jardín/césped;Level 4;10003252;10003252
+Buzones de correo (Césped/jardín);Level 4;10005361;10005361
+Toldos;Level 4;10003417;10003417
+Soportes para plantas;Level 4;10003313;10003313
+Sombrillas/parasoles;Level 4;10005219;10005219
+Paraguas / Parasoles Stands / Bases;Level 4;10007036;10007036
+Iluminación para jardín/césped;Level 3;81011600;81011600
+Otra iluminación para jardín/césped;Level 4;10005218;10005218
+Accesorios/recambios de iluminación para jardín/césped;Level 4;10005217;10005217
+Faroles/antorchas/lámparas de exterior (no eléctricos);Level 4;10005216;10005216
+Faroles/antorchas/lámparas de exterior (eléctricos);Level 4;10005215;10005215
+Estructuras de exterior para jardín/césped;Level 3;81011000;81011000
+Enramadas/pérgolas;Level 4;10003414;10003414
+Campanas de cristal/propagadores/camas frías;Level 4;10003421;10003421
+Jardines de invierno;Level 4;10003415;10003415
+Cenadores;Level 4;10003412;10003412
+Estructuras de invernadero;Level 4;10003890;10003890
+Invernaderos (completos);Level 4;10003409;10003409
+Otras estructuras de exterior para jardín/césped;Level 4;10003418;10003418
+Accesorios/recambios de estructuras de exterior para jardín/césped;Level 4;10003419;10003419
+Paquetes variados de estructuras de exterior para jardín/césped;Level 4;10003891;10003891
+Pagodas (jardín/césped);Level 4;10003416;10003416
+Túneles de fauna/flora;Level 4;10003859;10003859
+Cobertizos;Level 4;10003411;10003411
+Hábitat de vida salvaje;Level 4;10006847;10006847
+Artículos de decoración acuáticos/estanques/césped/piscinas;Level 3;81010100;81010100
+Estructuras de agua para el jardín;Level 4;10003215;10003215
+Adornos para estructuras con agua/jardines;Level 4;10003315;10003315
+Otras estructuras con agua/tanques para jardín/césped/piscinas;Level 4;10003225;10003225
+Paquetes variados de estructuras con agua/tanques para jardín/césped/piscinas;Level 4;10003224;10003224
+Aireadores para estructuras con agua/tanques;Level 4;10003220;10003220
+Pulverizadores para estructuras con agua/tanques;Level 4;10003218;10003218
+Tubos conductores/carcasas para estructuras con agua/tanques/piscinas;Level 4;10003213;10003213
+Protectores / revestimientos de piscina;Level 4;10007037;10007037
+Suministros de piscinas;Level 4;10005253;10005253
+Tubos de drenajes para estructuras con agua/tanques/piscinas;Level 4;10003222;10003222
+Filtros para estructuras con agua/tanques/piscinas (elécricos);Level 4;10003216;10003216
+Cubiertas protectoras para estructuras con agua/tanques/piscinas;Level 4;10003223;10003223
+Esterilizadores/decantadores de UV para esctructuras con agua/tanques/piscinas;Level 4;10003219;10003219
+Complementos para tierra/tierra para jardín/césped;Level 3;81011500;81011500
+Césped artificial;Level 4;10007009;10007009
+Grava;Level 4;10006785;10006785
+Semillas de abono verde;Level 4;10006959;10006959
+Cubresuelos/decoración de jardines/mantillos;Level 4;10005729;10005729
+Otros complementos para tierra/tierra para jardín/césped;Level 4;10004110;10004110
+Mantillo;Level 4;10003235;10003235
+Tierra vegetal;Level 4;10003236;10003236
+Césped/Jardín Azulejos;Level 3;81011900;81011900
+Baldosas de concreto – Suelo Exterior;Level 4;10006787;10006787
+Baldosas con capas de grava u ornamentadas – Suelo exterior;Level 4;10006788;10006788
+Baldosas de piedras naturales – Suelo exterior;Level 4;10006789;10006789
+Otras baldosas – Suelo exterior;Level 4;10006790;10006790
+Baldosas de Madera – Suelo Exterior;Level 4;10006786;10006786
+Eliminación de residuos de jardín/césped;Level 3;81010700;81010700
+Cajones para vermicultura/abono;Level 4;10003308;10003308
+Incineradoras de jardín;Level 4;10003400;10003400
+Otros contenedores para residuos de jardín/césped;Level 4;10003311;10003311
+Piezas/Accesorios de repuesto de residuos de agua – Césped/jardín;Level 4;10005368;10005368
+Contenedores de exterior;Level 4;10003314;10003314
+Equipo de riego para jardín/césped;Level 3;81010400;81010400
+Bombas de agua para jardín;Level 4;10003857;10003857
+Artículos de jardín para almacenamiento de agua;Level 4;10003268;10003268
+Conectores para mangueras;Level 4;10003255;10003255
+Sistema para guardar mangueras – Móvil;Level 4;10003257;10003257
+Sistema para guardar mangueras – Fijo;Level 4;10003256;10003256
+Tubos;Level 4;10003254;10003254
+Sistemas de riego;Level 4;10003264;10003264
+Controladores/temporizadores de riego;Level 4;10003276;10003276
+Otros equipos de riego para jardín/césped;Level 4;10003274;10003274
+Sistemas de riego para jardín/césped – Recambios;Level 4;10003273;10003273
+Paquetes variados de sistemas de riego para jardín/césped;Level 4;10003272;10003272
+Aspersores/pulverizadores/atomizadores (manuales);Level 4;10003270;10003270
+Aspersores/pulverizadores/atomizadores (final de la manguera);Level 4;10003262;10003262
+Aspersores/pulverizadores/atomizadores (eléctricos);Level 4;10003271;10003271
+Regadera;Level 4;10003267;10003267
+Equipos de observación/monitorización meteorológica para jardín/césped;Level 3;81011100;81011100
+Otros equipos de observación/monitorización meteorológica para jardín/césped;Level 4;10003452;10003452
+Accesorios/recambios de equipos de observación/monitorización meteorológica para jardín/césped;Level 4;10003451;10003451
+Paquetes variados de equipos de observación/monitorización meteorológica para jardín/césped;Level 4;10003453;10003453
+Termómetros – jardín (no eléctricos);Level 4;10003440;10003440
+Termómetros – Jardín – Eléctricos;Level 4;10005319;10005319
+Mangas indicadoras del viento/veletas;Level 4;10003446;10003446
+Lubricantes;Level 1;88000000;88000000
+Lubricantes/compuestos protectores;Level 2;88010000;88010000
+Productos de lubricación;Level 3;88010100;88010100
+Grasas lubricantes;Level 4;10005268;10005268
+Aceites/líquidos lubricantes;Level 4;10005267;10005267
+Paquetes variados de productos lubricantes;Level 4;10005270;10005270
+Ceras lubricantes;Level 4;10005269;10005269
+Compuestos de protección;Level 3;88010200;88010200
+Anticorrosivos;Level 4;10005273;10005273
+Anticongelante/líquido refrigerante;Level 4;10005272;10005272
+Productos antisalpicaduras;Level 4;10005321;10005321
+Paquetes variados de compuestos protectores;Level 4;10005275;10005275
+Lubricantes/almacenamiento y transporte de compuestos protectores;Level 2;88020000;88020000
+Lubricantes/almacenamiento de compuestos protectores;Level 3;88020200;88020200
+Criba de drenaje;Level 4;10005277;10005277
+Contenedores/dispensadores de lubricantes (Vacíos);Level 4;10005276;10005276
+Paquetes variados de almacenamiento de compuestos de lubricantes/protectores;Level 4;10005280;10005280
+Aceite de lubricación/bombas de líquidos;Level 3;88020100;88020100
+Bombas de líquidos/aceites lubricantes (No eléctricas);Level 4;10005281;10005281
+Bombas de líquidos/aceites lubricantes (Eléctricas);Level 4;10005282;10005282
+Música;Level 1;61000000;61000000
+Instrumentos musicales/accesorios;Level 2;61010000;61010000
+Accesorios de instrumentos musicales;Level 3;61010400;61010400
+Accesorios para instrumentos musicales de viento de metal (no eléctricos);Level 4;10004116;10004116
+Accesorios para teclados/pianos (eléctricos);Level 4;10004117;10004117
+Metrónomos/sintonizadores (no eléctricos);Level 4;10004125;10004125
+Metrónomos/sintonizadores (eléctricos);Level 4;10004123;10004123
+Otros accesorios para instrumentos musicales;Level 4;10004128;10004128
+Paquetes variados de accesorios para instrumentos musicales;Level 4;10004127;10004127
+Fundas/bolsas/maletines de instrumentos musicales;Level 4;10004121;10004121
+Productos de limpieza para instrumentos musicales;Level 4;10004122;10004122
+Liras/atriles/soportes para instrumentos musicales;Level 4;10004124;10004124
+Accesorios para instrumentos musicales de percusión (no eléctricos);Level 4;10004118;10004118
+Accesorios para instrumentos musicales de cuerda (no eléctricos);Level 4;10004119;10004119
+Accesorios para instrumentos musicales de viento de madera (no eléctricos);Level 4;10004120;10004120
+Instrumentos musicales (no eléctricos);Level 3;61010200;61010200
+Instrumentos musicales de viento de metal (no eléctricos);Level 4;10000933;10000933
+Teclados/pianos (no eléctricos);Level 4;10000934;10000934
+Otros instrumentos musicales (no eléctricos);Level 4;10001375;10001375
+Instrumentos musicales de percusión (no eléctricos);Level 4;10000935;10000935
+Instrumentos musicales de cuerda (no eléctricos);Level 4;10000936;10000936
+Instrumentos musicales de viento de madera (no eléctricos);Level 4;10000937;10000937
+Instrumentos musicales (eléctricos);Level 3;61010300;61010300
+Instrumentos musicales de viento de metal (eléctricos);Level 4;10000938;10000938
+Teclados/pianos (eléctricos);Level 4;10000940;10000940
+Artículos de instrumentos musicales (eléctricos);Level 4;10000939;10000939
+Otros instrumentos musicales (eléctricos);Level 4;10001377;10001377
+Instrumentos musicales de percusión (eléctricos);Level 4;10000941;10000941
+Instrumentos musicales de cuerda (eléctricos);Level 4;10000942;10000942
+Instrumentos musicales de viento de madera (eléctricos);Level 4;10000943;10000943
+Accesorios personales;Level 1;64000000;64000000
+Accesorios personales;Level 2;64010000;64010000
+Joyas;Level 3;64010100;64010100
+Joyero/bolsas;Level 4;10001088;10001088
+Objetos para el transporte/accesorios personales;Level 3;64010200;64010200
+Mochilas/riñoneras;Level 4;10001094;10001094
+Maletas;Level 4;10001095;10001095
+Bolsos de mano/bolsos para colgar al hombro;Level 4;10001096;10001096
+Llaveros;Level 4;10005756;10005756
+Accesorios de paraguas/equipaje/equipaje de mano;Level 4;10001097;10001097
+Equipaje/maletas/portatrajes;Level 4;10001099;10001099
+Otros artículos de paraguas/equipaje/equipaje de mano;Level 4;10001390;10001390
+Paquetes variados de paraguas/equipaje/equipaje de mano;Level 4;10001391;10001391
+Bolsas personales (desechables);Level 4;10005817;10005817
+Cajas / Bolsas / Contenedores Portátiles para Alimentos (No eléctrico);Level 4;10007238;10007238
+Mochilas/mochilas con estructura metálica/bolsas de viaje;Level 4;10001100;10001100
+Carritos de la compra;Level 4;10001101;10001101
+Bolsas de aseo/neceseres;Level 4;10005200;10005200
+Paraguas – Personal;Level 4;10001102;10001102
+Carpetas para documentos de viaje/monederos/billeteros;Level 4;10001103;10001103
+Alimentación/cuidados de animales domésticos;Level 1;10000000;10000000
+Cuidado de animales domésticos;Level 2;10100000;10100000
+Accesorios para animales domésticos;Level 3;10101700;10101700
+Artículos para acuarios/acesorios (no eléctricos);Level 4;10000516;10000516
+Artículos para acuarios/acesorios (eléctricos);Level 4;10000656;10000656
+Otros accesorios para animales domésticos;Level 4;10000736;10000736
+Paquetes variados de accesorios para animales domésticos;Level 4;10000659;10000659
+Atuendos para animales domésticos;Level 4;10000643;10000643
+Dispensadores de bebidas/alimentos para animales domésticos (no eléctricos);Level 4;10000660;10000660
+Dispensadores de bebidas/alimentos para animales domésticos (no eléctricos);Level 4;10000642;10000642
+Alojamiento/camas para animales domésticos (desechables);Level 4;10000572;10000572
+Alojamiento/camas para animales domésticos (no desechables);Level 4;10000662;10000662
+Juguetes para animales domésticos (no eléctricos);Level 4;10000641;10000641
+Juguetes para animales domésticos (eléctricos);Level 4;10000661;10000661
+Adiestramiento/dispositivos de control/accesorios para animales domésticos (no eléctricos);Level 4;10000640;10000640
+Adiestramiento/dispositivos de control/accesorios para animales domésticos (eléctricos);Level 4;10000652;10000652
+Complementos / accesorios para terrario (no eléctricos);Level 4;10006843;10006843
+Complementos / accesorios para terrario (eléctricos);Level 4;10006844;10006844
+Paquetes variados de cuidados para animales domésticos;Level 3;10101800;10101800
+Complementos nutricionales para animales domésticos;Level 3;10101600;10101600
+Complementos nutricionales para animales domésticos;Level 4;10000513;10000513
+Otros complementos nutricionales/productos farmacéuticos para animales domésticos;Level 4;10000737;10000737
+Paquetes variados de complementos nutricionales/productos farmacéuticos para animales domésticos;Level 4;10000658;10000658
+Higiene/bienestar de animales domésticos;Level 3;10101500;10101500
+Artículos para el aseo de animales domésticos;Level 4;10000508;10000508
+Protección sanitaria/higiene de animales domésticos;Level 4;10000510;10000510
+Otros artículos de higiene/bienestar de animales domésticos;Level 4;10000738;10000738
+Paquetes variados de higiene/bienestar de animales domésticos;Level 4;10000657;10000657
+Paquetes variados de alimentación/cuidado de animales domésticos;Level 2;10120000;10120000
+Paquetes variados de alimentos/productos para el cuidado de animales domésticos;Level 3;10120100;10120100
+Bebidas/alimentación de animales domésticos;Level 2;10110000;10110000
+Bebidas para animales domésticos;Level 3;10111500;10111500
+Bebidas para animales domésticos (no necesitan refrigeración);Level 4;10000524;10000524
+Alimentos para animales domésticos;Level 3;10111600;10111600
+Alimentos para animales domésticos (perecederos);Level 4;10000521;10000521
+Alimentos para animales domésticos (no necesitan refrigeración);Level 4;10000522;10000522
+Paquetes variados de bebidas/alimentos para animales domésticos;Level 3;10111700;10111700
+Fontanería/calefacción/ventilación/aire acondicionado;Level 1;79000000;79000000
+Fontanería/calefacción/ventilación/aire acondicionado;Level 2;79010000;79010000
+Equipos de aire acondicionado/refrigeración/ventilación;Level 3;79010600;79010600
+Aparatos de aires acondicionado/refrigeración – Fijos;Level 4;10003982;10003982
+Aparatos de aire acondicionado – Multifunción – Fijos;Level 4;10004063;10004063
+Piezas/accesorios de repuesto para aparatos de aires acondicionado/refrigeración/ventilación;Level 4;10003984;10003984
+Paquetes variados de aparatos de aires acondicionado/refrigeración/ventilación;Level 4;10003985;10003985
+Deshumidificadores de aire – Fijos;Level 4;10003990;10003990
+Humidificadores de aire – Fijos;Level 4;10003993;10003993
+Monitores de aire;Level 4;10006274;10006274
+Purificador de aire/ionizadores – Fijos;Level 4;10003988;10003988
+Propulsor de conductos;Level 4;10003996;10003996
+Conductos;Level 4;10003997;10003997
+Ventiladores – Techo;Level 4;10003995;10003995
+Ventilador – Extractor;Level 4;10003998;10003998
+Ventiladores – Ventana/escape;Level 4;10004064;10004064
+Dispositivos para prevenir el contraflujo;Level 3;79011000;79011000
+Piezas para prevenir el contraflujo/Accesorios;Level 4;10005865;10005865
+Dispositivos para prevenir el contraflujo;Level 4;10005866;10005866
+Kit para controlar el contraflujo;Level 4;10005863;10005863
+Igualadores de presión;Level 4;10005864;10005864
+Accesorios de baño;Level 3;79010300;79010300
+Elevadores de baño;Level 4;10002624;10002624
+Asientos para bañeras;Level 4;10004027;10004027
+Carritos de bañera/ducha – Fijos;Level 4;10004032;10004032
+Paquetes variados de accesorios de baño;Level 4;10002627;10002627
+Asideros de agarre;Level 4;10004028;10004028
+Secamanos;Level 4;10006232;10006232
+Tiras de seguridad para duchas;Level 4;10004026;10004026
+Alarma de temperatura para duchas;Level 4;10002623;10002623
+Dispensadores de jabón/crema;Level 4;10004034;10004034
+Asientos/tapas de váter;Level 4;10004062;10004062
+Toalleros en barra/aros – Fijos;Level 4;10004033;10004033
+Equipos de calefacción;Level 3;79010500;79010500
+Piezas de recambio/accesorios del sistema de calefacción central;Level 4;10002660;10002660
+Almacenamiento de combustible para chimenea;Level 4;10006402;10006402
+Rejillas para chimenea;Level 4;10006400;10006400
+Pantallas para chimenea;Level 4;10006401;10006401
+Herramientas para chimenea;Level 4;10006399;10006399
+Tratamientos de chimenea / productos de limpieza;Level 4;10007004;10007004
+Chimeneas/alrededores del hogar/repisa;Level 4;10005478;10005478
+Cable de calefacción / cinta de calor / cordón de calefacción;Level 4;10007003;10007003
+Paquetes variados de sistemas de calefacción;Level 4;10002662;10002662
+Controles del sistema de calefacción;Level 4;10002653;10002653
+Calderas/termos/calentadores de depósitos de agua para viviendas;Level 4;10002658;10002658
+Piezas de repuesto / Accesorios de Calderas domésticas / Hornos / Calentadores de agua de tanque;Level 4;10007005;10007005
+Calentadores de inmersión;Level 4;10002657;10002657
+Radiadores;Level 4;10002654;10002654
+Calefactores de habitación;Level 4;10005717;10005717
+Centrales solares;Level 4;10005875;10005875
+Calentadores de agua sin depósito;Level 4;10005479;10005479
+Termostatos;Level 4;10004002;10004002
+Sistemas de calefacción bajo suelo;Level 4;10004003;10004003
+Paquetes variados de fontanería/calefacción/refrigeración/aire acondicionado;Level 3;79010700;79010700
+Paquetes variados de fontanería/calefacción/refrigeración/aire acondicionado;Level 4;10003994;10003994
+Productos de higiene;Level 3;79010100;79010100
+Pedestales para lavabo/lavamanos;Level 4;10002609;10002609
+Lavabos/lavamanos;Level 4;10002592;10002592
+Accesorios para lavamanos;Level 4;10006962;10006962
+Suites para baños;Level 4;10002610;10002610
+Mampara para bañeras/duchas;Level 4;10002600;10002600
+Paneles de mampara para bañeras/duchas;Level 4;10002601;10002601
+Módulos de bañera/ducha;Level 4;10002590;10002590
+Módulos de bañera/ducha – Chorro;Level 4;10004029;10004029
+Bañeras – A chorro (Baños calientes/Spas);Level 4;10002596;10002596
+Bañeras – Remojo;Level 4;10002595;10002595
+Bidés;Level 4;10002585;10002585
+Grifos/llaves;Level 4;10002602;10002602
+Productos de higiene – Accesorios/recambios;Level 4;10002612;10002612
+Paquetes variados de productos de higiene;Level 4;10002614;10002614
+Reservado/suites para duchas;Level 4;10002597;10002597
+Alcachofas de ducha;Level 4;10002608;10002608
+Platos/suelos de ducha;Level 4;10002599;10002599
+Spas de ducha;Level 4;10004044;10004044
+Combinaciones de lavabo/base;Level 4;10002593;10002593
+Accesorios de baño;Level 4;10006961;10006961
+Marcos de inodoro / bidet;Level 4;10007015;10007015
+Kits de inodoro / bidet;Level 4;10007016;10007016
+Repuestos / Accesorios de Inodoro / Bidet;Level 4;10007017;10007017
+Tapas de inodoro / bidet;Level 4;10007018;10007018
+Cisterna para váter/urinario;Level 4;10002589;10002589
+Váteres;Level 4;10002586;10002586
+Particiones de urinarios;Level 4;10002588;10002588
+Urinarios;Level 4;10002587;10002587
+Equipos de tratamiento de desechos/aguas residuales;Level 3;79010900;79010900
+Piletas;Level 4;10002611;10002611
+Desatascador;Level 4;10003565;10003565
+Tanques sépticos;Level 4;10004049;10004049
+Trampa de residuos;Level 4;10005480;10005480
+Almacenamiento/tratamiento de agua;Level 3;79010400;79010400
+Desoxidador (hágalo usted mismo);Level 4;10004006;10004006
+Inhibidor de óxido;Level 4;10002649;10002649
+Máquinas/sistemas de filtrado de agua;Level 4;10004016;10004016
+Medidores de agua;Level 4;10004012;10004012
+Descalcificador de agua (hágalo usted mismo);Level 4;10004008;10004008
+Piezas de repuesto / accesorios de ablandadores de agua;Level 4;10007038;10007038
+Almacenamiento/tratamiento de agua – Accesorios/piezas de recambio;Level 4;10002650;10002650
+Paquetes variados de almacenamiento/tratamiento de agua;Level 4;10002652;10002652
+Cisternas de agua;Level 4;10002646;10002646
+Tratamientos de agua (hágalo usted mismo);Level 4;10002648;10002648
+Suministro de agua/gas;Level 3;79010800;79010800
+Cañerías/Tuberías;Level 4;10004054;10004054
+Cañerías – Accesorios/Piezas de repuesto;Level 4;10004057;10004057
+Conectores – Agua;Level 4;10004022;10004022
+Bridas de tubería;Level 4;10005867;10005867
+Paquetes variados de suministro de agua;Level 4;10004058;10004058
+Válvulas/acoplamientos – Agua;Level 4;10004024;10004024
+Bombas (Suministro de agua);Level 4;10004055;10004055
+Protección/seguridad – Hágalo usted mismo;Level 1;85000000;85000000
+Protección/seguridad – Hágalo usted mismo;Level 2;85010000;85010000
+Artículos colectivos de protección – Hágalo usted mismo;Level 3;85010200;85010200
+Absorbentes (hágalo usted mismo);Level 4;10005626;10005626
+Productos antifatiga (hágalo usted mismo);Level 4;10005627;10005627
+Productos antideslizantes (hágalo usted mismo);Level 4;10005628;10005628
+Productos colectivos de protección – Otros;Level 4;10005646;10005646
+Piezas/Accesorios de repuesto de productos colectivos de protección;Level 4;10005631;10005631
+Red/cortinas/barreras de seguridad;Level 4;10005630;10005630
+Artículos de seguridad personal – Hágalo usted mismo;Level 3;85010100;85010100
+Equipo de protección respiratoria ambiental (no eléctrico);Level 4;10005106;10005106
+Equipo de protección respiratoria ambiental (eléctrico);Level 4;10005105;10005105
+Caretas de protección/rejillas de protección;Level 4;10005112;10005112
+Gorras/cascos;Level 4;10005111;10005111
+Equipo de protección auditiva (no eléctrico);Level 4;10005108;10005108
+Equipo de protección auditiva (eléctrico);Level 4;10005107;10005107
+Cascos (no eléctricos);Level 4;10005110;10005110
+Cascos (eléctricos);Level 4;10005109;10005109
+Otros artículos de seguridad personal;Level 4;10005116;10005116
+Accesorios/recambios de artículos de seguridad personal;Level 4;10005115;10005115
+Paquetes variados de artículos de seguridad personal;Level 4;10005117;10005117
+Gafas protectoras/gafas de seguridad;Level 4;10003586;10003586
+Protección/seguridad/vigilancia;Level 1;91000000;91000000
+Seguridad/vigilancia/protección para bebé;Level 2;91050000;91050000
+Seguridad/vigilancia/protección para bebé;Level 3;91050100;91050100
+Arneses/correas;Level 4;10000796;10000796
+Parques de juego para bebés;Level 4;10000788;10000788
+Control de la seguridad del bebé (no eléctrico);Level 4;10000634;10000634
+Control de la seguridad del bebé (eléctrico);Level 4;10000791;10000791
+Protección segura del bebé (no eléctrico);Level 4;10000503;10000503
+Seguridad/vigilancia/protección para bebé – otro;Level 4;10006820;10006820
+Seguridad/vigilancia/protección para bebé – partes de reemplazo;Level 4;10006819;10006819
+Paquetes con variedad de productos para seguridad/vigilancia/protección del bebé;Level 4;10006818;10006818
+Seguridad/protección medioambiental;Level 2;91020000;91020000
+Fuego ecológico/productos de seguridad química;Level 3;91020100;91020100
+Paquetes variados de productos de seguridad química/fuego ecológico/;Level 4;10005387;10005387
+Rampas/escaleras de escape para incendios;Level 4;10005384;10005384
+Retardantes/supresores de fuego;Level 4;10005383;10005383
+Alarmas de incendio público;Level 4;10005385;10005385
+Campanas extractoras de humo/Respiradores;Level 4;10005386;10005386
+Productos de seguridad para inclemencias meteorológicas/desastres naturales;Level 3;91020200;91020200
+Bocinas de aire/niebla;Level 4;10005388;10005388
+Cintas para barreras de seguridad;Level 4;10005725;10005725
+Cinturón salvavidas/Chaleco salvavidas;Level 4;10005389;10005389
+Embarcaciones salvavidas/flotadores salvavidas/almohadas salvavidas;Level 4;10005390;10005390
+Detectores de rayos (eléctricos);Level 4;10003427;10003427
+Pararrayos/Accesorios;Level 4;10005391;10005391
+Sacos de arena/protectores de suelo;Level 4;10005392;10005392
+Paquetes variados de productos de seguridad ambientales/desastres naturales;Level 4;10005395;10005395
+Seguridad/protección/vigilancia de hogares/negocios;Level 2;91030000;91030000
+Sistemas de alarma;Level 3;91030100;91030100
+Piezas/Accesorios de repuesto de sistemas de alarma;Level 4;10005473;10005473
+Alarmas antirrobo;Level 4;10005396;10005396
+Detectores de gas/humo;Level 4;10005397;10005397
+Control de la muchedumbre;Level 3;91030700;91030700
+Postes separadores;Level 4;10006231;10006231
+Productos de seguridad para puertas/ventanas/perímetros;Level 3;91030200;91030200
+Sistemas de seguridad de control de acceso;Level 4;10005398;10005398
+Cadenas para puertas;Level 4;10005401;10005401
+Intercomunicadores de entrada para puertas/accesos;Level 4;10005399;10005399
+Visores para puertas/accesos;Level 4;10005402;10005402
+Pestillos/candados/cerrojos para puertas/accesos/ventanas;Level 4;10005400;10005400
+Paquetes variados de productos de seguridad perimetral/puertas/ventanas;Level 4;10005406;10005406
+Puertas/accesos de seguridad;Level 4;10005403;10005403
+Rejas/paneles/persianas antirrobo para ventanas;Level 4;10005405;10005405
+Extintores para viviendas/negocios;Level 3;91030300;91030300
+Mantas de incendio;Level 4;10005407;10005407
+Extintores de incendio – Presurizados;Level 4;10005408;10005408
+Mangueras de incendio;Level 4;10005409;10005409
+Paquetes variados de extintores para incendio para viviendas/negocios;Level 4;10005410;10005410
+Paquetes variados de seguridad/vigilancia para viviendas/negocios;Level 3;91030600;91030600
+Equipos de vigilancia para viviendas/negocios;Level 3;91030400;91030400
+Equipo de instalación/detección de micrófonos ocultos;Level 4;10005411;10005411
+Espejos exteriores convexos;Level 4;10005709;10005709
+Paquetes variados de equipos de vigilancia de viviendas/negocios;Level 4;10005415;10005415
+Sensores de luz/movimiento/sonido;Level 4;10005412;10005412
+Luces de seguridad;Level 4;10005413;10005413
+Cámaras de vigilancia/grabadores de vídeo;Level 4;10005414;10005414
+Cajas de seguridad;Level 3;91030500;91030500
+Cajas de seguridad;Level 4;10005416;10005416
+Seguridad/protección personal;Level 2;91010000;91010000
+Dispositivos de seguridad personal;Level 3;91010100;91010100
+Mantas de supervivencia de emergencia/sacos de dormir;Level 4;10005472;10005472
+Silbatos de emergencia;Level 4;10005374;10005374
+Alarmas de llavero;Level 4;10005375;10005375
+Alarmas de equipaje personal;Level 4;10005376;10005376
+Paquetes variados de dispositivos de seguridad personal;Level 4;10005382;10005382
+Destellos/señales de seguridad personal;Level 4;10005377;10005377
+Luces de seguridad personal;Level 4;10005378;10005378
+Vehículos a control remoto;Level 4;10006850;10006850
+Partes de reemplazo y accesorios para vehículos a control remoto;Level 4;10006851;10006851
+Cámaras web inalámbricas portátiles (Vigilancia inversa);Level 4;10005381;10005381
+Paquetes variados de Seguridad/protección/vigilancia;Level 2;91040000;91040000
+Paquetes variados de Seguridad/protección/vigilancia;Level 3;91040100;91040100
+Equipamientos deportivos;Level 1;71000000;71000000
+Ejercitadores para bebé / transportación;Level 2;71020000;71020000
+Ejercitadores para bebé / transportación;Level 3;71020100;71020100
+Portabebés;Level 4;10000502;10000502
+Cunas/moises/canastos portátiles;Level 4;10000795;10000795
+Moisés/cunas – De viaje;Level 4;10000794;10000794
+Saltador de puerta;Level 4;10000802;10000802
+Ejercitadores para bebé / transportación – partes de reemplazo;Level 4;10006813;10006813
+Otros artículos de ejercicios para el bebé;Level 4;10000805;10000805
+Paquete con variedad de ejercitadores para bebé / transportación;Level 4;10006812;10006812
+Columpios;Level 4;10000803;10000803
+Andadores;Level 4;10000804;10000804
+Accesorios para carritos/sillitas/cochecitos de paseo;Level 4;10000797;10000797
+Carritos/sillitas/cochecitos de paseo;Level 4;10000793;10000793
+Equipamientos deportivos;Level 2;71010000;71010000
+Equipo para deportes de combate;Level 3;71010700;71010700
+Otros equipamientos para deportes de combate;Level 4;10004096;10004096
+Paquetes variados de equipamiento para deportes combate;Level 4;10001809;10001809
+Equipamiento para esgrima (no eléctrico);Level 4;10004112;10004112
+Equipamiento para esgrima (eléctrico);Level 4;10004098;10004098
+Equipamiento para deportes de artes marciales;Level 4;10001807;10001807
+Artículos de entrenamiento para deportes de combate;Level 4;10001806;10001806
+Equipamiento para deportes de ciclismo;Level 3;71010800;71010800
+Dispositivo antirrobo para bicicletas;Level 4;10006392;10006392
+Otros equipamientos para ciclismo;Level 4;10001813;10001813
+Paquetes variados de equipamiento para ciclismo;Level 4;10001812;10001812
+Bicicletas – Recambios;Level 4;10001811;10001811
+Bicicletas (no motorizadas);Level 4;10001810;10001810
+Bicicletas (motorizadas);Level 4;10005815;10005815
+Patinete (no accionado mecánicamente);Level 4;10006391;10006391
+Equipo para pesca con caña/pesca;Level 3;71012100;71012100
+Detectores de peces;Level 4;10005870;10005870
+Moscas/cebos de pesca;Level 4;10001915;10001915
+Flotadores de pesca;Level 4;10001917;10001917
+Anzuelos;Level 4;10001916;10001916
+Sedales;Level 4;10001920;10001920
+Redes de pesca;Level 4;10001918;10001918
+Carretes de pesca;Level 4;10001914;10001914
+Accesorios para cañas de pesca;Level 4;10001921;10001921
+Varillas/cañas de pesca;Level 4;10001913;10001913
+Otros equipamientos para deportes de pesca;Level 4;10001923;10001923
+Paquetes variados de equipamientos para deportes de pesca;Level 4;10001922;10001922
+Equipo para gimnasia;Level 3;71011000;71011000
+Aparatos de gimnasia;Level 4;10001827;10001827
+Otros equipamientos para deportes gimnásticos;Level 4;10001830;10001830
+Paquetes variados de equipamiento para deportes gimnásticos;Level 4;10001829;10001829
+Equipamiento para gimnasia rítmica;Level 4;10001826;10001826
+Artículos de caza;Level 3;71011700;71011700
+Reclamos/señuelos/cebos para animales;Level 4;10001880;10001880
+Equipamiento de ropa para campos de caza;Level 4;10001883;10001883
+Otros artículos para deportes de caza;Level 4;10001886;10001886
+Paquetes variados de artículos para deportes de caza;Level 4;10001885;10001885
+Equipo para paracaidismo/parapente;Level 3;71011100;71011100
+Cometas;Level 4;10001831;10001831
+Buggies/tablas para paracaídas/cometas (no eléctricos);Level 4;10001834;10001834
+Equipamiento para deportes con paracaídas/cometas – Accesorios/recambios;Level 4;10001835;10001835
+Otros equipamientos para deportes con paracaídas/cometas;Level 4;10001838;10001838
+Paquetes variados de equipamiento para deportes con paracaídas/cometas;Level 4;10001837;10001837
+Paracaídas;Level 4;10001832;10001832
+Equipo para mantenimiento físico;Level 3;71010900;71010900
+Máquinas de ejercicios (no eléctricas);Level 4;10001815;10001815
+Máquinas de ejercicios (eléctricas);Level 4;10001814;10001814
+Mancuernas/pesas libres;Level 4;10001816;10001816
+Accesorios de gimnasio;Level 4;10001819;10001819
+Equipamiento para mantenimiento físico personal – Accesorios/recambios;Level 4;10001823;10001823
+Otros equipamientos para deportes de mantenimiento físico personal;Level 4;10001825;10001825
+Paquetes variados de equipamientos para deportes de mantenimiento físico personal;Level 4;10001824;10001824
+Aparatos de control de ejercicios;Level 4;10001822;10001822
+Equipo para deportes de raqueta;Level 3;71010300;71010300
+Deportes de raqueta – Accesorios/recambios;Level 4;10001778;10001778
+Otros equipamientos para deportes de raqueta;Level 4;10004097;10004097
+Paquetes variados de equipamiento para deportes de raqueta;Level 4;10001779;10001779
+Raquetas;Level 4;10001776;10001776
+Equipamiento para deportes de patinetes/monopatines;Level 3;71011200;71011200
+Otros equipamientos para deportes con patinetes/monopatines;Level 4;10001843;10001843
+Paquetes variados de equipamiento para deportes con patinetes/monopatines;Level 4;10001842;10001842
+Escúters (motorizados);Level 4;10005814;10005814
+Equipamiento para deportes con monopatines – Accesorios/recambios;Level 4;10001841;10001841
+Monopatines (no motorizados);Level 4;10001840;10001840
+Equipo para deportes de hielo/nieve;Level 3;71010500;71010500
+Tablas de Snowboard/tablas de esquí/esquíes;Level 4;10001792;10001792
+Trineos;Level 4;10001790;10001790
+Equipamiento para deportes de hielo/nieve – Accesorios/recambios;Level 4;10001795;10001795
+Otros equipamientos para deportes de hielo/nieve;Level 4;10001797;10001797
+Paquetes variados de equipamiento para deportes de hielo/nieve;Level 4;10001796;10001796
+Equipo para armas de fuego deportivas;Level 3;71011600;71011600
+Escopetas de aire comprimido;Level 4;10001873;10001873
+Armas de fuego deportivas – Accesorios/recambios;Level 4;10001877;10001877
+Otros equipamientos de armas de fuego;Level 4;10001879;10001879
+Paquetes variados de equipamiento para armas de fuego deportivas;Level 4;10001878;10001878
+Pelotas/discos/volantes/frisbees/bumeranes;Level 3;71010200;71010200
+Bumerangs;Level 4;10001772;10001772
+Frisbees;Level 4;10001771;10001771
+Disco de hockey;Level 4;10001769;10001769
+Plumas;Level 4;10001770;10001770
+Pelotas para deportes;Level 4;10001768;10001768
+Otros bumerangs/frisbees/plumas/discos de hockey/pelotas para deportes;Level 4;10001775;10001775
+Paquetes variados de bumerangs/frisbees/plumas/discos de hockey/pelotas para deportes;Level 4;10001774;10001774
+Bates/palos de hockey/palos de golf/tacos/mazos;Level 3;71010400;71010400
+Palos de golf/palos de hockey/bates y paletas;Level 4;10001780;10001780
+Otros palos de golf/palos de hockey/bates y paletas;Level 4;10001787;10001787
+Accesorios para equipos deportivos;Level 3;71011900;71011900
+Bombas (eléctricas);Level 4;10005703;10005703
+Bombas (no eléctricas);Level 4;10005702;10005702
+Telémetros;Level 4;10005812;10005812
+Otros accesorios para equipamientos deportivos;Level 4;10001903;10001903
+Paquetes variados de accesorios para equipamientos deportivos;Level 4;10001902;10001902
+Fundas/cajas/bolsas para equipamientos deportivos;Level 4;10001892;10001892
+Contenedores/estantes para almacenar equipamientos deportivos;Level 4;10001898;10001898
+Accesorios para redes/porterías deportivas;Level 4;10001894;10001894
+Cerramientos/redes/porterías deportivas;Level 4;10001893;10001893
+Equipos de marcajes deportivos;Level 4;10001896;10001896
+Alfombras/tapetes deportivos;Level 4;10001900;10001900
+Marcadores deportivos (no eléctricos);Level 4;10001899;10001899
+Marcadores deportivos (eléctricos);Level 4;10004111;10004111
+Bolos de madera/bolos de metal/palos deportivos;Level 4;10001897;10001897
+Paquetes variados de equipamientos deportivos;Level 3;71012300;71012300
+Paquetes variados de equipamientos deportivos;Level 4;10003688;10003688
+Equipo de protección personal deportivo;Level 3;71012000;71012000
+Otros equipamientos de protección deportiva personal;Level 4;10001912;10001912
+Paquetes variados de equipamientos de protección deportiva personal;Level 4;10001911;10001911
+Defensas/almohadillas de protección deportiva para el cuerpo;Level 4;10001907;10001907
+Máscaras para los ojos/gafas de protección deportiva;Level 4;10001905;10001905
+Defensas de protección deportiva para la boca;Level 4;10001904;10001904
+Cinturones de sujeción de protección deportiva;Level 4;10001909;10001909
+Mesas de deportes;Level 3;71011400;71011400
+Mesas de deportes;Level 4;10001855;10001855
+Otras mesas de deportes;Level 4;10001859;10001859
+Equipo para buceo/surf/natación;Level 3;71011300;71011300
+Esquíes/tablas (deportes acuáticos);Level 4;10001844;10001844
+Esquíes/tablas (deportes acuáticos) – Accesorios/recambios;Level 4;10001845;10001845
+Equipamiento para buceo;Level 4;10001848;10001848
+Artículos de entrenamiento para natación;Level 4;10001847;10001847
+Equipamientos para deportes de buceo/surf/natación – Accesorios/recambios;Level 4;10001852;10001852
+Otros equipamientos para deportes de buceo/surf/natación;Level 4;10001854;10001854
+Paquetes variados de equipamientos para deportes de buceo/surf/natación;Level 4;10001853;10001853
+Equipo para deportes de tiro;Level 3;71011500;71011500
+Flechas;Level 4;10001863;10001863
+Arcos;Level 4;10001862;10001862
+Dardos;Level 4;10001860;10001860
+Equipamiento para deportes de puntería – Accesorios/recambios;Level 4;10001867;10001867
+Otros equipamientos para deportes de puntería;Level 4;10001869;10001869
+Paquetes variados de equipamiento para deportes de puntería;Level 4;10001868;10001868
+Dianas (no eléctricas);Level 4;10001866;10001866
+Dianas (eléctricas);Level 4;10001865;10001865
+Equipo para deportes al aire libre/atletismo;Level 3;71010100;71010100
+Equipamiento para deportes de salto;Level 4;10001764;10001764
+Equipamiento para deportes de carrera;Level 4;10001763;10001763
+Equipamiento para deportes de tiro;Level 4;10001762;10001762
+Otros equipamientos para deportes de atletismo/en cancha;Level 4;10001767;10001767
+Paquetes variados de equipamientos para deportes de atletismo/en cancha;Level 4;10001766;10001766
+Equipamiento para deportes de montañismo/senderismo;Level 3;71010600;71010600
+Equipamiento para deportes de montañismo/senderismo;Level 4;10001798;10001798
+Otros equipamientos para deportes de montañismo/senderismo;Level 4;10001805;10001805
+Equipamiento para deportes acuáticos (no motorizados);Level 3;71011800;71011800
+Vehículos acuáticos (no motorizados);Level 4;10001887;10001887
+Vehículos acuáticos – Accesorios/piezas de repuesto (no motorizados);Level 4;10001889;10001889
+Otros equipamientos para deportes acuáticos (no motorizados);Level 4;10001891;10001891
+Paquetes variados de equipamiento para deportes acuáticos (no motorizados);Level 4;10001890;10001890
+Artículos de papelería/maquinaria de oficina/artículos para celebraciones;Level 1;62000000;62000000
+Tarjetas de felicitación/papel de regalo/artículos para celebraciones;Level 2;62050000;62050000
+Accesorios/papel de regalo;Level 3;62050100;62050100
+Papel de regalo;Level 4;10001201;10001201
+Accesorios para papel de regalo;Level 4;10001203;10001203
+Otros accesorios/papel de regalo;Level 4;10001202;10001202
+Paquetes variados de accesorios/papel de regalo;Level 4;10001204;10001204
+Paquetes variados de artículos para celebraciones/papel de regalo/tarjetas de felicitación;Level 3;62050200;62050200
+Tarjetas de felicitación/invitaciones;Level 3;62050300;62050300
+Tarjetas de regalo electrónicas;Level 4;10005813;10005813
+Soportes para mostrar tarjetas de felicitación;Level 4;10001206;10001206
+Tarjetas de felicitación/invitaciones;Level 4;10001209;10001209
+Otras tarjetas de felicitación/invitaciones;Level 4;10001207;10001207
+Paquetes variados de tarjetas de felicitación/invitaciones;Level 4;10001208;10001208
+Tarjetas/blocs de invitaciones;Level 4;10001212;10001212
+Tarjetas postales;Level 4;10001213;10001213
+Artículos para celebraciones;Level 3;62050400;62050400
+Globos;Level 4;10001214;10001214
+Confetis;Level 4;10001215;10001215
+Fuegos artificiales;Level 4;10001216;10001216
+Otros artículos para celebraciones;Level 4;10001217;10001217
+Paquetes variados de artículos para celebraciones;Level 4;10001218;10001218
+Galletas saladas para fiestas;Level 4;10001220;10001220
+Sombreros para fiestas;Level 4;10001221;10001221
+Matasuegras/bocinas;Level 4;10005436;10005436
+Máquina de palomitas para fiestas;Level 4;10001222;10001222
+Piñatas;Level 4;10001223;10001223
+Serpentinas/tiras de figuras de papel;Level 4;10001224;10001224
+Artículos de papelería/maquinaria de oficina;Level 2;62060000;62060000
+Maquinaria de oficina;Level 3;62060300;62060300
+Calculadoras/conversores de divisas (eléctricos);Level 4;10001242;10001242
+Caja registradora (eléctrica);Level 4;10001243;10001243
+Consumibles de máquinas para plastificar;Level 4;10001246;10001246
+Máquinas para plastificar (eléctricas);Level 4;10001247;10001247
+Dispositivos multifuncionales;Level 4;10005229;10005229
+Otras maquinarias de oficina;Level 4;10001248;10001248
+Paquetes variados de maquinaria de oficina;Level 4;10001250;10001250
+Consumibles para fotocopiadoras;Level 4;10001251;10001251
+Fotocopiadoras;Level 4;10001252;10001252
+Consumibles de máquinas de escribir;Level 4;10005676;10005676
+Máquinas de escribir (no eléctricas);Level 4;10001253;10001253
+Máquinas de escribir (eléctricas);Level 4;10001254;10001254
+Artículos de papelería para organización;Level 3;62060400;62060400
+Calendarios/agendas;Level 4;10001255;10001255
+Bloc/libretas de agendas;Level 4;10001256;10001256
+Artículos de papelería para la planificación y organización – Accesorios/recambios;Level 4;10001258;10001258
+Otros artículos de papelería para la planificación y organización;Level 4;10001257;10001257
+Paquetes variados de artículos de papelería para la planificación y organización;Level 4;10001259;10001259
+Diarios/organizadores personales (no eléctricos);Level 4;10001260;10001260
+Notas adhesivas/papeleras;Level 4;10005118;10005118
+Accesorios/artículos/equipos de embalaje/postales;Level 3;62060500;62060500
+Máquinas de franqueo;Level 4;10001262;10001262
+Artículos para sellar/insertar/doblar cartas;Level 4;10001263;10001263
+Abridores de cartas (no eléctricos);Level 4;10001264;10001264
+Abridores de cartas (eléctricos);Level 4;10001265;10001265
+Estampillas;Level 4;10006849;10006849
+Máquinas para etiquetado postal;Level 4;10001245;10001245
+Envoltorio/embalaje postal;Level 4;10001273;10001273
+Cajas/tubos postales;Level 4;10001266;10001266
+Báscula postal (no eléctrica);Level 4;10001267;10001267
+Báscula postal (eléctrica);Level 4;10001268;10001268
+Accesorios de embalaje/postales;Level 4;10001269;10001269
+Otros accesorios/artículos de ayuda/equipos de embalaje/postales;Level 4;10001270;10001270
+Paquetes variados de accesorios/artículos de ayuda/equipos de embalaje/postales;Level 4;10001272;10001272
+Equipo de sellos (no eléctrico);Level 4;10001241;10001241
+Equipo para presentaciones;Level 3;62060600;62060600
+Soportes para mapas móviles;Level 4;10001275;10001275
+Retroproyectores;Level 4;10005445;10005445
+Punteros (no eléctricos);Level 4;10001276;10001276
+Punteros (eléctricos);Level 4;10001277;10001277
+Tableros de presentación (no eléctricos);Level 4;10001278;10001278
+Tableros de presentación (eléctricos);Level 4;10006406;10006406
+Accesorios para equipos de presentación;Level 4;10001281;10001281
+Otros equipos de presentación;Level 4;10001280;10001280
+Paquetes variados de equipos de presentación;Level 4;10001283;10001283
+Mesas para proyectores;Level 4;10005766;10005766
+Cierres/carpetas/adhesivos de escritorio;Level 3;62060700;62060700
+Quitapegamento/pasta adhesiva;Level 4;10005444;10005444
+Accesorios para encuadernaciones;Level 4;10001286;10001286
+Maquinas para encuadernar (no eléctricas);Level 4;10001287;10001287
+Máquinas para encuadernar (eléctricas);Level 4;10001288;10001288
+Cintas adhesivas de escritorio;Level 4;10005126;10005126
+Otros sistemas de sujeción/carpetas/adhesivos de escritorio;Level 4;10001295;10001295
+Paquetes variados de sistemas de sujeción/carpetas/adhesivos de escritorio;Level 4;10001297;10001297
+Sistemas de sujeción de escritorio;Level 4;10001289;10001289
+Pegamentos de escritorio;Level 4;10001292;10001292
+Quitagrapas de escritorio;Level 4;10001298;10001298
+Quitagrapas de escritorio (no eléctricos);Level 4;10001299;10001299
+Grapadoras (eléctricas);Level 4;10001300;10001300
+Cortadoras/recortadoras de escritorio;Level 3;62060800;62060800
+Perforadoras de papel (no eléctricas);Level 4;10001311;10001311
+Perforadoras de papel (eléctricas);Level 4;10001312;10001312
+Guillotinas/recortadoras de escritorio;Level 4;10001302;10001302
+Desmenuzadoras de papel (no eléctricas);Level 4;10001309;10001309
+Desmenuzadoras de papel (eléctricas);Level 4;10005119;10005119
+Otras cortadoras/recortadoras de escritorio;Level 4;10001306;10001306
+Paquetes variados de recortadoras/cortadoras de escritorio;Level 4;10001308;10001308
+Tijeras de papelería;Level 4;10005371;10005371
+Películas/tarjetas/papel de escritorio;Level 3;62061100;62061100
+Papel/formularios de empresas – Impresos previamente;Level 4;10001305;10001305
+Libros de ejercicios;Level 4;10005893;10005893
+Etiquetas/vales/tiques;Level 4;10001313;10001313
+Papel/tarjeta – En blanco;Level 4;10001304;10001304
+Otros artículos de películas/tarjetas/papel de escritorio;Level 4;10005120;10005120
+Paquetes variados de películas/tarjetas/papel de escritorio;Level 4;10005121;10005121
+Transparencias/acetatos;Level 4;10001314;10001314
+Productos de archivo/almacenamiento de escritorio;Level 3;62060900;62060900
+Cubiertas para libros;Level 4;10005125;10005125
+Huchas/cajas para dinero;Level 4;10001316;10001316
+Fundas para lápices / plumas;Level 4;10006897;10006897
+Carpetas/archivadores/ficheros de escritorio;Level 4;10001318;10001318
+Accesorios de escritorio/almacenamiento de elementos de papelería;Level 4;10001320;10001320
+Productos de archivo/almacenamiento de escritorio – Accesorios/recambios;Level 4;10001322;10001322
+Otros productos de archivo/almacenamiento de escritorio;Level 4;10001321;10001321
+Paquetes variados de productos de archivo/almacenamiento de escritorio;Level 4;10001323;10001323
+Artículos/instrumentos para dibujar/escribir;Level 3;62060100;62060100
+Artículos correctores;Level 4;10001226;10001226
+Alfombrilla de escritorio;Level 4;10005206;10005206
+Tinta;Level 4;10001225;10001225
+Equipos geométricos/de medición (papelería);Level 4;10001231;10001231
+Sacapuntas (no eléctrico);Level 4;10001232;10001232
+Sacapuntas (eléctrico);Level 4;10001233;10001233
+Lápices (papelería);Level 4;10001234;10001234
+Bolígrafos (papelería);Level 4;10001235;10001235
+Plantillas de letras (papelería);Level 4;10001236;10001236
+Instrumentos para escribir – Recambios;Level 4;10001229;10001229
+Otros artículos/instrumentos para dibujar/escribir;Level 4;10001228;10001228
+Paquetes variados de artículos/instrumentos para dibujar/escribir;Level 4;10001230;10001230
+Paquetes variados de artículos para celebraciones/maquinaria de oficina/artículos de papelería;Level 2;62070000;62070000
+Paquetes variados de artículos para celebraciones/maquinaria de oficina/artículos de papelería;Level 3;62070100;62070100
+Paquetes variados de artículos para celebraciones/maquinaria de oficina/artículos de papelería;Level 4;10003771;10003771
+Contenedores de almacenamiento/transporte;Level 1;92000000;92000000
+Botellas/garrafas/barriles de almacenamiento (vacíos);Level 2;92010000;92010000
+Barriles/bidones de almacenamiento (vacíos);Level 3;92010300;92010300
+Barriles/barriletes de almacenamiento (vacíos);Level 4;10005846;10005846
+Bidones de almacenamiento (vacíos);Level 4;10005847;10005847
+Botellas/garrafas de almacenamiento (vacías);Level 3;92010100;92010100
+Garrafas de almacenamiento portátiles (vacías);Level 4;10005852;10005852
+Botellas de almacenamiento (vacías);Level 4;10005851;10005851
+Material de almacenamiento/transporte;Level 2;92040000;92040000
+Soportes/convertidores de manipulación de plataformas;Level 3;92040100;92040100
+Carretillas de transporte;Level 4;10005855;10005855
+Cajas/cajones/bandejas de almacenamiento/transporte (vacíos);Level 2;92020000;92020000
+Cajas/cajones/bandejas de almacenamiento/transporte (vacíos);Level 3;92020100;92020100
+Cajas de almacenamiento/transporte (vacías);Level 4;10005848;10005848
+Cajones de almacenamiento/transporte (vacíos);Level 4;10005849;10005849
+Bandejas de almacenamiento/transporte (vacías);Level 4;10005850;10005850
+Materiales de referencia/impresos/de texto;Level 1;60000000;60000000
+Materiales de referencia/impresos/de texto;Level 2;60010000;60010000
+Libros;Level 3;60010200;60010200
+Libros y otras obras impresas;Level 4;10000926;10000926
+Mapas;Level 3;60010400;60010400
+Mapas impresos;Level 4;10004105;10004105
+Publicaciones periódicas;Level 3;60010300;60010300
+Publicaciones periódicas impresas;Level 4;10000928;10000928
+Almacenamiento de herramientas/artículos de taller;Level 1;84000000;84000000
+Almacenamiento de herramientas/artículos de taller;Level 2;84010000;84010000
+Almacenamiento de herramientas;Level 3;84010100;84010100
+Bolsas/pistoleras/cinturones para herramientas;Level 4;10003678;10003678
+Maletines/cajas para herramientas;Level 4;10003676;10003676
+Armarios para herramientas;Level 4;10003674;10003674
+Estuches/bandejas para herramientas;Level 4;10003677;10003677
+Carros para herramientas;Level 4;10003578;10003578
+Otros tipos de almacenamiento de herramientas;Level 4;10005102;10005102
+Paquetes variados de almacenamiento de herramientas;Level 4;10005104;10005104
+Artículos de taller;Level 3;84010200;84010200
+Atriles con rodillos;Level 4;10003572;10003572
+Mesas de fresadora;Level 4;10005806;10005806
+Caballetes de aserrar;Level 4;10003470;10003470
+Mesas de trabajo;Level 4;10003468;10003468
+Otros artículos de taller;Level 4;10005101;10005101
+Accesorios/recambios de artículos de taller;Level 4;10005100;10005100
+Telas/trapos para talleres;Level 4;10005723;10005723
+Herramientas/equipos manuales;Level 1;80000000;80000000
+Herramientas/equipos manuales;Level 2;80010000;80010000
+Punzones/perforadoras/embutidores de clavos;Level 3;80011300;80011300
+Punzones;Level 4;10003490;10003490
+Paquetes variados de clavos/perforadoras/punzones;Level 4;10003778;10003778
+Enclavados/encastrados;Level 4;10003489;10003489
+Perforadoras;Level 4;10003487;10003487
+Equipo de escalada/levantamiento/transporte;Level 3;80010400;80010400
+Equipos de escalada/elevación/transporte – Accesorios/recambios;Level 4;10003822;10003822
+Plataformas/carretillas manuales;Level 4;10003497;10003497
+Repuestos / Accesorios de Escalera;Level 4;10007019;10007019
+Escaleras;Level 4;10003821;10003821
+Plataformas/andamios;Level 4;10003473;10003473
+Tirador de polea (manual);Level 4;10006778;10006778
+Poleas y correas de transmisión;Level 4;10005679;10005679
+Elevadores de succión;Level 4;10003498;10003498
+Carretillas de jardinería o construcción (no eléctricas);Level 4;10003496;10003496
+Cortafríos/gubias;Level 3;80011500;80011500
+Cortafríos;Level 4;10003488;10003488
+Paquetes variados de gubias/cortafríos;Level 4;10003787;10003787
+Gubias;Level 4;10003491;10003491
+Demolición/retirada;Level 3;80010500;80010500
+Palancas/barras para hacer palancas;Level 4;10003499;10003499
+Sacaclavos;Level 4;10003495;10003495
+Máquinas para abrir tuercas;Level 4;10003563;10003563
+Extractores de tornillos;Level 4;10003562;10003562
+Taladradoras (no eléctricas);Level 3;80011100;80011100
+Taladradoras – Accesorios/ recambios;Level 4;10003542;10003542
+Taladradoras (no eléctricas);Level 4;10003541;10003541
+Herramientas de mampostería;Level 3;80010200;80010200
+Accesorios de aplicación de pintura;Level 4;10005656;10005656
+Aplicadores de pintura – No eléctricos;Level 4;10005654;10005654
+Piezas de sustitución de madera;Level 4;10002481;10002481
+Paletas para escayola;Level 4;10003573;10003573
+Cuchillas para placas/espátulas;Level 4;10003476;10003476
+Herramientas para revestimiento de pared/techo – No eléctricas;Level 4;10005672;10005672
+Embudos;Level 3;80012400;80012400
+Embudos (hágalo usted mismo);Level 4;10005714;10005714
+Quemadores de gas/antorchas;Level 3;80012700;80012700
+Linternas de gas;Level 4;10006783;10006783
+Linternas de soldadura;Level 4;10006784;10006784
+Rectificadoras/afiladoras/rasquetas;Level 3;80011000;80011000
+Fresadora (no eléctrica);Level 4;10003538;10003538
+Guías para esmerilado;Level 4;10003539;10003539
+Rasquetas;Level 4;10003543;10003543
+Afiladores de herramientas (no eléctricos);Level 4;10003540;10003540
+Martillos/mazos/hachas/yunques;Level 3;80011600;80011600
+Yunques (hágalo usted mismo);Level 4;10003552;10003552
+Martillos (hágalo usted mismo);Level 4;10003500;10003500
+Martillos/mazos/hachas – Accesorios/recambios;Level 4;10003501;10003501
+Paquetes variados de martillos/mazos/hachas (hágalo usted mismo);Level 4;10003791;10003791
+Hachas (hágalo usted mismo);Level 4;10003789;10003789
+Mazos (hágalo usted mismo);Level 4;10003788;10003788
+Cuchillos (no eléctricos);Level 3;80011400;80011400
+Hojas de cuchillos – No eléctricos (ocio/utilidad);Level 4;10003824;10003824
+Cuchillos – No eléctricos (ocio/utilidad);Level 4;10003492;10003492
+Cuchillos (no eléctricos) – Accesorios/recambios;Level 4;10003823;10003823
+Herramientas para azulejos/vidrio/albañilería;Level 3;80010300;80010300
+Pistola para calafatear (No alimentada);Level 4;10006258;10006258
+Diamantes cortavidrios (no eléctricos);Level 4;10003485;10003485
+Cortadoras/cizallas – Azulejos (no eléctricas);Level 4;10003483;10003483
+Paletas para construcción;Level 4;10003594;10003594
+Pulidoras/llanas;Level 4;10003547;10003547
+Herramientas de señalización/nivelación/medición;Level 3;80010100;80010100
+Calibradores de bisel;Level 4;10005716;10005716
+Calibres (hágalo usted mismo);Level 4;10003463;10003463
+Compás/brújulas (hágalo usted mismo);Level 4;10003454;10003454
+Niveles;Level 4;10003465;10003465
+Marcas de tiza/cuerda;Level 4;10005707;10005707
+Ruedas de medición;Level 4;10003461;10003461
+Micrómetros;Level 4;10003459;10003459
+Medidor de humedad (suelo);Level 4;10006776;10006776
+Lápices/ceras (hágalo usted mismo);Level 4;10003576;10003576
+Plomadas;Level 4;10003466;10003466
+Reglas (hágalo usted mismo);Level 4;10003455;10003455
+Escuadras (hágalo usted mismo);Level 4;10003464;10003464
+Cintas métricas (hágalo usted mismo);Level 4;10003458;10003458
+Detector de fugas térmicas;Level 4;10006777;10006777
+Herramientas para remachar/grapar/clavar;Level 3;80010600;80010600
+Martillo para tachuelas – No eléctrico;Level 4;10003504;10003504
+Herramientas fijar/grapar/clavar – Accesorios/recambios;Level 4;10003507;10003507
+Herramientas para remaches;Level 4;10003505;10003505
+Pistolas de clavos/grapas – No eléctricas;Level 4;10003502;10003502
+Herramientas para tubos/tuberías;Level 3;80012000;80012000
+Barrenas de drenaje – No eléctricas;Level 4;10003564;10003564
+Herramientas de llamas;Level 4;10003549;10003549
+Herramientas de congelación de tuberías;Level 4;10005658;10005658
+Máquinas para enroscar tubos – No eléctricas;Level 4;10003642;10003642
+Cortatubos – No eléctricos;Level 4;10003480;10003480
+Máquinas para doblar tuberías;Level 4;10003548;10003548
+Cepillos/cepilladoras/limas/escofinas;Level 3;80011900;80011900
+Limas;Level 4;10003533;10003533
+Cepillos;Level 4;10003544;10003544
+Paquetes variados de escofinas/limas/cepilladoras/cepillos;Level 4;10003807;10003807
+Escofinas;Level 4;10003534;10003534
+Consumibles para herramientas para dar forma a superficies;Level 4;10003546;10003546
+Herramientas para dar forma a superficies;Level 4;10003545;10003545
+Alicates/pinzas/herramientas para cortar metales;Level 3;80010800;80010800
+Aparatos para cortar cadenas/pernos;Level 4;10003481;10003481
+Herramientas de corte combinadas (no eléctricas);Level 4;10003479;10003479
+Fórceps (hágalo usted mismo);Level 4;10006781;10006781
+Juego de alicates;Level 4;10006780;10006780
+Alicates/pinzas;Level 4;10003532;10003532
+Tijeras/recortadoras/cizallas – Hojas de metal (no eléctricas);Level 4;10003486;10003486
+Cortacables;Level 4;10003482;10003482
+Herramientas neumáticas;Level 3;80012600;80012600
+Pistolas de fluidos;Level 4;10006782;10006782
+Sierras – No eléctricas;Level 3;80011800;80011800
+Hojas – Para sierras – No eléctricas;Level 4;10003800;10003800
+Sierras – Manuales – Recambios/accesorios;Level 4;10003801;10003801
+Sierras – No eléctricas;Level 4;10003799;10003799
+Destornilladores;Level 3;80010700;80010700
+Juegos de destornilladores;Level 4;10003530;10003530
+Destornilladores (no eléctricos);Level 4;10003528;10003528
+Otros destornilladores;Level 4;10003825;10003825
+Destornilladores – Accesorios/ recambios;Level 4;10003826;10003826
+Machos de roscar/moldes (no eléctricos);Level 3;80012200;80012200
+Moldes (no eléctricos);Level 4;10003550;10003550
+Juegos de moldes/machos;Level 4;10003551;10003551
+Machos (no eléctricos);Level 4;10003808;10003808
+Herramientas/equipos – manuales (otros);Level 3;80012800;80012800
+Herramientas/equipos – otro (manual);Level 4;10006845;10006845
+Herramientas/equipos – Paquetes variados de mano;Level 3;80012300;80012300
+Herramientas/equipos – Paquetes variados (manual);Level 4;10005645;10005645
+Tornillos de banco/abrazaderas;Level 3;80010900;80010900
+Abrazaderas;Level 4;10003535;10003535
+Tornillos;Level 4;10003536;10003536
+Tornillos/abrazaderas – Accesorios/recambios;Level 4;10003537;10003537
+Llaves inglesas/llaves de tuercas/llaves;Level 3;80011700;80011700
+Llaves hexagonales;Level 4;10003827;10003827
+Juegos de llaves de vaso;Level 4;10005252;10005252
+Llaves para tubos – Mangos/extensiones para llaves;Level 4;10003797;10003797
+Llaves para tubos/llaves inglesas;Level 4;10003508;10003508
+Juegos de llaves para tubos/llaves inglesas;Level 4;10003796;10003796
+Llaves para tubos/inglesas – Accesorios/recambios;Level 4;10003527;10003527
+Paquetes variados de llaves/para tubos/inglesas;Level 4;10003795;10003795
+Herramientas/equipos eléctricos;Level 1;82000000;82000000
+Herramientas/equipos eléctricos;Level 2;82010000;82010000
+Herramientas eléctricas – Portátiles de mano;Level 3;82010400;82010400
+Blasters abrasivos / arenadores;Level 4;10007026;10007026
+Compresores de aire (portátiles);Level 4;10003555;10003555
+Fresadoras angulares;Level 4;10003644;10003644
+Goniómetros (eléctricos);Level 4;10003619;10003619
+Soldadores por arco;Level 4;10003651;10003651
+Sierras de banda (portátiles);Level 4;10005231;10005231
+Lijadoras de cinta (portátiles);Level 4;10003742;10003742
+Ensambladores;Level 4;10005718;10005718
+Pistolas para calefactar (eléctricas);Level 4;10003664;10003664
+Máquinas mezcladoras de cemento/mortero;Level 4;10005214;10005214
+Cortafríos (eléctricos);Level 4;10003643;10003643
+Sierras circulares;Level 4;10005223;10005223
+Herramientas cortadoras;Level 4;10003645;10003645
+Martillo de demolición;Level 4;10007028;10007028
+Lijadoras para detalles;Level 4;10003672;10003672
+Lijadoras de disco (portátiles);Level 4;10005248;10005248
+Medidores lineales/distanciómetros (eléctricos);Level 4;10003618;10003618
+Barrenas de drenaje (eléctricas);Level 4;10003741;10003741
+Taladradoras/atornilladores (eléctricos);Level 4;10003653;10003653
+Taladradoras combinadas (eléctricas);Level 4;10003658;10003658
+Cámara endoscópica (bricolaje);Level 4;10007029;10007029
+Lijadoras de acabado;Level 4;10003669;10003669
+Cortadoras de espuma (eléctricas);Level 4;10003638;10003638
+Generadores;Level 4;10005211;10005211
+Pistolas de pegamento (eléctricas);Level 4;10005213;10005213
+Engrasadores a presión (eléctricos);Level 4;10003663;10003663
+Kit de taladro de percusión y martillo de impacto;Level 4;10007027;10007027
+Martillos perforadores;Level 4;10003659;10003659
+Pistolas de calor;Level 4;10003662;10003662
+Sierra de agujero;Level 4;10007030;10007030
+Atornilladores de impacto;Level 4;10003655;10003655
+Llaves eléctricas de apretar tornillos;Level 4;10003656;10003656
+Sierras alternativas verticales (eléctricas);Level 4;10003631;10003631
+Cepillos ensambladores (portátiles);Level 4;10003616;10003616
+Cortadoras laminares;Level 4;10003626;10003626
+Niveles láser;Level 4;10003620;10003620
+Detectores de metales;Level 4;10006277;10006277
+Sierras de inglete (portátiles);Level 4;10003738;10003738
+Mezclador / Vibrador;Level 4;10007031;10007031
+Pistolas grapadoras (eléctricas);Level 4;10003666;10003666
+Cizallas/recortadoras de uña vibratoria para metal (eléctricas);Level 4;10003632;10003632
+Multiherramientas Oscilantes;Level 4;10007032;10007032
+Aplicadores de pintura – Eléctricos;Level 4;10005653;10005653
+Cortatubos (eléctricos);Level 4;10003640;10003640
+Otras herramientas eléctricas portátiles de mano;Level 4;10003750;10003750
+Sierras alternativas;Level 4;10003629;10003629
+Martillos giratorios;Level 4;10003660;10003660
+Multiherramientas rotativas;Level 4;10007033;10007033
+Sierras giratorias;Level 4;10003641;10003641
+Buriladoras;Level 4;10003737;10003737
+Rodillos de lijar (eléctrico);Level 4;10007034;10007034
+Pistolas de tornillos;Level 4;10003657;10003657
+Destornilladores/herramientas giratorias;Level 4;10003654;10003654
+Hierros de soldar/metales de soldar;Level 4;10003649;10003649
+Grapadoras (eléctricos);Level 4;10003665;10003665
+Fresadoras neumáticas/rectas;Level 4;10003647;10003647
+Detectores de tachuelas/Detectores/Sensores;Level 4;10005869;10005869
+Fresadoras de superficie;Level 4;10003648;10003648
+Limadoras de superficie/espesor (portátiles);Level 4;10003615;10003615
+Sierras de mesa (portátiles);Level 4;10003627;10003627
+Máquinas de taladrar y roscar tubos;Level 4;10003639;10003639
+Ranurador de pared (eléctrico);Level 4;10007035;10007035
+Herramientas para revestimiento de pared/techo – Otros;Level 4;10003884;10003884
+Sopletes de soldar;Level 4;10003744;10003744
+Herramientas eléctricas – Equipos de manipulación/elevación;Level 3;82010100;82010100
+Izadores/elevadores;Level 4;10003679;10003679
+Herramientas eléctricas – Otros equipos de manipulación/elevación;Level 4;10003749;10003749
+Herramientas eléctricas – Accesorios/recambios de equipos de manipulación/elevación;Level 4;10003680;10003680
+Tirador de polea (eléctrico);Level 4;10006779;10006779
+Carretillas de jardinería o construcción (eléctricas);Level 4;10005221;10005221
+Herramientas eléctricas – Fijas/de banco;Level 3;82010300;82010300
+Compresores de aire (fijos);Level 4;10005230;10005230
+Sierras de banda (fijas);Level 4;10003597;10003597
+Lijadoras de cinta (fijas);Level 4;10003668;10003668
+Rectificadoras de banco;Level 4;10003598;10003598
+Ensambladores de banco;Level 4;10003604;10003604
+Lijadoras combinadas de disco/cinta;Level 4;10003611;10003611
+Lijadoras de disco;Level 4;10003609;10003609
+Taladradoras hidráulicas/mortajadoras;Level 4;10003613;10003613
+Cepillos ensambladores (fijos);Level 4;10003730;10003730
+Tornos (fijos) (eléctricos);Level 4;10003605;10003605
+Accesorios/recambios de herramientas eléctricas fijas;Level 4;10003608;10003608
+Otras herramientas eléctricas fijas;Level 4;10003751;10003751
+Sierras de brazo radial;Level 4;10003603;10003603
+Sierras de arco (fijas);Level 4;10003602;10003602
+Cepilladoras(fijas);Level 4;10003746;10003746
+Lijadoras de torno;Level 4;10003610;10003610
+Limadoras de superficie (fijas);Level 4;10003729;10003729
+Sierras de mesa (fijas);Level 4;10003601;10003601
+Diamantes cortavidrio/sierras para azulejos/sierras refrigeradas con agua;Level 4;10003596;10003596
+Paquetes variados de herramientas eléctricas;Level 3;82010200;82010200
+Paquetes variados de herramientas/equipos eléctricos;Level 4;10003682;10003682
+Accesorios/recambios de herramientas eléctricas portátiles de mano;Level 3;82010900;82010900
+Accesorios de herramientas eléctricas portátiles para perforar/atornillar;Level 4;82010901;82010901
+Accesorios de herramientas eléctricas portátiles para cortar/fresar;Level 4;82010902;82010902
+Accesorios de herramientas eléctricas portátiles para lijar/pulir/cepillar;Level 4;82010903;82010903
+Accesorios de herramientas eléctricas portátiles multipropósito;Level 4;82010904;82010904
+Accesorios de maquinarias para soldar;Level 4;82010905;82010905
+Accesorios de maquinarias para lavar/aspirar;Level 4;82010906;82010906
+Accesorios de maquinarias compresoras;Level 4;82010907;82010907
+Accesorios de maquinarias para generación de energia;Level 4;82010908;82010908
+Otros Accesorios para herramientas eléctricas portatiles/maquinarias;Level 4;82010909;82010909
+Juguetes/juegos;Level 1;86000000;86000000
+Productos para juego;Level 2;86020000;86020000
+Productos para juego;Level 3;86020100;86020100
+Lotería y tarjetas para rascar;Level 4;10006755;10006755
+Juguetes/juegos;Level 2;86010000;86010000
+Puzles/juegos de naipes/juegos de tablero;Level 3;86010100;86010100
+Juegos de tablero (no eléctricos);Level 4;10005133;10005133
+Juegos de tablero (eléctricos);Level 4;10005134;10005134
+Accesorios/recambios de puzles/juegos de naipes/juegos de tablero;Level 4;10005135;10005135
+Otros puzles/juegos de naipes/juegos de tablero;Level 4;10005136;10005136
+Paquetes variados de puzles/juegos de naipes/juegos de tablero;Level 4;10005137;10005137
+Juegos de naipes (no eléctricos);Level 4;10005138;10005138
+Juegos de naipes (eléctricos);Level 4;10005139;10005139
+Puzles (no eléctricos);Level 4;10005140;10005140
+Puzles (eléctricos);Level 4;10005141;10005141
+Juguetes educativos/para el desarrollo;Level 3;86010400;86010400
+Juguetes estimulantes de bebés/niños (no eléctricos);Level 4;10005153;10005153
+Juguetes estimulantes de bebés/niños (eléctricos);Level 4;10005154;10005154
+Juguetes de baño/piscina;Level 4;10005155;10005155
+Juguetes de comunicación (no eléctricos);Level 4;10005156;10005156
+Juguetes de comunicación (eléctricos);Level 4;10005157;10005157
+Otros juguetes educativos/para el desarrollo;Level 4;10005159;10005159
+Paquetes variados de juguetes educativos/para el desarrollo;Level 4;10005160;10005160
+Juguetes para empujar/tirar de ellos (no eléctricos);Level 4;10005161;10005161
+Juguetes para empujar/tirar de ellos (eléctricos);Level 4;10005162;10005162
+Juguetes científicos (no eléctricos);Level 4;10005163;10005163
+Juguetes científicos (eléctricos);Level 4;10005164;10005164
+Peonzas/yo-yos;Level 4;10005165;10005165
+Bloques de construcción de juguete (no eléctricos);Level 4;10005166;10005166
+Bloques de construcción de juguete (eléctricos);Level 4;10005167;10005167
+Accesorios para ordenadores de juguete;Level 4;10005712;10005712
+Ordenadores de juguete;Level 4;10005158;10005158
+Accesorios/tableros de dibujo de juguete;Level 4;10005442;10005442
+Maquetas de juguete (no eléctricas);Level 4;10005168;10005168
+Maquetas de juguete (eléctricas);Level 4;10005169;10005169
+Juguetes ópticos (no eléctricos);Level 4;10005170;10005170
+Juguetes ópticos (eléctricos);Level 4;10005171;10005171
+Muñecas/marionetas/muñecos de peluche;Level 3;86010200;86010200
+Muñecos de acción (no accionados mecánicamente);Level 4;10006395;10006395
+Muñecos de acción (accionados mecánicamente);Level 4;10006396;10006396
+Otras muñecas/marionetas/muñecos de peluche;Level 4;10005144;10005144
+Muñecas/Muñecos de peluche (no eléctricos);Level 4;10005142;10005142
+Muñecas/Muñecos de peluche (eléctricos);Level 4;10005143;10005143
+Marionetas;Level 4;10005145;10005145
+Accesorios de muñecos de peluche/marionetas/muñecas;Level 3;86010300;86010300
+Accesorios para muñecos de acción;Level 4;10006397;10006397
+Accesorios cosméticos/de belleza para muñecas;Level 4;10005146;10005146
+Escenarios/edificios de muñecas;Level 4;10005147;10005147
+Ropa de muñecas;Level 4;10005148;10005148
+Mobiliario de muñecas;Level 4;10005149;10005149
+Otros accesorios para muñecas/marionetas/muñecos de peluche;Level 4;10005150;10005150
+Paquetes variados para muñecas/marionetas/muñecos de peluche;Level 4;10005151;10005151
+Guiñoles;Level 4;10005152;10005152
+Cabezas de muñecas para peluquería (No eléctricos);Level 4;10005439;10005439
+Cabezas de muñecas para peluquería (Eléctricos);Level 4;10005440;10005440
+Disfraces/accesorios;Level 3;86010500;86010500
+Accesorios para disfraces (no eléctricos);Level 4;10005175;10005175
+Accesorios para disfraces (eléctricos);Level 4;10005176;10005176
+Disfraces;Level 4;10005172;10005172
+Otros accesorios/disfraces;Level 4;10005173;10005173
+Paquetes variados de accesorios/disfraces;Level 4;10005174;10005174
+Estructuras de juego/juegos al aire libre;Level 3;86010700;86010700
+Juegos de jardín/al aire libre;Level 4;10005181;10005181
+Otras estructuras de juego/juegos al aire libre;Level 4;10005180;10005180
+Estructuras de juego al aire libre;Level 4;10005182;10005182
+Juguetes musicales;Level 3;86010600;86010600
+Juguetes musicales (no eléctricos);Level 4;10005177;10005177
+Juguetes musicales (eléctricos);Level 4;10005178;10005178
+Otros juguetes musicales;Level 4;10005179;10005179
+Juguetes de rol;Level 3;86011200;86011200
+Juegos de rol – actividades domésticas/jardinería/ juegos de hágalo usted mismo;Level 4;10005684;10005684
+Juguetes de cocina/juguetes de desempeño de papeles;Level 4;10005250;10005250
+Juegos de rol – Juguetes de compras/oficina/empresas;Level 4;10005685;10005685
+Juegos de mesa;Level 3;86010800;86010800
+Juegos de mesa (no eléctricos);Level 4;10005183;10005183
+Juegos de mesa (eléctricos);Level 4;10005184;10005184
+Otros juegos de mesa;Level 4;10005185;10005185
+Vehículos de juguete – No aptos para montarse en ellos;Level 3;86011100;86011100
+Accesorios/recambios de juegos de coches/trenes;Level 4;10005192;10005192
+Juegos de coches/trenes (no eléctricos);Level 4;10005190;10005190
+Juegos de coches/trenes (eléctricos);Level 4;10005191;10005191
+Vehículos de juguete no aptos para montarse en ellos (no eléctricos);Level 4;10005193;10005193
+Vehículos de juguete no aptos para montarse en ellos (eléctricos);Level 4;10005194;10005194
+Otros vehículos de juguete no aptos para montarse en ellos;Level 4;10005195;10005195
+Paquetes variados de vehículos de juguete no aptos para montarse en ellos;Level 4;10005196;10005196
+Juguetes – Correpasillos;Level 3;86011000;86011000
+Juguetes – Correpasillos (no eléctricos);Level 4;10005187;10005187
+Juguetes – Correpasillos (eléctricos);Level 4;10005188;10005188
+Juguetes – Accesorios para juguetes rodados;Level 4;10005441;10005441
+Otros juguetes correpasillos;Level 4;10005189;10005189
+Juguetes / juegos – Otros;Level 3;86011300;86011300
+Bromas;Level 4;10005443;10005443
+Juguetes / juegos – Otros;Level 4;10006899;10006899
